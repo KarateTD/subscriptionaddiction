@@ -1,6 +1,10 @@
 {
     "pet":{
         "name":"Bark Box",
-        "information": "Some info"
+        "information": "Bark Box is a box of dog joy delivered monthly form the dog-obsessed Bark family directly to dogs and their people.  The classic assortment is 2 toys, 2 treats, and one chew tailor fit your dog's breed, size, and needs.  A monthly subscription is $35 a month.  A 6-month pre-paid subscription is $25 a month, totalling $150, twice a year.  A annual pre-paid subscription is $22 a month, totalling $264, once a year.  For more infomation, go to barkbox.com.  "
+    },
+    "box of the week":{
+        "name":"Breo Box",
+        "information":"Breo Box is a seasonal subscription service for both men and women, curated with the coolest most unique products that you never knew you needed.  A seasonal subscription is $159, four times a year.  An annual plan is $579 a year.  For more information, go to www.breobox.com.  "
     }
 }

@@ -4,6 +4,75 @@
 const Alexa = require('ask-sdk-core');
 const data = require('./boxes.json');
 
+const GetPetBoxNameAPIHandler = {
+    canHandle(handlerInput){
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getPetBoxName';
+
+    },
+    handle(handlerInput){
+        const typeName = handlerInput.requestEnvelope.request.apiRequest.arguments.typeName;
+
+        let databaseResponse = `We have no information matching that ${typeName} box type`
+
+        const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
+        console.log("typeName is " + typeName);
+        let type = resolveEntity(apiRequest.slots, "typeName");
+
+        console.log("type is " + type);
+
+        const getBoxNameResultEntity = {};
+        if(type !== null){
+            console.log("in if type");
+            const key = `${type}`;
+            const databaseResponse = data[key];
+
+            console.log("Response from mock database ", databaseResponse);
+
+            getBoxNameResultEntity.name = databaseResponse.name;
+            getBoxNameResultEntity.type = type;
+        }
+
+        const response = buildSuccessApiResponse(getBoxNameResultEntity);
+        console.log("Response is: " + response);
+        return response;
+    }
+}
+
+const GetPetBoxInfoAPIHandler = {
+    canHandle(handlerInput){
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getPetBoxInfo'
+    },
+    handle(handlerInput){
+        const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
+
+        console.log('getBoxNameResult is ', getBoxNameResult);
+        let databaseResponse = `The infomation for the ${getBoxNameResult.type} is missing.`
+
+        let type = getBoxNameResult.type;
+        let name = getBoxNameResult.name;
+
+        console.log("type is " + type + " and name is " + name);
+
+        const getInformationEntity = {};
+
+        if(type !== null){
+            console.log("in if type");
+            const key = `${type}`;
+            const databaseResponse = data[key];
+
+            console.log("Response from mock database ", databaseResponse);
+
+            getInformationEntity.information = databaseResponse.information;
+        }
+
+        const response = buildSuccessApiResponse(getInformationEntity);
+        console.log("Response if: " + response);
+        return response;
+    }
+}
+
 const GetDescriptionAPIHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
@@ -73,6 +142,8 @@ const GetRecommendationAPIHandler = {
 const resolveEntity = function(resolvedEntity, slot) {
 
     //This is built in functionality with SDK Using Alexa's ER
+    console.log("resolved entity is ", resolvedEntity);
+    console.log("slot is ", slot);
     let erAuthorityResolution = resolvedEntity[slot].resolutions
         .resolutionsPerAuthority[0];
     let value = null;
@@ -192,12 +263,10 @@ const ErrorHandler = {
 // defined are included below. The order matters - they're processed top to bottom.
 exports.handler = Alexa.SkillBuilders.custom()
     .addRequestHandlers(
-        LaunchRequestHandler,
-        HelloWorldIntentHandler,
         HelpIntentHandler,
         CancelAndStopIntentHandler,
-        GetDescriptionAPIHandler,
-        GetRecommendationAPIHandler,
+        GetPetBoxNameAPIHandler,
+        GetPetBoxInfoAPIHandler,
         SessionEndedRequestHandler,
         IntentReflectorHandler, // make sure IntentReflectorHandler is last so it doesn't override your custom intent handlers
     )
