@@ -21,6 +21,22 @@ const GetNoToInfoAPIHandler = {
     }
 }
 
+const GetNoToPersonInfoAPIHandler = {
+    canHandle(handlerInput){
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getNoToPersonInfo';
+    },
+    handle(handlerInput){
+        const getPersonGroup = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
+
+        console.log("returning: ", getPersonGroup)
+
+        const response = buildSuccessApiResponse(getPersonGroup);
+        console.log("Response is: ", response);
+        return response;
+    }
+}
+
 const GetPetBoxNameAPIHandler = {
     canHandle(handlerInput){
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
@@ -56,6 +72,36 @@ const GetPetBoxNameAPIHandler = {
     }
 }
 
+const GetPersonBoxInfoAPIHandler = {
+    canHandle(handlerInput){
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getPersonBoxInfo'
+    },
+    handle(handlerInput){
+        const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
+
+        console.log("getPersonGroupName is ", getPersonGroupName);
+
+        let gender = getPersonGroupName.gender;
+        let age = getPersonGroupName.age;
+
+        console.log("gender is ", gender);
+        console.log("age is ", age);
+
+        let key = `${gender}-${age}`
+        console.log("key is ", key);
+
+        const databaseResponse = data[key];
+        console.log("respose from mock database", databaseResponse);
+
+        const getPersonInfoSlotEntity = {};
+        getPersonInfoSlotEntity.information = databaseResponse.information;
+
+        const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
+        return response;
+    }
+}
+
 const GetPetBoxInfoAPIHandler = {
     canHandle(handlerInput){
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
@@ -86,6 +132,43 @@ const GetPetBoxInfoAPIHandler = {
 
         const response = buildSuccessApiResponse(getInformationEntity);
         console.log("Response if: " + response);
+        return response;
+    }
+}
+
+const GetPersonBoxNameAPIHandler = {
+    canHandle(handlerInput){
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getPersonBoxName';
+    },
+    handle(handlerInput){
+        const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
+
+        let gender = resolveEntity(apiRequest.slots, "genderGroup");
+        let age = resolveEntity(apiRequest.slots, "ageGroup");
+        let person = resolveEntity(apiRequest.slots, "person");
+
+        console.log("gender is ", gender);
+        console.log("age is ", age);
+        console.log("person is ", person);
+
+        const getPersonGroupNameEntity = {};
+        if(gender !== null && age !== null){
+            const key = `${gender}-${age}`;
+            console.log("key is ",key);
+
+            const databaseResponse = data[key];
+            console.log("response from mock database", databaseResponse);
+
+            getPersonGroupNameEntity.gender = gender;
+            getPersonGroupNameEntity.age = age;
+            getPersonGroupNameEntity.person = person;
+            getPersonGroupNameEntity.name = databaseResponse.name;   
+            
+            console.log("returning: ", getPersonGroupNameEntity);
+        }
+
+        const response = buildSuccessApiResponse(getPersonGroupNameEntity);
         return response;
     }
 }
@@ -284,6 +367,9 @@ exports.handler = Alexa.SkillBuilders.custom()
         CancelAndStopIntentHandler,
         GetPetBoxNameAPIHandler,
         GetPetBoxInfoAPIHandler,
+        GetPersonBoxNameAPIHandler,
+        GetNoToPersonInfoAPIHandler,
+        GetPersonBoxInfoAPIHandler,
         GetNoToInfoAPIHandler,
         SessionEndedRequestHandler,
         IntentReflectorHandler, // make sure IntentReflectorHandler is last so it doesn't override your custom intent handlers
