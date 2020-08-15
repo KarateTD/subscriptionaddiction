@@ -4,14 +4,16 @@
 const Alexa = require('ask-sdk-core');
 const data = require('./boxes.json');
 
-const GetNoToInfo = {
+const GetNoToInfoAPIHandler = {
     canHandle(handlerInput){
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
-            && handlerInput.requestEnvelope.request.apiRequest.name === 'getPetBoxName';
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getNoToInfo';
 
     },
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
+
+        console.log("returning: ", getBoxNameResult);
 
         const response = buildSuccessApiResponse(getBoxNameResult);
         console.log("Response is: " + response);
@@ -282,6 +284,7 @@ exports.handler = Alexa.SkillBuilders.custom()
         CancelAndStopIntentHandler,
         GetPetBoxNameAPIHandler,
         GetPetBoxInfoAPIHandler,
+        GetNoToInfoAPIHandler,
         SessionEndedRequestHandler,
         IntentReflectorHandler, // make sure IntentReflectorHandler is last so it doesn't override your custom intent handlers
     )
