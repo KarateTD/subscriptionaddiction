@@ -4,6 +4,21 @@
 const Alexa = require('ask-sdk-core');
 const data = require('./boxes.json');
 
+const GetNoToInfo = {
+    canHandle(handlerInput){
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
+            && handlerInput.requestEnvelope.request.apiRequest.name === 'getPetBoxName';
+
+    },
+    handle(handlerInput){
+        const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
+
+        const response = buildSuccessApiResponse(getBoxNameResult);
+        console.log("Response is: " + response);
+        return response;
+    }
+}
+
 const GetPetBoxNameAPIHandler = {
     canHandle(handlerInput){
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
