@@ -63,6 +63,7 @@ const GetPetBoxNameAPIHandler = {
             console.log("Response from mock database ", databaseResponse);
 
             getBoxNameResultEntity.name = databaseResponse.name;
+            getBoxNameResultEntity.image = databaseResponse.image;
             getBoxNameResultEntity.type = type;
         }
 
@@ -96,6 +97,7 @@ const GetPersonBoxInfoAPIHandler = {
 
         const getPersonInfoSlotEntity = {};
         getPersonInfoSlotEntity.information = databaseResponse.information;
+        //getPersonInfoSlotEntity.image = databaseResponse.image;
 
         const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
         return response;
@@ -164,6 +166,7 @@ const GetPersonBoxNameAPIHandler = {
             getPersonGroupNameEntity.age = age;
             getPersonGroupNameEntity.person = person;
             getPersonGroupNameEntity.name = databaseResponse.name;   
+            getPersonGroupNameEntity.image = databaseResponse.image;
             
             console.log("returning: ", getPersonGroupNameEntity);
         }
