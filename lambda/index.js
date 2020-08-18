@@ -97,7 +97,11 @@ const GetPersonBoxInfoAPIHandler = {
 
         const getPersonInfoSlotEntity = {};
         getPersonInfoSlotEntity.information = databaseResponse.information;
-        //getPersonInfoSlotEntity.image = databaseResponse.image;
+        getPersonInfoSlotEntity.name = databaseResponse.name;
+        getPersonInfoSlotEntity.image = databaseResponse.image;
+        getPersonInfoSlotEntity.paragraph1 = databaseResponse.paragraph1;
+        getPersonInfoSlotEntity.paragraph2 = databaseResponse.paragraph2;
+        getPersonInfoSlotEntity.paragraph3 = databaseResponse.paragraph3;
 
         const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
         return response;
