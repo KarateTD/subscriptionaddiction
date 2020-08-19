@@ -1,58 +1,114 @@
 {
     "pet":{
         "name":"Bark Box",
-        "information": "Bark Box is a box of dog joy delivered monthly form the dog-obsessed Bark family directly to dogs and their people.  The classic assortment is 2 toys, 2 treats, and one chew tailor fit your dog's breed, size, and needs.  A monthly subscription is $35 a month.  A 6-month pre-paid subscription is $25 a month, totalling $150, twice a year.  An annual pre-paid subscription is $22 a month, totalling $264, once a year.  For more infomation, go to barkbox.com.  "
+        "information": "Bark Box is a box of dog joy delivered monthly form the dog-obsessed Bark family directly to dogs and their people.  The classic assortment is two toys, two treats, and one chew tailor fit your dog's breed, size, and needs.  A monthly subscription is $35 a month.  A 6-month pre-paid subscription is $25 a month, totaling $150, twice a year.  An annual pre-paid subscription is $22 a month, totaling $264, once a year.  For more information, go to barkbox.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/barkbox.jpg",
+        "paragraph1":"Bark Box is a box of dog joy delivered monthly form the dog-obsessed Bark family directly to dogs and their people.  The classic assortment is two toys, two treats, and one chew tailor fit your dog's breed, size, and needs.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $35/month<br/>6-Month: $25/month = $150 - twice a year<br/>Annual: $22/month = $264 - once a year",
+        "paragraph3":"Website: barkbox.com"
     },
     "box of the week":{
         "name":"Breo Box",
-        "information":"Breo Box is a seasonal subscription service for both men and women, curated with the coolest most unique products that you never knew you needed.  A seasonal subscription is $159, four times a year.  An annual plan is $579 a year.  For more information, go to www.breobox.com.  "
+        "information":"Breo Box is a seasonal subscription service for both men and women, curated with the coolest, most unique products that you never knew you needed.  A seasonal subscription is $159, four times a year.  An annual plan is $579 a year.  For more information, go to www.breobox.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/breobox.jpg",
+        "paragraph1":"Breo Box is a seasonal subscription service for both men and women, curated with the coolest, most unique products that you never knew you needed.",
+        "paragraph2":"<u>Price List:</u><br/>Seasonal: $159<br/>Annual: $579",
+        "paragraph3":"Website: www.breobox.com"
     },
     "male-baby":{
         "name":"Little Bibs Box",
-        "information":"Who says baby bibs have to be boring? Litte Bibs subscription box is packed with premium softe bibs to keep your baby's clothing clean and dry, after feeding or heavy drooling.  Receive 4 specially curated designs every monnth for $19.99.  For more information, go to www.cratejoy.com.  "
+        "information":"Who says baby bibs have to be boring? Litte Bibs subscription box is packed with premium soft bibs to keep your baby's clothing clean and dry, after feeding or heavy drooling.  Receive four specially curated designs every month for $19.99.  For more information, go to www.cratejoy.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/littlebibsbox.jpg",
+        "paragraph1":"Who says baby bibs have to be boring? Litte Bibs subscription box is packed with premium soft bibs to keep your baby's clothing clean and dry, after feeding or heavy drooling.  ",
+        "paragraph2":"<u>Price List:</u><br/>$19.99/month",
+        "paragraph3":"Website: www.cratejoy.com"
     },
     "male-child":{
         "name":"We Craft Box",
-        "information":"We Craft Box is an award-winning monthly kids craft kit delivered to the home of kid ages 3 to 9.  With a themed story, 4 or more coordinating crafts, easy to follow photo directions, and all the materials included, that can be shared between 2 children.  A montly subscription is $29.99 a month.  A 3-month pre-paid subscription is $28.33 a month, totalling $84.99, four times a year.  A 6-month subscription is $26.67, totalling $160.56, twice a month.  An annual pre-paid subscription is $25.00 a month, totalling $300, once a year.  For infor information, go to wecraftbox.com.  "
+        "information":"We Craft Box is an award-winning monthly kids craft kit delivered to the home of kids ages 3 to 9.  With a themed story, four or more coordinating crafts, easy to follow photo directions, and all the materials included, that can be shared between 2 children.  A monthly subscription is $29.99 a month.  A 3-month pre-paid subscription is $28.33 a month, totaling $84.99, four times a year.  A 6-month subscription is $26.67, totaling $160.56, twice a month.  An annual pre-paid subscription is $25.00 a month, totaling $300, once a year.  For more information, go to wecraftbox.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/wecraftbox.jpg",
+        "paragraph1":"We Craft Box is an award-winning monthly kids craft kit delivered to the home of kids ages 3 to 9.  With a themed story, four or more coordinating crafts, easy to follow photo directions, and all the materials included, that can be shared between 2 children.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $29.99/month<br/>3-Month: $28.33/month = $84.99 - four times a year<br/>6-Month: $26.67/month = $160.56 - twice a year<br/>Annual: $25.00/month = $300 - once a year",
+        "paragraph3":"Website: wecraftbox.com"
     },
     "male-teen":{
         "name":"Craftsman Crate",
-        "information":"Craftsman Crate was born when the creator's sons told them there was nothing available for guys who wanted hands-on projects.  Well now there is.  And it's for everybody.  A monthly subscription is $33.77 a month.  A 3-month pre-paid subscription is $32.77 a month, totalling $98.31, four times a year.  A 6-month pre-paid subscription is $31.77 a month, tottalling $190.62, twice a year.  An annual subscription is $30.77 a month, totalling $369.23, once a year.  For more information, go to cratsmancrate.com.  "
+        "information":"Craftsman Crate was born when the creator's sons told them there was nothing available for guys who wanted hands-on projects.  Well, now there is!  And it's for everybody.  A monthly subscription is $33.77 a month.  A 3-month pre-paid subscription is $32.77 a month, totaling $98.31, four times a year.  A 6-month pre-paid subscription is $31.77 a month, totaling $190.62, twice a year.  An annual subscription is $30.77 a month, totaling $369.23, once a year.  For more information, go to craftsmancrate.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/craftsmancrate.jpg",
+        "paragraph1":"Craftsman Crate was born when the creator's sons told them there was nothing available for guys who wanted hands-on projects.  Well, now there is!  And it's for everybody.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $33.77/month<br/>3-Month: $32.77/month = $98.31 - four times a year<br/>6-Month: $31.77/month = $190.62 - twice a year<br/>Annual: $30.77/month = $369.23 - once a year",
+        "paragraph3":"Website: craftsmancrate.com"
     },
     "male-adult":{
         "name":"Hot Sauce of the Month Club",
-        "information":"Get the best artisan hot sauce delivered to your door each month.  Hand curated by the experts at Heat Hot Sauce Shop, only the best sauces are chosen, including many sauces that have wone awards at major hot sauce festivals.  For one classic or medium heat bottle, it's $13.99 a month.  For one hot or extra hot heat bottle, it's $15.99 a month.  For three classic or medium heat bottles, it's $28.99 a month.  For three hot or extra hot bottles, it's $34.99 a month.  For more information, go to cratejoy.com.  "
+        "information":"Get the best artisan hot sauce delivered to your door each month.  Hand curated by the experts at Heat Hot Sauce Shop, only the best sauces are chosen, including many sauces that have won awards at major hot sauce festivals.  For one classic or medium heat bottle, it's $13.99 a month.  For one hot or extra hot heat bottle, it's $15.99 a month.  For three classic or medium heat bottles, it's $28.99 a month.  For three hot or extra hot bottles, it's $34.99 a month.  For more information, go to cratejoy.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hotsauceofthemonthclub.jpg",
+        "paragraph1":"Get the best artisan hot sauce delivered to your door each month.  Hand curated by the experts at Heat Hot Sauce Shop, only the best sauces are chosen, including many sauces that have won awards at major hot sauce festivals.",
+        "paragraph2":"<u>Price List:</u><br/>1 Classic or Medium Bottle: $13.99/month<br>1 Hot or Extra Hot Bottle: $15.99/month<br/>3 Classic or Medium Bottles: $28.99/month<br/>3 Hot or Extra Hot Bottles: $34.99/month",
+        "paragraph3":"Website: cratejoy.com"
     },
     "female-baby":{
         "name":"Lemon Berry",
-        "information":"With the Lemon Berry Box, you will receive 4 hand-tied boes each month.  Small bows are $13.99 a month.  Large bows are $15.99 a month.  For more informaiton, go to cratejoy.com.  "
+        "information":"With the Lemon Berry Box, you will receive four hand-tied bows each month.  Small bows are $13.99 a month.  Large bows are $15.99 a month.  For more information, go to cratejoy.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/lemonberry.jpg",
+        "paragraph1":"With the Lemon Berry Box, you will receive four hand-tied bows each month.",
+        "paragraph2":"<u>Price List:</u><br/>Small Bows: $13.99/month<br/>Large Bows: $15.99/month",
+        "paragraph3":"Website: cratejoy.com"
     },
     "female-child":{
         "name":"IBBeautiful",
-        "information":"IBBeautiful is thoughfully curated with the perfect items for tweens and teenage girls to realize how beautiful they are without comparison to others.  A monthly subscription is $25.00 a month.  For more information, go to www.ibbeautiful.com.  "
+        "information":"IBBeautiful is thoughtfully curated with the perfect items for tweens and teenage girls to realize how beautiful they are without comparison to others.  A monthly subscription is $25.00 a month.  For more information, go to www.ibbeautiful.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/ibbeautiful.jpeg",
+        "paragraph1":"IBBeautiful is thoughtfully curated with the perfect items for tweens and teenage girls to realize how beautiful they are without comparison to others.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $25/month",
+        "paragraph3":"Website: www.ibbeautiful.com"
     },
     "female-teen":{
         "name":"Charm With Me Club",
-        "information":"Charm With Me Club will bring you the most uniquely geeky themed charms so that you can build your own bracelet to your liking.  A monthly subscription is $19.66 a month.  A 3-month pre-paid subscription is $19.66 a month, totalling $58.98, four times a year.  A 6-month pre-paid subscription is $19.33 a month, totalling $115.98, twice a year.  An annual pre-paid subscription is $18.50 a month, totalling $222.00, once a year.  For more informtion, go to www.charmwithmeclub.com.  "
+        "information":"Charm With Me Club will bring you the most uniquely geeky themed charms so that you can build your own bracelet to your liking.  A monthly subscription is $19.99 a month.  A 3-month pre-paid subscription is $19.66 a month, totaling $58.98, four times a year.  A 6-month pre-paid subscription is $19.33 a month, totaling $115.98, twice a year.  An annual pre-paid subscription is $18.50 a month, totaling $222.00, once a year.  For more information, go to www.charmwithmeclub.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/charmwithmeclub.jpg",
+        "paragraph1":"Charm With Me Club will bring you the most uniquely geeky themed charms so that you can build your own bracelet to your liking.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $19.99/month<br/>3-Month: $19.66/month = $58.98 - four times a year<br/>6-Month: $19.33/month = $115.98 - twice a year<br/>Annual: $18.50/month = $222.00 - once a year",
+        "paragraph3":"Website: www.charmwithmeclub.com"
     },
     "female-adult":{
-        "name":"Once Upon a Book",
-        "information":"This is a reading experience like no other.  Each month, you'll receive a newly released book and 3 to 6 wrapped gifts that are labeled wiht page numbers.  As you read, you open a gift.  A monthly subscription is $34.99 a month.  A 3-month pre-paid subscription is $33.66 a month, totalling $100.98, four times a month.  A 6-month pre-paid subscripton is $33.17 a month, totalling $199.02, twice a year.  An annual subscription is $32.50 a month, totalling $390, once a year.  For more information, go to www.onceuponabookclub.com.  "
+        "name":"Once Upon a Book Club",
+        "information":"This subscription is a reading experience like no other.  Each month, you'll receive a newly released book and 3 to 6 wrapped gifts that are labeled with page numbers.  As you read, you open a gift.  A monthly subscription is $34.99 a month.  A 3-month pre-paid subscription is $33.66 a month, totaling $100.98, four times a month.  A 6-month pre-paid subscription is $33.17 a month, totaling $199.02, twice a year.  An annual subscription is $32.50 a month, totaling $390, once a year.  For more information, go to www.onceuponabookclub.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/onceuponabookclub.jpg",
+        "paragraph1":"This subscription is a reading experience like no other.  Each month, you'll receive a newly released book and 3 to 6 wrapped gifts that are labeled with page numbers.  As you read, you open a gift.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $34.99/month<br/>3-Month: $33.66/month = $100.98 - four times a year<br/>6-Month: $33.17/month = $199.02 - twice a year<br/>Annual: $32.50/month = $390 - once a year",
+        "paragraph3":"Website: www.onceuponabookclub.com"
     },
     "neutral-baby":{
         "name":"Tiny Humans Read",
-        "information":"Tiny Humans Read is a monthly book box for kids ages 0 to 3.  Each month you'll get a collection of whimsical stories for your child to treasure.  A monthly subscription is $24.99 a month.  You can pre-pay for 3, 6, or 12 months at the $24.99 monthly price point.  For more information, go to www.tinyhumansread.com.  "
+        "information":"Tiny Humans Read is a monthly book box for kids ages 0 to 3.  Each month you'll get a collection of whimsical stories for your child to treasure.  A monthly subscription is $24.99 a month.  You can pre-pay for 3, 6, or 12 months at the $24.99 monthly price point.  For more information, go to www.tinyhumansread.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/tinyhumansread.jpg",
+        "paragraph1":"Tiny Humans Read is a monthly book box for kids ages 0 to 3.  Each month you'll get a collection of whimsical stories for your child to treasure.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $24.99/month<br/>3-Month: $24.99/month = $74.97 - four times a year<br/>6-Month: $24.99/month = $149.94 - twice a year<br/>Annual: $24.99/month = $299.88 - once a year",
+        "paragraph3":"Website: www.tinyhumansread.com"
     },
     "neutral-child":{
         "name":"Green Kid Crafts",
-        "information":"Empowering the next generation of leaders with hands-on science and art learning.  A monthly subscription is $23.95 a month.  A 3-month pre-paid subscription is $23.32 a month, totalling $69.96, four times a year.  A 6-month pre-paid subscription is $22.83 a month, totalling $$136.98, twice a year.  An annual subscription is 21.91 a month, totalling $262.92, once a year.  For more information, go to www.greenkidcraft.com.  "
+        "information":"Empowering the next generation of leaders with hands-on science and art learning.  A monthly subscription is $23.95 a month.  A 3-month pre-paid subscription is $23.32 a month, totaling $69.96, four times a year.  A 6-month pre-paid subscription is $22.83 a month, totaling $$136.98, twice a year.  An annual subscription is 21.91 a month, totaling $262.92, once a year.  For more information, go to www.greenkidcraft.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/greenkidcrafts.jpg",
+        "paragraph1":"Empowering the next generation of leaders with hands-on science and art learning.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $23.95/month<br/>3-Month: $23.32/month = $69.96 - four times a year<br/>6-Month: $22.83/month = $136.98 - twice a year<br/>Annual: $21.91/month = $262.92 - once a year",
+        "paragraph3":"Website: www.greenkidcraft.com"
     },
     "neutral-teen":{
         "name":"Smiling Socks",
-        "information":"You'll get fun mismatching socks delivered straight to your doorstep every month.  For 1 design a month, it's $17.95.  For 2 designs a month, it's $27.95 a month.  For 3 designs a month, it's $37.95 a month.  For more information, go to cratejoy.com.  "
+        "information":"You'll get fun mismatching socks delivered straight to your doorstep every month.  For one design a month, it's $17.95.  For two designs a month, it's $27.95 a month.  For three designs a month, it's $37.95 a month.  For more information, go to cratejoy.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/smilingsocks.png",
+        "paragraph1":"You'll get fun mismatching socks delivered straight to your doorstep every month.",
+        "paragraph2":"<u>Price List:</u><br/>Two Designs a Month: $17.95/month<br/>Three Designs a Month: $27.95/month",
+        "paragraph3":"Website: cratejoy.com"
     },
     "neutral-adult":{
         "name":"Escape the Crate",
-        "information":"Now you can bring all the fun of an escape room into your home with a different time-travelling adventure delivered every other month.  Work with friends to solve the riddles and conquer the puzzles.  For 1 box over two months, it's $29.99 per box, bi-monthly.  To pre-pay for 2 boxes over 4 months, it's $28.99 per box, totalling $57.98, three times a year.  To pre-pay for 3 boxes over 6 months, it's $27.99 per box, totalling $83.97, twice a year.  To pre-pay for 6 boxes over 12 months, it's $26.50 per box, totalling $159, once a year.  For more information, go to escape-the-crate.com.  "
+        "information":"Now you can bring all the fun of an escape room into your home with a different time-traveling adventure delivered every other month.  Work with friends to solve the riddles and conquer the puzzles.  For one box over two months, it's $29.99 per box, bi-monthly.  To pre-pay for two boxes over four months, it's $28.99 per box, totaling $57.98, three times a year.  To pre-pay for three boxes over six months, it's $27.99 per box, totaling $83.97, twice a year.  To pre-pay for six boxes over twelve months, it's $26.50 per box, totaling $159, once a year.  For more information, go to escape-the-crate.com.  ",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/escapethecrate.png",
+        "paragraph1":"Now you can bring all the fun of an escape room into your home with a different time-traveling adventure delivered every other month.  Work with friends to solve the riddles and conquer the puzzles.",
+        "paragraph2":"<u>Price List:</u><br/>One box over two months: $29.99/bi-monthly<br/>Two boxes over four months: $28.99/bi-monthly = $57.98 - three times a year<br/>Three boxes over six months: $27.99/bi-monthly = $83.97 - twice a year<br/>Six boxes over twelve months: $26.50/bi-monthly = $159 - once a year",
+        "paragraph3":"Website: escape-the-crate.com"
     }
 }

@@ -63,9 +63,10 @@ const GetPetBoxNameAPIHandler = {
             console.log("Response from mock database ", databaseResponse);
 
             getBoxNameResultEntity.name = databaseResponse.name;
+            getBoxNameResultEntity.image = databaseResponse.image;
             getBoxNameResultEntity.type = type;
         }
-
+        
         const response = buildSuccessApiResponse(getBoxNameResultEntity);
         console.log("Response is: " + response);
         return response;
@@ -96,6 +97,11 @@ const GetPersonBoxInfoAPIHandler = {
 
         const getPersonInfoSlotEntity = {};
         getPersonInfoSlotEntity.information = databaseResponse.information;
+        getPersonInfoSlotEntity.name = databaseResponse.name;
+        getPersonInfoSlotEntity.image = databaseResponse.image;
+        getPersonInfoSlotEntity.paragraph1 = databaseResponse.paragraph1;
+        getPersonInfoSlotEntity.paragraph2 = databaseResponse.paragraph2;
+        getPersonInfoSlotEntity.paragraph3 = databaseResponse.paragraph3;
 
         const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
         return response;
@@ -128,6 +134,11 @@ const GetPetBoxInfoAPIHandler = {
             console.log("Response from mock database ", databaseResponse);
 
             getInformationEntity.information = databaseResponse.information;
+            getInformationEntity.name = databaseResponse.name;
+            getInformationEntity.image = databaseResponse.image;
+            getInformationEntity.paragraph1 = databaseResponse.paragraph1;
+            getInformationEntity.paragraph2 = databaseResponse.paragraph2;
+            getInformationEntity.paragraph3 = databaseResponse.paragraph3;
         }
 
         const response = buildSuccessApiResponse(getInformationEntity);
@@ -146,11 +157,11 @@ const GetPersonBoxNameAPIHandler = {
 
         let gender = resolveEntity(apiRequest.slots, "genderGroup");
         let age = resolveEntity(apiRequest.slots, "ageGroup");
-        let person = resolveEntity(apiRequest.slots, "person");
+        //let person = resolveEntity(apiRequest.slots, "person");
 
         console.log("gender is ", gender);
         console.log("age is ", age);
-        console.log("person is ", person);
+        //console.log("person is ", person);
 
         const getPersonGroupNameEntity = {};
         if(gender !== null && age !== null){
@@ -162,8 +173,9 @@ const GetPersonBoxNameAPIHandler = {
 
             getPersonGroupNameEntity.gender = gender;
             getPersonGroupNameEntity.age = age;
-            getPersonGroupNameEntity.person = person;
+            getPersonGroupNameEntity.person = "person";
             getPersonGroupNameEntity.name = databaseResponse.name;   
+            getPersonGroupNameEntity.image = databaseResponse.image;
             
             console.log("returning: ", getPersonGroupNameEntity);
         }
