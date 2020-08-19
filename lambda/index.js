@@ -16,7 +16,7 @@ const GetNoToInfoAPIHandler = {
         console.log("returning: ", getBoxNameResult);
 
         const response = buildSuccessApiResponse(getBoxNameResult);
-        console.log("Response is: " + response);
+        console.log("Response is: ", response);
         return response;
     }
 }
@@ -68,7 +68,7 @@ const GetPetBoxNameAPIHandler = {
         }
         
         const response = buildSuccessApiResponse(getBoxNameResultEntity);
-        console.log("Response is: " + response);
+        console.log("Response is: ", response);
         return response;
     }
 }
@@ -104,6 +104,7 @@ const GetPersonBoxInfoAPIHandler = {
         getPersonInfoSlotEntity.paragraph3 = databaseResponse.paragraph3;
 
         const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
+        console.log("Response is: ", response);
         return response;
     }
 }
@@ -142,7 +143,7 @@ const GetPetBoxInfoAPIHandler = {
         }
 
         const response = buildSuccessApiResponse(getInformationEntity);
-        console.log("Response if: " + response);
+        console.log("Response if: ", response);
         return response;
     }
 }
@@ -181,6 +182,7 @@ const GetPersonBoxNameAPIHandler = {
         }
 
         const response = buildSuccessApiResponse(getPersonGroupNameEntity);
+        console.log("Response is: ", response);
         return response;
     }
 }
@@ -217,7 +219,6 @@ return response;
 
     }
 }
-
 
 const GetRecommendationAPIHandler = {
     canHandle(handlerInput) {
