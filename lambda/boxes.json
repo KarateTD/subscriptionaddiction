@@ -25,7 +25,7 @@
     },
     "male-child":{
         "name":"We Craft Box",
-        "information":"We Craft Box is an award-winning monthly kids craft kit delivered to the home of kids ages 3 to 9.  With a themed story, four or more coordinating crafts, easy to follow photo directions, and all the materials included, that can be shared between 2 children.  A monthly subscription is $29.99 a month.  A 3-month pre-paid subscription is $28.33 a month, totaling $84.99, four times a year.  A 6-month subscription is $26.67, totaling $160.56, twice a month.  An annual pre-paid subscription is $25.00 a month, totaling $300, once a year.  For more information, go to wecraftbox.com.  ",
+        "information":"We Craft Box is an award-winning monthly kids craft kit delivered to the home of kids ages 3 to 9.  With a themed story, four or more coordinating crafts, easy to follow photo directions, and all the materials included, that can be shared between 2 children.  A monthly subscription is $29.99 a month.  A 3-month pre-paid subscription is $28.33 a month, totaling $84.99, four times a year.  A 6-month subscription is $26.67, totaling $160.56, twice a year.  An annual pre-paid subscription is $25.00 a month, totaling $300, once a year.  For more information, go to wecraftbox.com.  ",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/wecraftbox.jpg",
         "paragraph1":"We Craft Box is an award-winning monthly kids craft kit delivered to the home of kids ages 3 to 9.  With a themed story, four or more coordinating crafts, easy to follow photo directions, and all the materials included, that can be shared between 2 children.",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $29.99/month<br/>3-Month: $28.33/month = $84.99 - four times a year<br/>6-Month: $26.67/month = $160.56 - twice a year<br/>Annual: $25.00/month = $300 - once a year",
@@ -41,7 +41,7 @@
     },
     "male-adult":{
         "name":"Hot Sauce of the Month Club",
-        "information":"Get the best artisan hot sauce delivered to your door each month.  Hand curated by the experts at Heat Hot Sauce Shop, only the best sauces are chosen, including many sauces that have won awards at major hot sauce festivals.  For one classic or medium heat bottle, it's $13.99 a month.  For one hot or extra hot heat bottle, it's $15.99 a month.  For three classic or medium heat bottles, it's $28.99 a month.  For three hot or extra hot bottles, it's $34.99 a month.  For more information, go to cratejoy.com.  ",
+        "information":"Get the best artisan hot sauce delivered to your door each month.  Hand curated by the experts at Heat Hot Sauce Shop, only the best sauces are chosen, including many sauces that have won awards at major hot sauce festivals.  For one classic or medium heat bottle, it's $13.99 a month.  For one hot or extra hot heat bottle, it's $15.99 a month.  For three classic or medium heat bottles, it's $28.99 a month.  For three hot or extra hot heat bottles, it's $34.99 a month.  For more information, go to cratejoy.com.  ",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hotsauceofthemonthclub.jpg",
         "paragraph1":"Get the best artisan hot sauce delivered to your door each month.  Hand curated by the experts at Heat Hot Sauce Shop, only the best sauces are chosen, including many sauces that have won awards at major hot sauce festivals.",
         "paragraph2":"<u>Price List:</u><br/>1 Classic or Medium Bottle: $13.99/month<br>1 Hot or Extra Hot Bottle: $15.99/month<br/>3 Classic or Medium Bottles: $28.99/month<br/>3 Hot or Extra Hot Bottles: $34.99/month",
@@ -73,7 +73,7 @@
     },
     "female-adult":{
         "name":"Once Upon a Book Club",
-        "information":"This subscription is a reading experience like no other.  Each month, you'll receive a newly released book and 3 to 6 wrapped gifts that are labeled with page numbers.  As you read, you open a gift.  A monthly subscription is $34.99 a month.  A 3-month pre-paid subscription is $33.66 a month, totaling $100.98, four times a month.  A 6-month pre-paid subscription is $33.17 a month, totaling $199.02, twice a year.  An annual subscription is $32.50 a month, totaling $390, once a year.  For more information, go to www.onceuponabookclub.com.  ",
+        "information":"This subscription is a reading experience like no other.  Each month, you'll receive a newly released book and 3 to 6 wrapped gifts that are labeled with page numbers.  As you read, you open a gift.  A monthly subscription is $34.99 a month.  A 3-month pre-paid subscription is $33.66 a month, totaling $100.98, four times a year.  A 6-month pre-paid subscription is $33.17 a month, totaling $199.02, twice a year.  An annual subscription is $32.50 a month, totaling $390, once a year.  For more information, go to www.onceuponabookclub.com.  ",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/onceuponabookclub.jpg",
         "paragraph1":"This subscription is a reading experience like no other.  Each month, you'll receive a newly released book and 3 to 6 wrapped gifts that are labeled with page numbers.  As you read, you open a gift.",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $34.99/month<br/>3-Month: $33.66/month = $100.98 - four times a year<br/>6-Month: $33.17/month = $199.02 - twice a year<br/>Annual: $32.50/month = $390 - once a year",
@@ -100,7 +100,7 @@
         "information":"You'll get fun mismatching socks delivered straight to your doorstep every month.  For one design a month, it's $17.95.  For two designs a month, it's $27.95 a month.  For three designs a month, it's $37.95 a month.  For more information, go to cratejoy.com.  ",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/smilingsocks.png",
         "paragraph1":"You'll get fun mismatching socks delivered straight to your doorstep every month.",
-        "paragraph2":"<u>Price List:</u><br/>Two Designs a Month: $17.95/month<br/>Three Designs a Month: $27.95/month",
+        "paragraph2":"<u>Price List:</u><br/>One Design a Month: $17.95/month<br/>Two Designs a Month: $27.95/month<br/>Three Designs a Month: $37.95/month",
         "paragraph3":"Website: cratejoy.com"
     },
     "neutral-adult":{
