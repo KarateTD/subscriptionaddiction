@@ -47,7 +47,7 @@ const GetPetBoxNameAPIHandler = {
         const typeName = handlerInput.requestEnvelope.request.apiRequest.arguments.typeName;
 
         let databaseResponse = `We have no information matching that ${typeName} box type`
-
+        console.log("Entering GetPetBoxNameAPIHandler");
         const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
         console.log("typeName is " + typeName);
         let type = resolveEntity(apiRequest.slots, "typeName");
@@ -68,7 +68,7 @@ const GetPetBoxNameAPIHandler = {
         }
         
         const response = buildSuccessApiResponse(getBoxNameResultEntity);
-        console.log("Response is: ", response);
+        console.log("GetPetBoxNameAPIHandler Response is: ", response);
         return response;
     }
 }
@@ -80,7 +80,7 @@ const GetPersonBoxInfoAPIHandler = {
     },
     handle(handlerInput){
         const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
-
+        console.log("Entering GetPersonBoxInfoAPIHandler");
         console.log("getPersonGroupName is ", getPersonGroupName);
 
         let gender = getPersonGroupName.gender;
@@ -104,7 +104,7 @@ const GetPersonBoxInfoAPIHandler = {
         getPersonInfoSlotEntity.paragraph3 = databaseResponse.paragraph3;
 
         const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
-        console.log("Response is: ", response);
+        console.log("GetPersonBoxInfoAPIHandler Response is: ", response);
         return response;
     }
 }
@@ -116,7 +116,7 @@ const GetPetBoxInfoAPIHandler = {
     },
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
-
+        console.log("Entering GetPetBoxInfoAPIHandler");
         console.log('getBoxNameResult is ', getBoxNameResult);
         let databaseResponse = `The infomation for the ${getBoxNameResult.type} is missing.`
 
@@ -143,7 +143,7 @@ const GetPetBoxInfoAPIHandler = {
         }
 
         const response = buildSuccessApiResponse(getInformationEntity);
-        console.log("Response if: ", response);
+        console.log("GetPetBoxInfoAPIHandler Response if: ", response);
         return response;
     }
 }
@@ -155,7 +155,7 @@ const GetPersonBoxNameAPIHandler = {
     },
     handle(handlerInput){
         const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
-
+        console.log("Entering GetPetBoxInfoAPIHandler");
         let gender = resolveEntity(apiRequest.slots, "genderGroup");
         let age = resolveEntity(apiRequest.slots, "ageGroup");
         //let person = resolveEntity(apiRequest.slots, "person");
@@ -182,7 +182,7 @@ const GetPersonBoxNameAPIHandler = {
         }
 
         const response = buildSuccessApiResponse(getPersonGroupNameEntity);
-        console.log("Response is: ", response);
+        console.log("GetPetBoxInfoAPIHandler Response is: ", response);
         return response;
     }
 }
