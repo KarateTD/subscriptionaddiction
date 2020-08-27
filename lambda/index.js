@@ -4,6 +4,10 @@
 const Alexa = require('ask-sdk-core');
 const data = require('./boxes.json');
 
+let genderConst;
+let ageConst;
+let returningEntity;
+
 const GetNoToInfoAPIHandler = {
     canHandle(handlerInput){
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'Dialog.API.Invoked'
@@ -29,10 +33,10 @@ const GetNoToPersonInfoAPIHandler = {
     handle(handlerInput){
         const getPersonGroup = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
 
-        console.log("returning: ", getPersonGroup)
-
-        const response = buildSuccessApiResponse(getPersonGroup);
+        console.log("******** In GetNoToPersonInfoAPIHandler ***********");
+        const response = returningEntity;
         console.log("Response is: ", response);
+        console.log("******* exiting: GetNoToPersonInfoAPIHandler *********")
         return response;
     }
 }
@@ -80,20 +84,12 @@ const GetPersonBoxInfoAPIHandler = {
     },
     handle(handlerInput){
         const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
-        console.log("Entering GetPersonBoxInfoAPIHandler");
-        console.log("getPersonGroupName is ", getPersonGroupName);
-
-        let gender = getPersonGroupName.gender;
-        let age = getPersonGroupName.age;
-
-        console.log("gender is ", gender);
-        console.log("age is ", age);
-
-        let key = `${gender}-${age}`
+        console.log("******* Entering GetPersonBoxInfoAPIHandler *********");
+        let key = `${genderConst}-${ageConst}`
         console.log("key is ", key);
 
         const databaseResponse = data[key];
-        console.log("respose from mock database", databaseResponse);
+        console.log("respose from mock database ", databaseResponse);
 
         const getPersonInfoSlotEntity = {};
         getPersonInfoSlotEntity.information = databaseResponse.information;
@@ -104,7 +100,10 @@ const GetPersonBoxInfoAPIHandler = {
         getPersonInfoSlotEntity.paragraph3 = databaseResponse.paragraph3;
 
         const response = buildSuccessApiResponse(getPersonInfoSlotEntity);
+        returningEntity = response;
+        // console.log("returningEntity is ", returningEntity);
         console.log("GetPersonBoxInfoAPIHandler Response is: ", response);
+        console.log("******* exiting: GetPersonBoxInfoAPIHandler **********");
         return response;
     }
 }
@@ -155,14 +154,14 @@ const GetPersonBoxNameAPIHandler = {
     },
     handle(handlerInput){
         const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
-        console.log("Entering GetPetBoxInfoAPIHandler");
+        console.log("******* Entering GetPersonBoxNameAPIHandler ********");
         let gender = resolveEntity(apiRequest.slots, "genderGroup");
         let age = resolveEntity(apiRequest.slots, "ageGroup");
-        //let person = resolveEntity(apiRequest.slots, "person");
+        genderConst = gender;
+        ageConst = age;
 
         console.log("gender is ", gender);
         console.log("age is ", age);
-        //console.log("person is ", person);
 
         const getPersonGroupNameEntity = {};
         if(gender !== null && age !== null){
@@ -182,7 +181,11 @@ const GetPersonBoxNameAPIHandler = {
         }
 
         const response = buildSuccessApiResponse(getPersonGroupNameEntity);
-        console.log("GetPetBoxInfoAPIHandler Response is: ", response);
+        returningEntity = response;
+        
+        console.log("GetPersonBoxNameAPIHandler Response is: ", response);
+        console.log("returningEntity is ", returningEntity);
+        console.log("******* Exiting GetPersonBoxNameAPIHandler ********");
         return response;
     }
 }
