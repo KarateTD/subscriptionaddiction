@@ -1,6 +1,6 @@
 {
     "pet":{
-        "name":"Als Pals Pet Place",
+        "name":"Al's Pals Pet Place",
         "information":"Each month our box will have the highest quality treats, great toys, and a surprise.  There will be a different theme each month as well.  A monthly subscription is $30.00 a month.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/alspalspetplace.jpg",
         "paragraph1":"Each month our box will have the highest quality treats, great toys, and a surprise.  There will be a different theme each month as well.",
@@ -17,7 +17,7 @@
     },
     "male-baby":{
         "name":"What a Babe! Kids Studio",
-        "information":"From the popular L.A. kids studio, bring our beloved Magic Touch sensory class home.  Watch your little one light up with delight as they squish, crinkle, and splat!  A monthly subcription is $49.00 a month.  For more information, go to cratejoy.com.",
+        "information":"From the popular L.A. kids studio, bring our beloved Magic Touch sensory class home.  Watch your little one light up with delight as they squish, crinkle, and splat!  A monthly subscription is $49.00 a month.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/whatababekidsstudio.jpg",
         "paragraph1":"From the popular L.A. kids studio, bring our beloved Magic Touch sensory class home.  Watch your little one light up with delight as they squish, crinkle, and splat!",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $49/month",
@@ -33,9 +33,9 @@
     },
     "male-teen":{
         "name":"Mascot Monthly Box",
-        "information":"Mascot Monthly Box is the only Japanese snack box that is curated by friendly mascot characters.  Take a monthly taste-tour of Japan with local specialities from their hometown, and share a bite of some of the weird and wonderful snacks that they love.  A monthly subscription is $38.50 a month.  A 3-month pre-paid subscription is $37.00 a month, totaling $111.00, four times a year.  A 6-month pre-paid subscription is $35.50 a month, totaling $219.00, twice a year.  An annual subscription is $35.50 a month, totaling $426.00, once a year.  For more information, www.mascotmix.com.",
+        "information":"Mascot Monthly Box is the only Japanese snack box that is curated by friendly mascot characters.  Take a monthly taste-tour of Japan with local specialties from their hometown, and share a bite of some of the weird and wonderful snacks that they love.  A monthly subscription is $38.50 a month.  A 3-month pre-paid subscription is $37.00 a month, totaling $111.00, four times a year.  A 6-month pre-paid subscription is $35.50 a month, totaling $219.00, twice a year.  An annual subscription is $35.50 a month, totaling $426.00, once a year.  For more information, go to www.mascotmix.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/mascotmonthlybox.jpg",
-        "paragraph1":"Mascot Monthly Box is the only Japanese snack box that is curated by friendly mascot characters.  Take a monthly taste-tour of Japan with local specialities from their hometown, and share a bite of some of the weird and wonderful snacks that they love.",
+        "paragraph1":"Mascot Monthly Box is the only Japanese snack box that is curated by friendly mascot characters.  Take a monthly taste-tour of Japan with local specialties from their hometown, and share a bite of some of the weird and wonderful snacks that they love.",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $38.50/month<br/>3-Month: $37/month = $111 - 4 times a year<br/>6-Month: $35.50/month = $219 - twice a year<br/>Annual: $$35.50/month = $426 - once a year",
         "paragraph3":"Website: www.mascotmix.com"
     },
@@ -57,9 +57,9 @@
     },
     "female-child":{
         "name":"Creative Crayons Coloring Box",
-        "information":"Mail just got more fun with this subscription box for creative kids who love crayons.  Each box if filled with a variety of creatively shaped, themed crayons as well as customized 'color your own' activities.  For the standard creative crayons coloring box, it's $33.33 a month.  For the deluxe creative crayons coloring box, it's $45.83 a month.  For more information, go to cratejoy.com.",
+        "information":"Mail just got more fun with this subscription box for creative kids who love crayons.  Each box is filled with a variety of creatively shaped, themed crayons as well as customized 'color your own' activities.  For the standard creative crayons coloring box, it's $33.33 a month.  For the deluxe creative crayons coloring box, it's $45.83 a month.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/creativecrayonscoloringbox.jpg",
-        "paragraph1":"Mail just got more fun with this subscription box for creative kids who love crayons.  Each box if filled with a variety of creatively shaped, themed crayons as well as customized 'color your own' activities.",
+        "paragraph1":"Mail just got more fun with this subscription box for creative kids who love crayons.  Each box is filled with a variety of creatively shaped, themed crayons as well as customized 'color your own' activities.",
         "paragraph2":"<u>Price List:</u><br/>Standard Creative Crayons Coloring Box: $33.33/month<br/>Deluxe Creative Crayons Coloring Box: $45.83/month",
         "paragraph3":"Website: cratejoy.com"
     },
@@ -73,17 +73,17 @@
     },
     "female-adult":{
         "name":"Craftee DIY",
-        "information":"Unlock your inner creative with the Craftee box, a monthly subscription of Intagram-worthy DIY projects.  In each Craftee Box you'll find everything you need to create a fun and unique DIY project plus other surprises.  A monthly subscription is $36.00 a month.  A 3-month pre-paid subscription is $34.00 a month, totaling $103.00, four times a year.  A 6-month pre-paid subscription is $30.83 a month, totaling $185.00, twice a year.  For more information, go to cratejoy.com.",
+        "information":"Unlock your inner creative with the Craftee box, a monthly subscription of Instagram-worthy DIY projects.  In each Craftee Box you'll find everything you need to create a fun and unique DIY project plus other surprises.  A monthly subscription is $36.00 a month.  A three-month pre-paid subscription is $34.00 a month, totaling $103.00, four times a year.  A 6-month pre-paid subscription is $30.83 a month, totaling $185.00, twice a year.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/crafteediy.jpg",
-        "paragraph1":"Unlock your inner creative with the Craftee box, a monthly subscription of Intagram-worthy DIY projects.  In each Craftee Box you'll find everything you need to create a fun and unique DIY project plus other surprises.",
+        "paragraph1":"Unlock your inner creative with the Craftee box, a monthly subscription of Instagram-worthy DIY projects.  In each Craftee Box you'll find everything you need to create a fun and unique DIY project plus other surprises.",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $36/month<br/>3-Month: $34/month = $103 - 4 times a year<br/>6-Month: $30.83/month = $185 - twice a year",
         "paragraph3":"Website: cratejoy.com"
     },
     "neutral-baby":{
         "name":"I Can Read Kids Book Club",
-        "information":"Kids book club designed for families learning at home.  New books delivered monthly personalized by reading level, age, and grade.  A monthly subscription is $12.95 a month.  A 3-month pre-paid subscription is $11.00 a month, totaling $33.00, four times a year.  A 6-month pre-paid subscription is $9.99 a month, totaling $59.95, twice a year.  An annual subscription is $9.58 a month, totaling $115.00, once a year.  For more information, go to icanread.com.",
+        "information":"Kids book club is designed for families learning at home.  New books delivered monthly personalized by reading level, age, and grade.  A monthly subscription is $12.95 a month.  A 3-month pre-paid subscription is $11.00 a month, totaling $33.00, four times a year.  A 6-month pre-paid subscription is $9.99 a month, totaling $59.95, twice a year.  An annual subscription is $9.58 a month, totaling $115.00, once a year.  For more information, go to icanread.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/icanreadkidsbookclub.jpg",
-        "paragraph1":"Kids book club designed for families learning at home.  New books delivered monthly personalized by reading level, age, and grade.",
+        "paragraph1":"Kids book club is designed for families learning at home.  New books delivered monthly personalized by reading level, age, and grade.",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $12.95/month<br/>3-Month: $11/month = $33 - four times a year<br/>6-Month: $9.99/month = $59.95 - twice a year<br/>Annual: $9.58/month = $115 - once a year",
         "paragraph3":"Website: icanread.com"
     },
@@ -108,7 +108,7 @@
         "information":"Desk Stash is a curated collection of unique office supplies and desk accessories we have tested and we love.  The goal of Desk Stash is to inspire you to work more creatively, and have fun while doing it.  For 1 box over 3 months, it's $45.00 a box, every 3 months.  For 2 boxes over 6 months, it's $45 a box, totaling $90, twice a year.  For 4 boxes over 12 months, it's $42.00 a box, totaling $170.00, once a year.  For more information, go to www.deskstash.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/deskstash.jpg",
         "paragraph1":"Desk Stash is a curated collection of unique office supplies and desk accessories we have tested and we love.  The goal of Desk Stash is to inspire you to work more creatively, and have fun while doing it.",
-        "paragraph2":"<u>Price List:</u><br/>One box over 3 months: $45/box<br/>Two boxes over 6 months: $45/box = $90 - twice a year<br/>Four boxes over 12 months: $42 = $170 - once a year",
+        "paragraph2":"<u>Price List:</u><br/>One box over 3 months: $45/box<br/>Two boxes over 6 months: $45/box = $90 - twice a year<br/>Four boxes over 12 months: $42/box = $170 - once a year",
         "paragraph3":"Website: www.deskstash.com"
     }
 }
