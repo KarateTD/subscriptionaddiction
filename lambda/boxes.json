@@ -1,114 +1,114 @@
 {
     "pet":{
-        "name":"Feathered Fun Box",
-        "information":"The Feathered Fun Box is a themed subscription box perfect for your bird companion.  Boxes include toys, snacks, and parrot products carefully selected by our team to bring you and your bird joy.  Choose from two box types: Small birds and Large birds.  The following prices is for small birds.  A monthly subscription is $49.98 a month.  A three-month pre-paid subscription is $47 a month, totaling $141, four times a year.  A six-month pre-paid subscription is $45 a month, totaling $270, twice a year.  An annual subscription is $43 a month, totaling $516, once a year.  For more information, go to www.featheredfunbox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thefeatheredfunbox.jpeg",
-        "paragraph1":"The Feathered Fun Box is a themed subscription box perfect for your bird companion.  Boxes include toys, snacks, and parrot products carefully selected by our team to bring you and your bird joy.  Choose from two box types: Small birds and Large birds.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $49.98/month<br/>3-Month: $47/month = $141 - 4 times a year<br/>6-Month: $45/month = $270 - twice a year<br/>Annual: $43/month = $516 - once a year",
-        "paragraph3":"Website: www.featheredfunbox.com"
+        "name":"Catnipporium",
+        "information":"Each montly box contains 5 cat pillows, all with different patterns matched for the month, a single BIG kicker, plus a secret treat or toy for your special furry friend! Every pillow is stuffed with super fresh all natral catnip! A monthly subscription is $18 a month.  A three-month pre-paid subscription is $15 a month, totaling $45, four times a year.  For more information, go to www.catnipporium.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/catnipporium.jpeg",
+        "paragraph1":"Each montly box contains 5 cat pillows, all with different patterns matched for the month, a single BIG kicker, plus a secret treat or toy for your special furry friend! Every pillow is stuffed with super fresh all natral catnip!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $18/month<br/>3-Month: $15 = $45 - 4 times a year",
+        "paragraph3":"Website: www.catnipporium.com"
     },
     "box of the week":{
-        "name":"Vices",
-        "information":"Vices is a membership program centered on a monthly delivery of storied treasures.  Every month brings a fresh collection of incredible products and experiences that have been curated for your enjoyment.  A monthly subscription is $129.95 a month.  A three-month pre-paid subscription is $119.95, totaling $359.85, four times a year.  A six-month pre-paid subscription is $109.95, totaling $659.70, twice a year.  An annual subscription is $99.95 a month, totaling $1199.40, once a year.  For more information, go to vices.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/vices.jpg",
-        "paragraph1":"Vices is a membership program centered on a monthly delivery of storied treasures.  Every month brings a fresh collection of incredible products and experiences that have been curated for your enjoyment.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $129.95/month<br/>3-Month: $119.95/month = $359.85 - 4 times a year<br/>6-Month: $109.95/month = $659.70 - twice a year<br/>Annual: $99.95/month = $1199.40 - once a year",
-        "paragraph3":"Website: vices.com"
+        "name":"FabFitFun",
+        "information":"Once a season, FabFitFun delivers the best in women's lifestyle products.  Subscribers will receive 8 to 10 full-sized beauty products, wellness items, fitness gear, and home goods.  Customize your quarterly box with add-ons and preferred products, or let it be a surprise.  A quarterly subscription is $49.99 a season.  An annual subscription is $179.99.  For more information, go to www.fabfitfun.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/fabfitfun.jpeg",
+        "paragraph1":"Once a season, FabFitFun delivers the best in women's lifestyle products.  Subscribers will receive 8 to 10 full-sized beauty products, wellness items, fitness gear, and home goods.  Customize your quarterly box with add-ons and preferred products, or let it be a surprise.",
+        "paragraph2":"<u>Price List</u><br/>Quarterly: $49.99<br/>Annual: $179.99",
+        "paragraph3":"Website: www.fabfitfun.com"
     },
     "male-baby":{
-        "name":"My TOT Box",
-        "information":"Each Tot Box includes unique baby products specially curated for babies by parents and grandparents.  They also make great baby shower gifts for new moms and expecting parents.  For 1 box over 3 months, it's $49.95 every 3 months.  For 2 boxes over 6 months, it's $47.46 a box, totaling $94.92, twice a year.  For 4 boxes over 12 months, it's $42.46 a box, totaling $169.84, once a year.  For more information, go to mytotbox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/mytotbox.png",
-        "paragraph1":"Each Tot Box includes unique baby products specially curated for babies by parents and grandparents.  They also make great baby shower gifts for new moms and expecting parents.",
-        "paragraph2":"<u>Price List</u><br/>One box over 3 months: $49.95/box<br/>Two boxes over 6 months: $47.46/box = $94.92 - twice a year<br/>Four boxes over 12 months: $42.46/box = $169.84 - once a year",
-        "paragraph3":"Website: mytotbox.com"
+        "name":"Reading Bug Box",
+        "information":"Perfectly personalized to every child's age, interests and reading level by the expert staff of our independent Children's Bookstore.  A monthly subscription is $19.99 a month.  A three-month pre-paid subscription is $19.50 a month, totaling $58.50, four times a year.  A six-month pre-paid subscription is $19 a month, totaling $114, twice a year.  An annual subscription is $18 a month, totaling $216, once a year.  For more information, go to www.readingbugbox.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/readingbugbox.jpg",
+        "paragraph1":"Perfectly personalized to every child's age, interests and reading level by the expert staff of our independent Children's Bookstore.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $19.99/month<br/>3-Month: $19.50/month = $58.50 - 4 times a year<br/>6-Month: $19/month = $114 - twice a year<br/>Annual: $18/month = $216 - once a year",
+        "paragraph3":"Website: www.readingbugbox"
     },
     "male-child":{
-        "name":"Paletteful Packs",
-        "information":"Paletteful Packs is a monthly art subscription service that wants to bring the best art supplies to you, no matter your age or skill level! Every box includes everything you need to create a work of art.  A monthly subscription is $24.95 a month.  A three-month pre-paid subscription is $24.45 a month, totaling $73.35, four times a year.  A six-month pre-paid subscription is $23.95 a month, totaling $143.70, twice a year.  An annual subscription is $22.95 a month, totaling $275.40, once a year.  For more information, go to www.palettefulpacks.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/palettefulpacks.jpeg",
-        "paragraph1":"Paletteful Packs is a monthly art subscription service that wants to bring the best art supplies to you, no matter your age or skill level! Every box includes everything you need to create a work of art.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $24.95/month<br/>3-Month: $24.45/month = $73.35 - 4 times a year<br/>6-Month: $23.95/month = $143.70 - twice a year<br/>Annual: $22.95/month = $275.40 - once a year",
-        "paragraph3":"Website: www.palettefulpacks.com"
-    },
-    "male-teen":{
-        "name":"SnackSack",
-        "information":"At SnackSack, we're kicking unhealthy snacks to the curb.  Each monthly collection of smarter snacking is carefully curated from 11 to 15 amazing brands.  Choose from 4 Snacking plans: Classic, Vegan, Gluten-Free, and Workplace.  The following prices are for the Classic plan.  A monthly subscription is $23.95 a month.  A three-month pre-paid subscription is $23.58 a month, totaling $70.74, four times a year.  A six-month pre-paid subscription is $23.17 a month, totaling $139.02, twice a year.  An annual subscription is $22.67 a month, totaling $272.04, once a year.  For more information, go to www.snacksack.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/snacksack.jpg",
-        "paragraph1":"At SnackSack, we're kicking unhealthy snacks to the curb.  Each monthly collection of smarter snacking is carefully curated from 11 to 15 amazing brands.  Choose from 4 Snacking plans: Classic, Vegan, Gluten-Free, and Workplace.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $23.95/month<br/>3-Month: $23.58/month = $70.74 - 4 times a year<br/>6-Month: $23.17/month = $139.02 - twice a year<br/>Annual: $22.67/month = $272.04 - once a year",
-        "paragraph3":"Website: www.snacksack.com"
-    },
-    "male-adult":{
-        "name":"Cloth and Paper",
-        "information":"Appreciating the finer things should not stop with your desk supplies! Cloth and Paper offers a wide range of fancy pens, stationary, and planning goodies.  Choose from the Penspiration box, the Planner Stationery Box, or the Penspiration and Planner Stationary box.  The prices given are all for the Penspiration box.  A monthly subscription is $18 a month.  A three-month pre-paid subscription is $16.33 a month, totaling $48.99, four times a year.  For more information, go to www.clothandpaper.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/clothandpaper.jpg",
-        "paragraph1":"Appreciating the finer things should not stop with your desk supplies! Cloth and Paper offers a wide range of fancy pens, stationary, and planning goodies.  Choose from the Penspiration box, the Planner Stationery Box, or the Penspiration and Planner Stationary box.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $18/month<br/>3-Month: $16.33/month = $48.99 - 4 times a year",
-        "paragraph3":"Website: www.clothandpaper.com"
-    },
-    "female-baby":{
-        "name":"Smart and Sleepy",
-        "information":"Smart and Sleepy provides customers with the perfect combination of goodies for their most prized possession - children!  Each month customers will receive a pair of our unique, all-organic, eco-friendly pajamas as well as two children's books and discount codes to our sister store - Winnie James Boutique.  A monthly subscription is $45 a month.  A three-month pre-paid subscription is $40 a month, totaling $120, four times a year.  A six-month pre-paid subscription is $35, totaling $210, twice a year.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/smartandsleepy.jpg",
-        "paragraph1":"Smart and Sleepy provides customers with the perfect combination of goodies for their most prized possession - children!  Each month customers will receive a pair of our unique, all-organic, eco-friendly pajamas as well as two children's books and discount codes to our sister store - Winnie James Boutique.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $45/month<br/>3-Month: $40/month = $120 - 4 times a year<br/>6-Month: $35/month = $210 - twice a year",
+        "name":"The Ninja Squad Box",
+        "information":"The Ninja Squad Box combines playground physicality, creativity, and problem-solving skills.  Each box has a new theme with awesome crafts, fun physical challenges, a character chart, and a full online interactive NINJA CLASS to do in the safety of your own home.  A monthly subscription is $33 a month.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/theninjasquadbox.jpg",
+        "paragraph1":"The Ninja Squad Box combines playground physicality, creativity, and problem-solving skills.  Each box has a new theme with awesome crafts, fun physical challenges, a character chart, and a full online interactive NINJA CLASS to do in the safety of your own home.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month",
         "paragraph3":"Website: www.cratejoy.com"
     },
+    "male-teen":{
+        "name":"Hat Box",
+        "information":"The subscription box service is for anyone who loves hats and caps.  A monthly subscription is $9.99 a month.  An annual subscription is $9.49 a month, totaling $113.88, once a year.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hatbox.jpeg",
+        "paragraph1":"he subscription box service is for anyone who loves hats and caps.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $9.99/month<br/>Annual: $9.49/month = $113.88 - once a year",
+        "paragraph3":"Website:  www.cratejoy.com"
+    },
+    "male-adult":{
+        "name":"Dark Horse Tackle",
+        "information":"Dark Horse Tackle Box is a premium bass fishing subscription built around small batch and custom lures.  A Dabble Pack Box is $7 a month.  A Weekend Warrior Box is $25 a month.  For more information, go to www.darkhorsetackle.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/darkhorsetackle.jpg",
+        "paragraph1":"Dark Horse Tackle Box is a premium bass fishing subscription built around small batch and custom lures.",
+        "paragraph2":"<u>Price List</u><br/>Dabble Pack Box = $7/month.  A Weekend Warrior Box = $25/month",
+        "paragraph3":"Website: www.darkhorsetackle.com"
+    },
+    "female-baby":{
+        "name":"Little Wonders Company",
+        "information":"Our monthly subscription box that caters to forging a pathway for girls of all ages and ethnic backgrounds to be whomever you desire and to be the best at it.  A monthly subscription is $8.97 a month.  For more information, go to www.littlewondersandco.com",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/littlewondersco.png",
+        "paragraph1":"Our monthly subscription box that caters to forging a pathway for girls of all ages and ethnic backgrounds to be whomever you desire and to be the best at it.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $8.97/month",
+        "paragraph3":"Website: www.littlewondersandco.com"
+    },
     "female-child":{
-        "name":"Find Your Wings by Fashion Angels",
-        "information":"Fashion Angels has always challenged Tweens to \"Find Your Wings\".  Packed with over $80 in craft activities, both, beauty and on trend fashion accessories.  The quarterly craft box feature 9 full size craft kits with a retail value of over $110!  A monthly subscription is $30 a month.  A three-month pre-paid subscription is $28 a month, totaling $84, four times a year.  A six-month pre-paid subscription is $25 a month, totaling $150, twice a year.  An annual subscription is $22 a month, totaling $264, once a year.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/findyourwings.jpg",
-        "paragraph1":"Fashion Angels has always challenged Tweens to \"Find Your Wings\".  Packed with over $80 in craft activities, both, beauty and on trend fashion accessories.  The quarterly craft box feature 9 full size craft kits with a retail value of over $110!",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $30/month<br/>3-Month: $28/month = $84 - 4 times a year<br/>6-Month: $25/month = $150 - twice a year<br/>Annual: $22/month = $264 - once a year",
+        "name":"Gymnastics Squared",
+        "information":"Let us take the guesswork out of waht should be a memorable gymnastics experience.  Our gymnastics professionals know there are may options to buy stuff these days.  There are plenty of fads and tendy merchandise on the market, we'll do the work for you to ensure you receive a great value.  A gold box is $16.67 a month.  A platinum box is $30 a month.  A monthly leotard box is $40 a month.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/gymnasticssquared.jpg",
+        "paragraph1":"Let us take the guesswork out of waht should be a memorable gymnastics experience.  Our gymnastics professionals know there are may options to buy stuff these days.  There are plenty of fads and tendy merchandise on the market, we'll do the work for you to ensure you receive a great value.",
+        "paragraph2":"<u>Price List</u><br/>Gold Box: $16.67/month<br/>Platinum Box: $30/month<br/>Leotard Box: $40/month",
         "paragraph3":"Website: www.cratejoy.com"
     },
     "female-teen":{
-        "name":"Nail Shack",
-        "information":"Your NAILShack pack will include at least 4 full sets of high quality, easy to apply nail polish strips delivered to your door every month.  Plus a fun nail file and a gentle cuticle pusher for easy flawless application.  A monthly subscription is $12.96 a month.  A three-month pre-paid subscription is $10.32 a month, totaling $30.95, four times a year.  A six-month pre-paid subscription is $9.95 a month, totaling $59.70, twice a year.  An annual subscription is $9.95 a month, totaling $119.40, once a year.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/nailshack.jpg",
-        "paragraph1":"Your NAILShack pack will include at least 4 full sets of high quality, easy to apply nail polish strips delivered to your door every month.  Plus a fun nail file and a gentle cuticle pusher for easy flawless application.  ",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $12.96/month<br/>3-Month: $10.32/month = $30.96 - 4 times a year<br/>6-Month: $9.95/month = $59.70 - twice a year<br/>Annual: $9.95/month = $119.40 - once a year",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"Fit Boxx",
+        "information":"The Fit Boxx is delivered to yor door each month loaded with premium fitness apparel, gear, accessories, nutrition, and more!  A monthly subscription is $48 a month.  For more information, go to www.fitboxx.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/fitboxx.png",
+        "paragraph1":"The Fit Boxx is delivered to yor door each month loaded with premium fitness apparel, gear, accessories, nutrition, and more!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $48/month",
+        "paragraph3":"Website: www.fitboxx.com"
     },
     "female-adult":{
-        "name":"Introverts Retreat",
-        "information":"Admit it - you'd rather avoid other people and spend the day alone.  That's why we created Introverts Retreat.  Choose from the Read Box, the Read and Relax Box, or the Read, Relax, and Recharge Box.  Then choose your book type, beverage flavor, and scent.  For the Read Box, it's $14.99 a month.  For the Read and Relax box, it's $20.99 a month.  For the Read, Relax, and Recharge box, it's $36.99 a month.  For more information, go to www.introvertsretreatbox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/introvertsretreat.jpg",
-        "paragraph1":"Admit it - you'd rather avoid other people and spend the day alone.  That's why we created Introverts Retreat.  Choose from the Read Box, the Read and Relax Box, or the Read, Relax, and Recharge Box.  Then choose your book type, beverage flavor, and scent.",
-        "paragraph2":"<u>Price List</u><br/>Read Box: $14.99/month<br/>Read and Relax Box: $20.99/month<br/>Read, Relax, and Recharge Box: $36.99/month",
-        "paragraph3":"Website: www.introvertsretreatbox.com"
+        "name":"The Happy Glamper",
+        "information":"Becoming One with Nature shold have to involve suffering.  We feature a different regional theme each month, with products from locla artisans and luxuary glamping gadgets! A monthly subscription is $49 a month.  A three-month pre-paid subscription is $46.33 a month, totaling $138.99, four times a year.  A six-month pre-paid subscription is $44.83 a month, totaling $268.98, twice a year.  An annual subscription is $39.92 a month, totaling $479.04, once a year.  For more information, go to www.thehappyglamper.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thehappyglamper.png",
+        "paragraph1":"Becoming One with Nature shold have to involve suffering.  We feature a different regional theme each month, with products from locla artisans and luxuary glamping gadgets!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $49/month<br/>3-Month: $46.33/month = $138.99 - 4 times a year<br/>6-Month: $44.83/month = $268.98 - twice a year<br/>Annual: $39.92/month = $479.04 - once a year",
+        "paragraph3":"Website: www.thehappyglamper.com"
     },
     "neutral-baby":{
-        "name":"My First Reading Club",
-        "information":"My First Reading Club is guided by a passion for reading.  Reading inspires, empowers, and links to all education throughout life.  With 5 distinct age groups, choose which ever fits best.  A monthly subscription is $19.99 a month.  A three-month pre-paid subscription is $19.00 a month, totaling $57, four times a year.  A six-month pre-paid subscription is $17.99, totaling $107.94, twice a year.  An annual subscription is $16.99 a month, totaling $203.88, once a year.  For more information, go to www.myfirstreadingclub.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/myfirstreadingclub.jpg",
-        "paragraph1":"My First Reading Club is guided by a passion for reading.  Reading inspires, empowers, and links to all education throughout life.  With 5 distinct age groups, choose which ever fits best.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $19.99/month<br/>3-Month: $19/month = $57 - 4 times a year<br/>6-Month: $17.99/month = $107.94 - twice a year<br/>Annual: $16.99/month = $203.88 - once a year",
-        "paragraph3":"Website: www.myfirstreadingclub.com"
+        "name":"Rent-a-Romper",
+        "information":"Rent-a-Romper curates custom capsule wardrobes that you can use as long as you want (or as long as the fit).  When you are ready, send the back, and get the next size up!  With two capsule sizes - Just the Essentials with 7 items and the Complete Capsule with 15, you'll always find the right fit.  The Just the Essentials subscription is $24 a month.  The Complete Capsule subscription is $39 a month.  For more information, go to www.rentaromper.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/rentaromper.jpeg",
+        "paragraph1":"Rent-a-Romper curates custom capsule wardrobes that you can use as long as you want (or as long as the fit).  When you are ready, send the back, and get the next size up!  With two capsule sizes - Just the Essentials with 7 items and the Complete Capsule with 15, you'll always find the right fit.",
+        "paragraph2":"<u>Price List</u><br/>Just the Essentials: $24/month<br/>Complete Capsule: $39/month",
+        "paragraph3":"Website: www.rentaromper.com"
     },
     "neutral-child":{
-        "name":"The Preschool Box",
-        "information":"Help your preschooler or kindergartener start school off with a bang! The Preschool Box is full of fun, simple activities that will have your child excited to learn.  You can choose a box for 1, 2, or 3 children.  The following price list is for one child.  A monthly subscription is $32.95 a month.  A three-month pre-paid subscription is $31.65 a month, totaling $94.95, four times a year.  A six-month pre-paid subscription is $30.83 a month, totaling $184.98, two times a year.  An annual subscription is $29.16 a month, totaling $349.92, once a year.  For more information, go to www.preschoolbox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thepreschoolbox.jpg",
-        "paragraph1":"Help your preschooler or kindergartener start school off with a bang! The Preschool Box is full of fun, simple activities that will have your child excited to learn.  You can choose a box for 1, 2, or 3 children.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $32.95/month<br/>3-Month: $31.65/month = $94.95 - 4 times a year<br/>6-Month: $30.83/month = $184.98 - twice a year<br/>Annual: $29.16/month = $349.92 - once a year",
-        "paragraph3":"Website: www.preschoolbox.com"
+        "name":"Junior Golf Life Box",
+        "information":"Each box is designed to teach kids the fundamentals of golf, how to have fun on the fairway, feel confident on the course, and improve their life, health, and golf game by developing character, positive life values, leadership, and gold skills.  A monthly subscription is $39.95 a month.  A three-month pre-paid subscription is $38.32 a month, totaling $114.96, four times a year.  For more information, go to www.jrgolfbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/jrgolfbox.jpg",
+        "paragraph1":"Each box is designed to teach kids the fundamentals of golf, how to have fun on the fairway, feel confident on the course, and improve their life, health, and golf game by developing character, positive life values, leadership, and gold skills.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.95/month<br/>3-Month: $38.32/month = $114.96 - 4times a year",
+        "paragraph3":"Website: www.jrgolfbox.com"
     },
     "neutral-teen":{
-        "name":"The Plant Club",
-        "information":"Fall in love with a new houseplant variety every month from The Plant Club.  We curate more than cute collections of pots and accessories, we lovingly pack everything you need to easily assemble and care for your own living decor.  A monthly subscription is $24.95 a month.  A three-month pre-paid subscription is $24.65 a month, totaling $73.95, four times a year.  A six-month pre-paid subscription is $24.33 a month, totaling $145.98, twice a year.  An annual subscription is $23.33 a month, totaling $279.96, once a year.  For more information, go to www.theplantclub.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/theplantclub.jpg",
-        "paragraph1":"Fall in love with a new houseplant variety every month from The Plant Club.  We curate more than cute collections of pots and accessories, we lovingly pack everything you need to easily assemble and care for your own living decor.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $24.95/month<br/>3-Month: $24.65/month = $73.95 - 4 times a year<br/>6-Month: $24.33/month = $145.98 - twice a year<br/>Annual: $23.33/month = $279.96 - once a year",
-        "paragraph3":"Website: www.theplantclub.com"
+        "name":"RunLocker",
+        "information":"Debunk the myths, advance your knowledge, and improve your running form.  Each Locker includes athletic wear, healthy snacks, recover aids and fitness accessories.  A monthly subscription is $44.95 a month.  A three-month pre-paid subscription is $43.95 a month, totaling $131.85, four times a year.  A six-month subscription is $41.95 a month, totaling $251.70, twice a year.  For more information, go to www.runlocker.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/runlocker.jpg",
+        "paragraph1":"Debunk the myths, advance your knowledge, and improve your running form.  Each Locker includes athletic wear, healthy snacks, recover aids and fitness accessories.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $44.95/month<br/>3-Month: $43.95/month = $131.85 - 4 times a year<br/>6-Month: $41.95 a month = $251.70 - twice a year",
+        "paragraph3":"Website: www.runlocker.com"
     },
     "neutral-adult":{
-        "name":"The Adults and Crafts Crate",
-        "information":"Adults and Crafts is a thoughtfully curated craft subscription box with all the tools, material, and instructions included!  A monthly subscription is $33 a month.  A three-month pre-paid subscription is $32 a month, totaling $96, four times a year.  A six-month pre-paid subscription is $31 a month, totaling $186 a month, twice a year.  An annual pre-paid subscription is $30 a month, totaling $360, once a year.  For more information, go to www.adultsandcrafts.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/adultsandcrafts.jpg",
-        "paragraph1":"Adults and Crafts is a thoughtfully curated craft subscription box with all the tools, material, and instructions included!",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month<br/>3-Month: $32/month = $96 - 4 times a year<br/>6-Month: $31/month = $186 - twice a year<br/>Annual: $30/month = $360 - once a year",
-        "paragraph3":"Website: www.adultsandcrafts.com"
+        "name":"Hiker Crate",
+        "information":"Hiker Crate is a health and fitness subscription box that specializes in outdoor adventure.  Each monthly box is filled with high-quality and useful hiking gear, tools, and snacks to help fuel your treks.  A monthly subscription is $35 a month.  A three-month pre-paid subscription is $34 a month, totaling $102, four times a year.  A six-month pre-paid subscription is $32.33 a month, totaling $193.98, twice a year.  An annual subscription is $30 a month, totaling $360, once a year.  For more information, go to www.gethikecrate.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hikercrate.jpg",
+        "paragraph1":"Hiker Crate is a health and fitness subscription box that specializes in outdoor adventure.  Each monthly box is filled with high-quality and useful hiking gear, tools, and snacks to help fuel your treks.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $35/month<br/>3-Month: $$34/month = $102 - 4 times a year<br/>6-Month: $32.33/month = $193.98 - twice a year<br/>Annual: $30/month = $360 - once a year",
+        "paragraph3":"Website: www.gethikecrate.com"
     }
 }
