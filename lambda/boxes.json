@@ -1,9 +1,9 @@
 {
     "pet":{
         "name":"Catnipporium",
-        "information":"Each montly box contains 5 cat pillows, all with different patterns matched for the month, a single BIG kicker, plus a secret treat or toy for your special furry friend! Every pillow is stuffed with super fresh all natral catnip! A monthly subscription is $18 a month.  A three-month pre-paid subscription is $15 a month, totaling $45, four times a year.  For more information, go to www.catnipporium.com.",
+        "information":"Each monthly box contains 5 cat pillows, all with different patterns matched for the month, a single BIG kicker, plus a secret treat or toy for your special furry friend! Every pillow is stuffed with super fresh all natral catnip! A monthly subscription is $18 a month.  A three-month pre-paid subscription is $15 a month, totaling $45, four times a year.  For more information, go to www.catnipporium.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/catnipporium.jpeg",
-        "paragraph1":"Each montly box contains 5 cat pillows, all with different patterns matched for the month, a single BIG kicker, plus a secret treat or toy for your special furry friend! Every pillow is stuffed with super fresh all natral catnip!",
+        "paragraph1":"Each monthly box contains 5 cat pillows, all with different patterns matched for the month, a single BIG kicker, plus a secret treat or toy for your special furry friend! Every pillow is stuffed with super fresh all natral catnip!",
         "paragraph2":"<u>Price List</u><br/>Monthly: $18/month<br/>3-Month: $15 = $45 - 4 times a year",
         "paragraph3":"Website: www.catnipporium.com"
     },
@@ -44,12 +44,12 @@
         "information":"Dark Horse Tackle Box is a premium bass fishing subscription built around small batch and custom lures.  A Dabble Pack Box is $7 a month.  A Weekend Warrior Box is $25 a month.  For more information, go to www.darkhorsetackle.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/darkhorsetackle.jpg",
         "paragraph1":"Dark Horse Tackle Box is a premium bass fishing subscription built around small batch and custom lures.",
-        "paragraph2":"<u>Price List</u><br/>Dabble Pack Box = $7/month.  A Weekend Warrior Box = $25/month",
+        "paragraph2":"<u>Price List</u><br/>Dabble Pack Box = $7/month<br/>A Weekend Warrior Box = $25/month",
         "paragraph3":"Website: www.darkhorsetackle.com"
     },
     "female-baby":{
         "name":"Little Wonders Company",
-        "information":"Our monthly subscription box that caters to forging a pathway for girls of all ages and ethnic backgrounds to be whomever you desire and to be the best at it.  A monthly subscription is $8.97 a month.  For more information, go to www.littlewondersandco.com",
+        "information":"Our monthly subscription box that caters to forging a pathway for girls of all ages and ethnic backgrounds to be whomever you desire and to be the best at it.  A monthly subscription is $8.97 a month.  For more information, go to www.littlewondersandco.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/littlewondersco.png",
         "paragraph1":"Our monthly subscription box that caters to forging a pathway for girls of all ages and ethnic backgrounds to be whomever you desire and to be the best at it.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $8.97/month",
@@ -57,33 +57,33 @@
     },
     "female-child":{
         "name":"Gymnastics Squared",
-        "information":"Let us take the guesswork out of waht should be a memorable gymnastics experience.  Our gymnastics professionals know there are may options to buy stuff these days.  There are plenty of fads and tendy merchandise on the market, we'll do the work for you to ensure you receive a great value.  A gold box is $16.67 a month.  A platinum box is $30 a month.  A monthly leotard box is $40 a month.  For more information, go to www.cratejoy.com.",
+        "information":"Let us take the guesswork out of what should be a memorable gymnastics experience.  Our gymnastics professionals know there are many options to buy stuff these days.  There are plenty of fads and tendy merchandise on the market, we'll do the work for you to ensure you receive a great value.  A gold box is $16.67 a month.  A platinum box is $30 a month.  A monthly leotard box is $40 a month.  For more information, go to www.cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/gymnasticssquared.jpg",
-        "paragraph1":"Let us take the guesswork out of waht should be a memorable gymnastics experience.  Our gymnastics professionals know there are may options to buy stuff these days.  There are plenty of fads and tendy merchandise on the market, we'll do the work for you to ensure you receive a great value.",
+        "paragraph1":"Let us take the guesswork out of what should be a memorable gymnastics experience.  Our gymnastics professionals know there are many options to buy stuff these days.  There are plenty of fads and tendy merchandise on the market, we'll do the work for you to ensure you receive a great value.",
         "paragraph2":"<u>Price List</u><br/>Gold Box: $16.67/month<br/>Platinum Box: $30/month<br/>Leotard Box: $40/month",
         "paragraph3":"Website: www.cratejoy.com"
     },
     "female-teen":{
         "name":"Fit Boxx",
-        "information":"The Fit Boxx is delivered to yor door each month loaded with premium fitness apparel, gear, accessories, nutrition, and more!  A monthly subscription is $48 a month.  For more information, go to www.fitboxx.com.",
+        "information":"The Fit Boxx is delivered to your door each month loaded with premium fitness apparel, gear, accessories, nutrition, and more!  A monthly subscription is $48 a month.  For more information, go to www.fitboxx.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/fitboxx.png",
-        "paragraph1":"The Fit Boxx is delivered to yor door each month loaded with premium fitness apparel, gear, accessories, nutrition, and more!",
+        "paragraph1":"The Fit Boxx is delivered to your door each month loaded with premium fitness apparel, gear, accessories, nutrition, and more!",
         "paragraph2":"<u>Price List</u><br/>Monthly: $48/month",
         "paragraph3":"Website: www.fitboxx.com"
     },
     "female-adult":{
         "name":"The Happy Glamper",
-        "information":"Becoming One with Nature shold have to involve suffering.  We feature a different regional theme each month, with products from locla artisans and luxuary glamping gadgets! A monthly subscription is $49 a month.  A three-month pre-paid subscription is $46.33 a month, totaling $138.99, four times a year.  A six-month pre-paid subscription is $44.83 a month, totaling $268.98, twice a year.  An annual subscription is $39.92 a month, totaling $479.04, once a year.  For more information, go to www.thehappyglamper.com.",
+        "information":"Becoming One with Nature shouldn't have to involve suffering.  We feature a different regional theme each month, with products from local artisans and luxury glamping gadgets! A monthly subscription is $49 a month.  A three-month pre-paid subscription is $46.33 a month, totaling $138.99, four times a year.  A six-month pre-paid subscription is $44.83 a month, totaling $268.98, twice a year.  An annual subscription is $39.92 a month, totaling $479.04, once a year.  For more information, go to www.thehappyglamper.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thehappyglamper.png",
-        "paragraph1":"Becoming One with Nature shold have to involve suffering.  We feature a different regional theme each month, with products from locla artisans and luxuary glamping gadgets!",
+        "paragraph1":"Becoming One with Nature shouldn't have to involve suffering.  We feature a different regional theme each month, with products from local artisans and luxury glamping gadgets!",
         "paragraph2":"<u>Price List</u><br/>Monthly: $49/month<br/>3-Month: $46.33/month = $138.99 - 4 times a year<br/>6-Month: $44.83/month = $268.98 - twice a year<br/>Annual: $39.92/month = $479.04 - once a year",
         "paragraph3":"Website: www.thehappyglamper.com"
     },
     "neutral-baby":{
         "name":"Rent-a-Romper",
-        "information":"Rent-a-Romper curates custom capsule wardrobes that you can use as long as you want (or as long as the fit).  When you are ready, send the back, and get the next size up!  With two capsule sizes - Just the Essentials with 7 items and the Complete Capsule with 15, you'll always find the right fit.  The Just the Essentials subscription is $24 a month.  The Complete Capsule subscription is $39 a month.  For more information, go to www.rentaromper.com.",
+        "information":"Rent-a-Romper curates custom capsule wardrobes that you can use as long as you want (or as long as they fit).  When you are ready, send the back, and get the next size up!  With two capsule sizes - Just the Essentials with 7 items and the Complete Capsule with 15, you'll always find the right fit.  The Just the Essentials subscription is $24 a month.  The Complete Capsule subscription is $39 a month.  For more information, go to www.rentaromper.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/rentaromper.jpeg",
-        "paragraph1":"Rent-a-Romper curates custom capsule wardrobes that you can use as long as you want (or as long as the fit).  When you are ready, send the back, and get the next size up!  With two capsule sizes - Just the Essentials with 7 items and the Complete Capsule with 15, you'll always find the right fit.",
+        "paragraph1":"Rent-a-Romper curates custom capsule wardrobes that you can use as long as you want (or as long as they fit).  When you are ready, send the back, and get the next size up!  With two capsule sizes - Just the Essentials with 7 items and the Complete Capsule with 15, you'll always find the right fit.",
         "paragraph2":"<u>Price List</u><br/>Just the Essentials: $24/month<br/>Complete Capsule: $39/month",
         "paragraph3":"Website: www.rentaromper.com"
     },
@@ -92,7 +92,7 @@
         "information":"Each box is designed to teach kids the fundamentals of golf, how to have fun on the fairway, feel confident on the course, and improve their life, health, and golf game by developing character, positive life values, leadership, and gold skills.  A monthly subscription is $39.95 a month.  A three-month pre-paid subscription is $38.32 a month, totaling $114.96, four times a year.  For more information, go to www.jrgolfbox.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/jrgolfbox.jpg",
         "paragraph1":"Each box is designed to teach kids the fundamentals of golf, how to have fun on the fairway, feel confident on the course, and improve their life, health, and golf game by developing character, positive life values, leadership, and gold skills.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $39.95/month<br/>3-Month: $38.32/month = $114.96 - 4times a year",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.95/month<br/>3-Month: $38.32/month = $114.96 - 4 times a year",
         "paragraph3":"Website: www.jrgolfbox.com"
     },
     "neutral-teen":{
@@ -100,7 +100,7 @@
         "information":"Debunk the myths, advance your knowledge, and improve your running form.  Each Locker includes athletic wear, healthy snacks, recover aids and fitness accessories.  A monthly subscription is $44.95 a month.  A three-month pre-paid subscription is $43.95 a month, totaling $131.85, four times a year.  A six-month subscription is $41.95 a month, totaling $251.70, twice a year.  For more information, go to www.runlocker.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/runlocker.jpg",
         "paragraph1":"Debunk the myths, advance your knowledge, and improve your running form.  Each Locker includes athletic wear, healthy snacks, recover aids and fitness accessories.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $44.95/month<br/>3-Month: $43.95/month = $131.85 - 4 times a year<br/>6-Month: $41.95 a month = $251.70 - twice a year",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $44.95/month<br/>3-Month: $43.95/month = $131.85 - 4 times a year<br/>6-Month: $41.95/month = $251.70 - twice a year",
         "paragraph3":"Website: www.runlocker.com"
     },
     "neutral-adult":{
@@ -108,7 +108,7 @@
         "information":"Hiker Crate is a health and fitness subscription box that specializes in outdoor adventure.  Each monthly box is filled with high-quality and useful hiking gear, tools, and snacks to help fuel your treks.  A monthly subscription is $35 a month.  A three-month pre-paid subscription is $34 a month, totaling $102, four times a year.  A six-month pre-paid subscription is $32.33 a month, totaling $193.98, twice a year.  An annual subscription is $30 a month, totaling $360, once a year.  For more information, go to www.gethikecrate.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hikercrate.jpg",
         "paragraph1":"Hiker Crate is a health and fitness subscription box that specializes in outdoor adventure.  Each monthly box is filled with high-quality and useful hiking gear, tools, and snacks to help fuel your treks.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $35/month<br/>3-Month: $$34/month = $102 - 4 times a year<br/>6-Month: $32.33/month = $193.98 - twice a year<br/>Annual: $30/month = $360 - once a year",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $35/month<br/>3-Month: $34/month = $102 - 4 times a year<br/>6-Month: $32.33/month = $193.98 - twice a year<br/>Annual: $30/month = $360 - once a year",
         "paragraph3":"Website: www.gethikecrate.com"
     }
 }
