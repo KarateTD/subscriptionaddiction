@@ -21,6 +21,7 @@ This code features Alexa Conversations.  Alexa Converstions is driven by develop
 
 ## Releases
 Release-1.0.0: Initial Release using Alexa Conversations for [Echo](https://amzn.to/2YEvErY), [Echo Spot](https://amzn.to/3b4ZivB), [Echo Show 5](https://amzn.to/3jie9pp), [Echo Show 1 Gen](https://amzn.to/3hBrk4l), [Echo Show 2 Gen](https://amzn.to/3b3hPIu), [Fire TV](https://amzn.to/3ljvpwa) and all [Alexa-enabled devices](https://amzn.to/32usdoU) [(FTC Disclaimer)](https://thatdarngirlmoviereviews.wordpress.com/about/#disclaimer).  
+Release-1.0.1: Add old boxes folder for re-using boxes for different categories.  And fix moving between pet and box of the week
 
 ## Code
 - **index.js** - Contains code for the 6 API functions
