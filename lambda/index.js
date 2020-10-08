@@ -133,7 +133,7 @@ const GetPetBoxInfoAPIHandler = {
 
         if(type !== null){
             console.log("in if type");
-            const key = `${type}`;
+            const key = `${petOrBOW}`;
             const databaseResponse = data[key];
 
             console.log("Response from mock database ", databaseResponse);
