@@ -56,7 +56,7 @@ const GetPetBoxNameAPIHandler = {
         const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
         console.log("typeName is " + typeName);
         let type = resolveEntity(apiRequest.slots, "typeName");
-       // petOrBOW = type;
+        petOrBOW = type;
 
         console.log("type is " + type);
 
@@ -75,7 +75,7 @@ const GetPetBoxNameAPIHandler = {
         
         const response = buildSuccessApiResponse(getBoxNameResultEntity);
         console.log("GetPetBoxNameAPIHandler Response is: ", response);
-       // returningEntity = response;
+        returningEntity = response;
         return response;
     }
 }
@@ -119,8 +119,8 @@ const GetPetBoxInfoAPIHandler = {
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
         console.log("Entering GetPetBoxInfoAPIHandler");
-       // console.log('returningentity is ', returningEntity);
-       // console.log('petOrBOW is ', petOrBOW);
+        console.log('returningentity is ', returningEntity);
+        console.log('petOrBOW is ', petOrBOW);
         console.log('getBoxNameResult is ', getBoxNameResult);
         let databaseResponse = `The infomation for the ${getBoxNameResult.type} is missing.`
 
