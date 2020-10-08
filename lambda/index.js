@@ -6,6 +6,7 @@ const data = require('./boxes.json');
 
 let genderConst;
 let ageConst;
+//let petOrBOW;
 let returningEntity;
 
 const GetNoToInfoAPIHandler = {
@@ -55,6 +56,7 @@ const GetPetBoxNameAPIHandler = {
         const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
         console.log("typeName is " + typeName);
         let type = resolveEntity(apiRequest.slots, "typeName");
+       // petOrBOW = type;
 
         console.log("type is " + type);
 
@@ -73,6 +75,7 @@ const GetPetBoxNameAPIHandler = {
         
         const response = buildSuccessApiResponse(getBoxNameResultEntity);
         console.log("GetPetBoxNameAPIHandler Response is: ", response);
+       // returningEntity = response;
         return response;
     }
 }
@@ -83,7 +86,7 @@ const GetPersonBoxInfoAPIHandler = {
             && handlerInput.requestEnvelope.request.apiRequest.name === 'getPersonBoxInfo'
     },
     handle(handlerInput){
-        const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
+        //const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
         console.log("******* Entering GetPersonBoxInfoAPIHandler *********");
         let key = `${genderConst}-${ageConst}`
         console.log("key is ", key);
@@ -116,6 +119,8 @@ const GetPetBoxInfoAPIHandler = {
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
         console.log("Entering GetPetBoxInfoAPIHandler");
+       // console.log('returningentity is ', returningEntity);
+       // console.log('petOrBOW is ', petOrBOW);
         console.log('getBoxNameResult is ', getBoxNameResult);
         let databaseResponse = `The infomation for the ${getBoxNameResult.type} is missing.`
 
