@@ -6,6 +6,7 @@ const data = require('./boxes.json');
 
 let genderConst;
 let ageConst;
+let petOrBOW;
 let returningEntity;
 
 const GetNoToInfoAPIHandler = {
@@ -17,10 +18,9 @@ const GetNoToInfoAPIHandler = {
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
 
-        console.log("returning: ", getBoxNameResult);
-
-        const response = buildSuccessApiResponse(getBoxNameResult);
-        console.log("Response is: ", response);
+        //console.log("returning: ", returningEntity);
+        const response = returningEntity;
+        //console.log("Response is: ", response);
         return response;
     }
 }
@@ -55,6 +55,7 @@ const GetPetBoxNameAPIHandler = {
         const apiRequest = handlerInput.requestEnvelope.request.apiRequest;
         console.log("typeName is " + typeName);
         let type = resolveEntity(apiRequest.slots, "typeName");
+        petOrBOW = type;
 
         console.log("type is " + type);
 
@@ -73,6 +74,7 @@ const GetPetBoxNameAPIHandler = {
         
         const response = buildSuccessApiResponse(getBoxNameResultEntity);
         console.log("GetPetBoxNameAPIHandler Response is: ", response);
+        returningEntity = response;
         return response;
     }
 }
@@ -83,7 +85,7 @@ const GetPersonBoxInfoAPIHandler = {
             && handlerInput.requestEnvelope.request.apiRequest.name === 'getPersonBoxInfo'
     },
     handle(handlerInput){
-        const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
+        //const getPersonGroupName = handlerInput.requestEnvelope.request.apiRequest.arguments.getPersonGroupName;
         console.log("******* Entering GetPersonBoxInfoAPIHandler *********");
         let key = `${genderConst}-${ageConst}`
         console.log("key is ", key);
@@ -116,19 +118,21 @@ const GetPetBoxInfoAPIHandler = {
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
         console.log("Entering GetPetBoxInfoAPIHandler");
-        console.log('getBoxNameResult is ', getBoxNameResult);
-        let databaseResponse = `The infomation for the ${getBoxNameResult.type} is missing.`
+        console.log('returningentity is ', returningEntity);
+        console.log('petOrBOW is ', petOrBOW);
+        //console.log('getBoxNameResult is ', getBoxNameResult);
+        let databaseResponse = `The infomation for the ${petOrBOW} is missing.`
 
-        let type = getBoxNameResult.type;
-        let name = getBoxNameResult.name;
+        let type = petOrBOW;
+       // let name = getBoxNameResult.name;
 
-        console.log("type is " + type + " and name is " + name);
+       // console.log("type is " + type + " and name is " + name);
 
         const getInformationEntity = {};
 
         if(type !== null){
             console.log("in if type");
-            const key = `${type}`;
+            const key = `${petOrBOW}`;
             const databaseResponse = data[key];
 
             console.log("Response from mock database ", databaseResponse);
