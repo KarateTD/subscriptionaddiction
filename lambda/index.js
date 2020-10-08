@@ -18,9 +18,10 @@ const GetNoToInfoAPIHandler = {
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
 
-        console.log("returning: ", getBoxNameResult);
-
-        const response = buildSuccessApiResponse(getBoxNameResult);
+        //console.log("returning: ", getBoxNameResult);
+        console.log("returning: ", returningEntity);
+        //const response = buildSuccessApiResponse(getBoxNameResult);
+        const response = returningEntity;
         console.log("Response is: ", response);
         return response;
     }
