@@ -18,11 +18,9 @@ const GetNoToInfoAPIHandler = {
     handle(handlerInput){
         const getBoxNameResult = handlerInput.requestEnvelope.request.apiRequest.arguments.getBoxNameResult;
 
-        //console.log("returning: ", getBoxNameResult);
-        console.log("returning: ", returningEntity);
-        //const response = buildSuccessApiResponse(getBoxNameResult);
+        //console.log("returning: ", returningEntity);
         const response = returningEntity;
-        console.log("Response is: ", response);
+        //console.log("Response is: ", response);
         return response;
     }
 }
@@ -122,13 +120,13 @@ const GetPetBoxInfoAPIHandler = {
         console.log("Entering GetPetBoxInfoAPIHandler");
         console.log('returningentity is ', returningEntity);
         console.log('petOrBOW is ', petOrBOW);
-        console.log('getBoxNameResult is ', getBoxNameResult);
-        let databaseResponse = `The infomation for the ${getBoxNameResult.type} is missing.`
+        //console.log('getBoxNameResult is ', getBoxNameResult);
+        let databaseResponse = `The infomation for the ${petOrBOW} is missing.`
 
-        let type = getBoxNameResult.type;
-        let name = getBoxNameResult.name;
+        let type = petOrBOW;
+       // let name = getBoxNameResult.name;
 
-        console.log("type is " + type + " and name is " + name);
+       // console.log("type is " + type + " and name is " + name);
 
         const getInformationEntity = {};
 
