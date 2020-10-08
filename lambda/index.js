@@ -6,7 +6,7 @@ const data = require('./boxes.json');
 
 let genderConst;
 let ageConst;
-//let petOrBOW;
+let petOrBOW;
 let returningEntity;
 
 const GetNoToInfoAPIHandler = {
