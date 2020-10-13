@@ -1,0 +1,114 @@
+{
+    "pet":{
+        "name":"The Hop Box",
+        "information":"The Hop Box offers two different size boxes, the mini and the jumbo.  Boxes include high quality toys and treats.  Some treats are homemade with love and are perfectly safe for your bunnies!  The following prices are for The Mini Box.  A monthly subscription is $20 a month.  A three-month pre-paid subscription averages $18.33 a month, totaling $55, four times a year.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thehopbox.jpg",
+        "paragraph1":"The Hop Box offers two different size boxes, the mini and the jumbo.  Boxes include high quality toys and treats.  Some treats are homemade with love and are perfectly safe for your bunnies!  The following prices are for The Mini Box.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $20/month<br/>3-Month: $18.33/month = $55 - 4 times a year",
+        "paragraph3":"Website: www.cratejoy.com"
+    },
+    "box of the week":{
+        "name":"Fresh Baked Cookie Crate",
+        "information":"The ultimate subscription box for bakers and cookie lovers! Each month, you'll receive pre-measured and sealed gourmet, handcrafted ingredients to bake your own cookies.  Fool-proof instructions make baking mess-free, and perfect for any level of baker.  The Basic box comes with ingredients only.  However, the Ultimate Box comes with 2 to 3 cookielicious surprises.  The Basic with 2 dozen cookies is $20 a month.  The Basic with 4 dozen cookies is $30 a month.  The Ultimate with 2 dozen cookies is $30 a month.  The Ultimate with 4 dozen cookies is $40 a month.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/freshbakedcookiecrate.jpg",
+        "paragraph1":"The ultimate subscription box for bakers and cookie lovers! Each month, you'll receive pre-measured and sealed gourmet, handcrafted ingredients to bake your own cookies.  Fool-proof instructions make baking mess-free, and perfect for any level of baker.  The Basic box comes with ingredients only.  However, the Ultimate Box comes with 2 - 3 cookielicious surprises.",
+        "paragraph2":"<u>Price List</u><br/>Basic with 2 Dozen: $20/month<br/>Basic with 4 Dozen: $30/month<br/>Ultimate with 2 Dozen: $30/month<br/>Ultimate with 4 Dozen: $40/month",
+        "paragraph3":"Website: www.cratejoy.com"
+    },
+    "male-baby":{
+        "name":"Happy Little Camper",
+        "information":"We believe when it comes to the happy little campers in our lives, natural is better.  Which is why we created Happy Little Camper baby products that are naturally safe and naturally better for your baby's skin.  One month supply of diapers is $75 a month.  One month supply of dipers and flushable wipes is $74.92 a month.  One month supply of natural diapers and cotton wipes is $74.92 a month.  For more information, go to www.happylittlecamperbaby.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/happylittlecamper.jpg",
+        "paragraph1":"We believe when it comes to the happy little campers in our lives, natural is better.  Which is why we created Happy Little Camper baby products that are naturally safe and naturally better for your baby's skin.",
+        "paragraph2":"<u>Price List</u><br/>Diapers: $75/month<br/>Diapers and Flushable Wipes: $74.92/month<br/>Natural Diapers and Cotton Wipes: $74.92/month",
+        "paragraph3":"Website: www.happylittlecamperbaby.com"
+    },
+    "male-child":{
+        "name":"Superpower Academy",
+        "information":"Superpower Academy is an Award-Winning subscription that combines STEM and Social and Emotional Learning for the next generation of heroes.  Monthly \"Secret Missions\" with hands-on maker projects, comic books, and stories of real hearos to promote a growth mindset, mindfulness, and skills like dealing with emotions, confidence, and empathy.  A monthly subscription is $33 a month.  A three-month pre-paid subscription is $33 a month, totaling $99, four times a year.  A six-month pre-paid subscription is $32.50 a month, totaling $195, twice a year.  An annual subscription averages $29.58 a month, totaling $355, once a year.  For more information, go to www.superpoweracademy.org.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/superpoweracademy.jpg",
+        "paragraph1":"Superpower Academy is an Award-Winning subscription that combines STEM and Social and Emotional Learning for the next generation of heroes.  Monthly \"Secret Missions\" with hands-on maker projects, comic books, and stories of real hearos to promote a growth mindset, mindfulness, and skills like dealing with emotions, confidence, and empathy.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month<br/>3-Month: $33/month = $99 - four times a year<br/>6-Month: $32.50/month = $195 - twice a year<br/>Annual: $29.58/month = $355 - once a year",
+        "paragraph3":"Website: www.superpoweracademy.org"
+    },
+    "male-teen":{
+        "name":"Faithbox",
+        "information":"Faithbox is an exciting way to promote positive Christian living by helping people grow in their faith journey and strengthen their relationship with Christ! Each month has a different theme to help you focus on different parts of your faith.  A monthly subscription is $34.95 a month.  A three-month pre-paid subscription averages $33.32 a month, totaling $99.95, four times a year.  A six-month pre-paid subscription averages $32.66 a month, totaling $195.95, twice a year.  An annual subscription averages $32.04 a month, totaling $384.45, once a year.  For more information, go to www.faithbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/faithbox.png",
+        "paragraph1":"Faithbox is an exciting way to promote positive Christian living by helping people grow in their faith journey and strengthen their relationship with Christ! Each month has a different theme to help you focus on different parts of your faith.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $34.95/month<br/>3-Month: $33.32/month = $99.95 - 4 times a year<br/>6-Month: $32.66/month = $195.95 - twice a year<br/>Annual: $32.04/month = $384.45 - once a year",
+        "paragraph3":"Website: www.faithbox.com"
+    },
+    "male-adult":{
+        "name":"The Mental Wealth Box",
+        "information":"Each box comes with four to six carefully curated products that provide knowledge, tools, and activities to better understand mental health topics such as Anxiety, PTSD, and Depression.  This box is perfect for those who want to explore mental health and practice natural self-care in new ways each month.  A monthly subscription is $49.99 a month.  A three-month pre-paid subscription is $49.99 a month, totaling $149.97, four times a year.  A six-month prepaid subscription is $49.99 a month, totaling $299.94, twice a year.  For more information, go to www.thementalwealthbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thementalweathbox.jpg",
+        "paragraph1":"Each box comes with 4 - 6 carefully curated products that provide knowledge, tools, and activities to better understand mental health topics such as Anxiety, PTSD, and Depression.  This box is perfect for those who want to explore mental health and practice natural self-care in new ways each month.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $49.99/month<br/>3-Month: $49.99/month = $149.97 - 4 times a year<br/>6-Month: $49.99/month = $299.94 - twice a year",
+        "paragraph3":"Website: www.thementalwealthbox.com"
+    },
+    "female-baby":{
+        "name":"Baby Bling",
+        "information":"Receive two headbands every month, right to your door!  Boces ship for free and you can change your subscription before the 1st of every month.  A monthly subscription is $19.99 a month.  For more information, go to www.babyblingbows.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/babybling.jpeg",
+        "paragraph1":"Receive two headbands every month, right to your door!  Boces ship for free and you can change your subscription before the 1st of every month.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $19.99/month",
+        "paragraph3":"Website: www.babyblingbows.com"
+    },
+    "female-child":{
+        "name":"Unicorn Dream Box",
+        "information":"Unicorn Dream Box is a surprise box full of magic and pixie dust.  We offer The Unicorn Dream box with 6 to 9 items as well as The Deluxe Box which includes 10 to 15 items.  A magical birthday gift for all unicorn lovers and fans!  The following prices are for the Unicorn Dream Box.  A monthly subscription is $39.95 a month.  A three-month pre-paid subscription is $39 a month, totaling $117, four times a year.  A six-month pre-paid subscription is $38 a month, totaling $228, twice a year.  For more information, go to www.unicorndreambox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/unicorndreambox.jpg",
+        "paragraph1":"Unicorn Dream Box is a surprise box full of magic and pixie dust.  We offer The Unicorn Dream box with 6 - 9 items as well as The Deluxe Box which includes 10 - 15 items.  A magical birthday gift for all unicorn lovers and fans!  The following prices are for the Unicorn Dream Box.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.95/month<br/>3-Month: $39/month = $117 - 4 times a year<br/>6-Month: $38/month = $228 - twice a year",
+        "paragraph3":"Website: www.unicorndreambox.com"
+    },
+    "female-teen":{
+        "name":"Goddess Provisions",
+        "information":"Our boxes are curated to nurture your inner goddess and help grow your spiritual practice.  We pack each box with 5 to 7 full-size products, totaling for a retail value of $80 to $100.  All the products inside are vegan, cruelty-free, and natural.  Each box has a mix of crystals, aromatherapy, natural beauty products, superfood snacks, and spiritual tools.  A monthly subscription is $33 a month.  A three-month pre-paid subscription is $33 a month. totaling $99, four times a year.  A six-month pre-paid subscription averages $29.67 a month, totaling $178, twice a year.  An annual subscription is $27.75 a month, totaling $333, once a year.  For more information, go to www.goddessprovisions.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/goddessprovisions.jpg",
+        "paragraph1":"Our boxes are curated to nurture your inner goddess and help grow your spiritual practice.  We pack each box with 5 - 7 full-size products, totaling for a retail value of $80 - $100.  All the products inside are vegan, cruelty-free, and natural.  Each box has a mix of crystals, aromatherapy, natural beauty products, superfood snacks, and spiritual tools.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month<br/>3-Month: $33/month = $99 - 4 times a year<br/>6-Month: $29.67/month = $178 - twice a year<br/>Annual: $27.75/month = $333 - once a year",
+        "paragraph3":"Website: www.goddessprovisions.com"
+    },
+    "female-adult":{
+        "name":"Boxy Momma",
+        "information":"Mom life is tough, especially these days! Each month features an awesome themed care package, thoughtfully filled with fun, fabulous, practical, and sometimes sweary items to help you through motherhood! Perfect for moms who can't poop in peace and deserve a reward just for them!  A monthly subscription is $39.99 a month.  A three-month pre-paid subscription is $39.99 a month, totaling $119.97, four times a year.  A six-month pre-paid subscription is $39.99 a month, totaling $239.94, twice a year.  An annual subscription is $37.50 a month, totaling $450, once a year.  For more information, go to www.theboxymommaco.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/boxymomma.png",
+        "paragraph1":"Mom life is tough, especially these days! Each month features an awesome themed care package, thoughtfully filled with fun, fabulous, practical, and sometimes sweary items to help you through motherhood! Perfect for moms who can't poop in peace and deserve a reward just for them!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $39.99/month = $119.97 - 4 times a year<br/>6-Month: $39.99/month = $239.94 - twice a year<br/>Annual: $37.50/month = $450 - once a year",
+        "paragraph3":"Website: www.theboxymommaco.com"
+    },
+    "neutral-baby":{
+        "name":"Munching Monster Chewlery",
+        "information":"A subscription box for anyone with a baby.  Every month you will receive a curated box of teething and feeding goodies to your door.  Each box will consist of two to four products.  Never will you receive duplicate items.  All products in the box are made with 100% food grade silicone, they have been tested and approved by the FDA and the C.C.P.S.A..  A monthly subscription is $39.99 a month.  A three-month pre-paid subscription is $38.99 a month, totaling $116.97, four times a year.  A six-month pre-paid subscription is $36.99 a month, totaling $221.94, twice a year.  An annual pre-paid subscription is $32.99 a month, totaling $395.88, once a year.  For more information, go to www.munchingmonsterchewlery.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/munchingmonsterchewlery.jpeg",
+        "paragraph1":"A subscription box for anyone with a baby.  Every month you will receive a curated box of teething and feeding goodies to your door.  Each box will consist of two to four products.  Never will you receive duplicate items.  All products in the box are made with 100% food grade silicone, they have been tested and approved by the FDA and the CCPSA.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $38.99/month = $116.97 - 4 times a year<br/>6-Month: $36.99/month = $221.94 - twice a year<br/>Annual: $32.99/month = $395.88 - once a year",
+        "paragraph3":"Website: www.munchingmonsterchewlery.com"
+    },
+    "neutral-child":{
+        "name":"Young Chefs' Club",
+        "information":"Our mission is to build a new generation of empowered cooks, engaged eaters, and curious experimenters.  Every month, kids ages 5 to 13 receive a themed box that includes: kid-tested and kid-approved recipes, engaging hands-on activities and experiments, creative projects and games, a shopping list, plus useful, unique, and fun physical items.  A monthly subscription is $24.99 a month.  A six-month pre-paid subscription is $21.99 a month, totaling $131.94, twice a year.  An annual subscription is $19.99 a month, totaling $239.88, once a year.  For more information, go to www.americastestkitchen.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/youngchefsclub.jpeg",
+        "paragraph1":"Our mission is to build a new generation of empowered cooks, engaged eaters, and curious experimenters.  Every month, kids ages 5 - 13 receive a themed box that includes: kid-tested and kid-approved recipes, engaging hands-on activities and experiments, creative projects and games, a shopping list, plus useful, unique, and fun physical items.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $24.99/month<br/>6-Month: $21.99/month = $131.94 - twice a year<br/>Annual: $19.99/month = $239.88 - once a year",
+        "paragraph3":"Website: www.americastestkitchen.com"
+    },
+    "neutral-teen":{
+        "name":"HopeBox",
+        "information":"The gift of hope! Monthly encouragement with a curated selection of high quality treasures.  Includes books, aromatherapy, jewelry, candles, snuggle buddies, organic soaks, scrubs, masks, and more, all meticulously selected from the world's most talented artisans, all of whom have their own inspiring stories of hope and renewal.  A monthly subscription is $49.99 a month.  A three-month pre-paid subscription is $47.99 a month, totaling $143.97, four times a year.  A six-month pre-paid subscription is $45.99 a month, totaling $275.94, twice a year.  An annual subscription is $43.99 a month, totaling $527.88, once a year.  For more information, go to www.hopebox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hopebox.jpeg",
+        "paragraph1":"The gift of hope! Monthly encouragement with a curated selection of high quality treasures.  Includes books, aromatherapy, jewelry, candles, snuggle buddies, organic soaks, scrubs, masks, and more, all meticulously selected from the world's most talented artisans, all of whom have their own inspiring stories of hope and renewal.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $49.99/month<br/>3-Month: $47.99/month = $143.97 - 4 times a year<br/>6-Month: $45.99/month = $275.94 - twice a year<br/>Annual: $43.99/month = $527.88 - once a year",
+        "paragraph3":"Website: www.hopebox.com"
+    },
+    "neutral-adult":{
+        "name":"Muse Illuminate",
+        "information":"The result of Muse Illuminates monthly boxes is to help entrepreneurs and everyday people feel self empowered, more focused and prioritized, become productive, grow their business and skills to be a better person.  We are looking for ambitious individuals that want to take their personal growth to the next level.  A monthly subscription is $34.95 a month.  A three-month pre-paid subscription averages $32 a month, totaling $95.99, four times a year.  A six-month pre-paid subscription averages $29.67 a month, totaling $178, twice a year.  For more information, go to www.museilluminate.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/museilluminate.jpeg",
+        "paragraph1":"The result of Muse Illuminates monthly boxes is to help entrepreneurs and everyday people feel self empowered, more focused and prioritized, become productive, grow their business and skills to be a better person.  We are looking for ambitious individuals that want to take their personal growth to the next level.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $34.95/month<br/>3-Month: $32/month = $95.99 - 4 times a year<br/>6-Month: $29.67/month = $178 - twice a year",
+        "paragraph3":"Website: www.museilluminate.com"
+    }
+}
