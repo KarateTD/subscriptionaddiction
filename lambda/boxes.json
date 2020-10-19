@@ -1,114 +1,114 @@
 {
     "pet":{
-        "name":"The Feisty Filly",
-        "information":"Each month we will send you products based on the subscription of your choice based on Western, English, Miniature horse, or Trail riders.  All boxes are filled with products from name-brand, recent niche, and even homemade items.  You'll receive gourmet treats, grooming products, tack, supplements, accessories, items for the riders, and much more.  A monthly subscription is $45 a month.  For more information, go to www.thefiestyfilly.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thefiestyfilly.jpg",
-        "paragraph1":"Each month we will send you products based on the subscription of your choice based on Western, English, Miniature horse, or Trail riders.  All boxes are filled with products from name-brand, recent niche, and even homemade items.  You'll receive gourmet treats, grooming products, tack, supplements, accessories, items for the riders, and much more.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $45",
-        "paragraph3":"Website: www.thefiestyfilly.com"
+        "name":"Henny and Roo",
+        "information":"Spoil your flock and yourself! Henny and Roo is the first and only subscription box for backyard chicken enthusiasts.  Each month, you'll receive hard-to-find first aid and health products, chicken treats, and coop items for your chickens, and useful chicken-themed gifts for you.  A monthly subscription is $39.95 a month.  A three-month pre-paid subscription averages $38.98 a month, totaling $116.95, four times a year.  A six-month pre-paid subscription averages $37.99 a month, totaling $227.95, twice a year.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hennyandroo.jpeg",
+        "paragraph1":"Spoil your flock and yourself! Henny and Roo is the first and only subscription box for backyard chicken enthusiasts.  Each month, you'll receive hard-to-find first aid and health products, chicken treats, and coop items for your chickens, and useful chicken-themed gifts for you.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.95/month<br/>3-Month: $38.98/month = $116.96 - 4 times a year<br/>6-Month: $37.99/month = $227.95 - twice a month",
+        "paragraph3":"Website: www.cratejoy.com"
     },
     "box of the week":{
-        "name":"Curateur",
-        "information":"Curateur is an all-encompassing, curated lifestyle membership for the modern woman.  We've changed our name and reimaged our purpose while keeping all things we loved about Box of Style.  The Curateur membership delivers more than $450 worth of luxe style essentials right to your door each season. Plus so much more.  A seasonal subscription is $99.99.  An annual, pre-paid subscription is $349.99.  For more information, go to www.curateur.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/curateur.jpg",
-        "paragraph1":"Curateur is an all-encompassing, curated lifestyle membership for the modern woman.  We've changed our name and reimaged our purpose while keeping all things we loved about Box of Style.  The Curateur membership delivers more than $450 worth of luxe style essentials right to your door each season. Plus so much more.",
-        "paragraph2":"<u>Price List</u><br/>Seasonal: $99.99<br/>Annual: $349.99",
-        "paragraph3":"Website: www.curateur.com"
+        "name":"Decorated",
+        "information":"Every season, we send you a limited edition box that contains timeless, high-quality decor.  Subscribe quarterly or annually, and cancel anytime hassle-free.  A quarterly subscription is $79.99 a season.  An annual pre-paid subscription is $287.98.  For more information, go to decorated.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/decorated.jpg",
+        "paragraph1":"Every season, we send you a limited edition box that contains timeless, high-quality decor.  Subscribe quarterly or annually, and cancel anytime hassle-free.",
+        "paragraph2":"<u>Price List</u><br/>Quarterly: $79.99<br/>Seasonal: $287.98",
+        "paragraph3":"Website: decorated.com"
     },
     "male-baby":{
-        "name":"Hoppi Box",
-        "information":"Hoppi Box is a toy subscription company that delivers an expert-curated assortment of high-quality toys to support your little one's development, curiosity, and imagination.  We want to help nurture your child's mind from day one.  Boxes ship every 3 months.  A quarterly subscription is $75.  An annual subscription is $264.  For more information, go to www.thehoppibox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hoppibox.jpeg",
-        "paragraph1":"Hoppi Box is a toy subscription company that delivers an expert-curated assortment of high-quality toys to support your little one's development, curiosity, and imagination.  We want to help nurture your child's mind from day one.  Boxes ship every 3 months.",
-        "paragraph2":"<u>Price List</u><br/>Quarterly: $75<br/>Annual: $264",
-        "paragraph3":"Website: www.thehoppibox.com"
+        "name":"My Busy Box Buddy",
+        "information":"My Busy Box Buddy provides children with productive, and fun activities, for them to explore, discover, imagine, create, and learn while engaging their minds and senses.  Each box contains 7 or more items each month.  One box every three months is $40 a box.  Two boxes over six months is $39.50 a box, totaling $79, twice a year.  Four boxes over twelve months is $38.75 a box, totaling $155, once a year.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/mybusyboxbuddy.jpg",
+        "paragraph1":"My Busy Box Buddy provides children with productive, and fun activities, for them to explore, discover, imagine, create, and learn while engaging their minds and senses.  Each box contains 7 or more items each month.",
+        "paragraph2":"<u>Price List</u><br/>1 Box Every 3 Months: $40/box<br/>2 Boxes Over 6 Months: $39.50/box = $79 - twice a year<br/>4 Boxes Over 12 Months: $38.75 = $155 - once a year",
+        "paragraph3":"Website: www.cratejoy.com"
     },
     "male-child":{
-        "name":"Toy Box Monthly",
-        "information":"Toys, surprises, and fun all in a neat package, conveniently delivered to your door every month for as little as $24, including shipping!  Every month, you'll discover the latest, greatest, and hard-to-find toys from the brands you love for one low price.  Our boxes are carefully hand-selected on a monthly basis by our Toy Box monthly team.  A monthly subscription is $25 a month.  A three-month pre-paid subscription averages $24.67 a month, totaling $74, four times a year.  A six-month pre-paid subscription is $24.50, totaling $147, twice a year.  An annual subscription is $24 a month, totaling $288, once a year.  For more information, go to www.toyboxmonthly.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/toymonthlybox.jpg",
-        "paragraph1":"Toys, surprises, and fun all in a neat package, conveniently delivered to your door every month for as little as $24, including shipping!  Every month, you'll discover the latest, greatest, and hard-to-find toys from the brands you love for one low price.  Our boxes are carefully hand-selected on a monthly basis by our Toy Box monthly team.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $25/month<br/>3-Month: $24.76/month = $74 - 4 times a year<br/>6-Month: $24.50/month = $147 - twice a year<br/>Annual: $24/month = $288 - once a year",
-        "paragraph3":"Website: www.toyboxmonthly.com"
+        "name":"Peas and Carrots Plant Based Food Club",
+        "information":"A subscription box filled with fun, family-friendly recipes for meals, snacks, and desserts.  Each monthly box is filled with delicious recipes, fun-filled games, and crafts.  Cooking in the kitchen is a great way for kids to learn.  And the bonus is they love to eat all the food they make.  Our meals are plant-based, but anyone can use them!  A monthly subscription is $24.95 a month.  A six-month pre-paid subscription is $22.95 a month, totaling $137.70, twice a year.  An annual subscription is $19.99 a month, totaling $239.88, once a year.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/peasandcarrotsplantbasedfoodclub.jpg",
+        "paragraph1":"A subscription box filled with fun, family-friendly recipes for meals, snacks, and desserts.  Each monthly box is filled with delicious recipes, fun-filled games, and crafts.  Cooking in the kitchen is a great way for kids to learn.  And the bonus is they love to eat all the food they make.  Our meals are plant-based, but anyone can use them!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $24.95/month<br/>6-Month: $22.95 = $137.70 - twice a year<br/>Annual: $19.99 = $239.88 - once a year",
+        "paragraph3":"Website: www.cratejoy.com"
     },
     "male-teen":{
-        "name":"Dungeon in a Box",
-        "information":"Dungeon in a box provides a one-stop solution for all your tabletop RPG adventuring needs.  Each month you get a new 28 or more adventure, 2 exclusive premium resin miniatures you can't get anywhere else, a set of Skinny Minis, two 18-inch by 24-inch gaming maps, and a set of 3D terrain and more!  A monthly subscription is $33 a month.  A three-month pre-paid subscription is $32 a month, totaling $96, four times a year.  A six-month, pre-paid subscription is $31 a month, totaling $186, twice a year.  An annual subscription is $29.50 a month, totaling $354, once a year.  For more information, go to www.dungeoninabox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/dungeoninabox.jpg",
-        "paragraph1":"Dungeon in a box provides a one-stop solution for all your tabletop RPG adventuring needs.  Each month you get a new 28+ adventure, 2 exclusive premium resin miniatures you can't get anywhere else, a set of Skinny Minis, two 18\" by 24\" gaming maps, and a set of 3D terrain and more!",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month<br/>3-Month: $32/month = $96 - 4 times a year<br/>6-Month: $31/month = $186 - twice a year<br/>Annual: $29.50/month = $354 - once a year",
-        "paragraph3":"Website: www.dungeoninabox.com"
+        "name":"House Plant Box",
+        "information":"House Plant Shop delivers a custom crafted collection of house plants and house plant products in a simple monthly package.  We use our large array of plants in our greenhouses to put together a uniquely themed box every month.  A monthly Plant Box is $12 a month.  A monthly Pet-Friendly House Plant Box is $12 a month.  A monthly Premium Plant Box is $30 a month.  A monthly Premium Pet-Friendly Plant Box is $30 a month.  A monthly Seasonal Garden Plant Box is $30 a month.  A monthly Pre-Potted Terra Cotta Plant Box is $35 a month.  For more information, go to www.houseplantbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/houseplantbox.jpg",
+        "paragraph1":"House Plant Shop delivers a custom crafted collection of house plants and house plant products in a simple monthly package.  We use our large array of plants in our greenhouses to put together a uniquely themed box every month.",
+        "paragraph2":"<u>Price List</u><br/>Plant Box: $12/month<br/>Pet-Friendly House Plant Box: $12/month<br/>Premium Plant Box: $30/month<br/>Premium Pet-Friendly Plant Box: $30/month<br/>Seasonal Garden Plant Box: $30/month<br/>Pre-Potted Terra Cotta Plant Box: $30/month",
+        "paragraph3":"Website: www.houseplantbox.com"
     },
     "male-adult":{
-        "name":"Monthly Automotive Subscription Box",
-        "information":"What's inside of the RPM Crate? T-shirt, magazine, air freshener plus something extra.  When you order, you can choose between J.D.M, Muscle Car, European, and all above.  A monthly subscription is $24.95 a month.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/monthlyautomotivesubscriptionbox.jpg",
-        "paragraph1":"What's inside of the RPM Crate? T-shirt, magazine, air freshener plus something extra.  When you order, you can choose between JDM, Muscle Car, European, and all above.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $24.95/month",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"The Appalachian Mercantile",
+        "information":"The J.Q. Dickinson Appalachian Mercantile is a selection of the finest foods, crafts, and home goods shipped directly to you.  Each box contains 6 to 7 items, and includes a recipe as well as a card telling you about each maker.  A monthly subscription is $45 a month.  A three-month pre-paid subscription is $42 a month, totaling $126, four times a year.  A six-month pre-paid subscription is $40 a month, totaling $240, twice a year.  An annual subscription is $38 a month, totaling $456, once a year.  For more information, go to www.jqdappalachianmercantile.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/theappalachianmercantile.jpg",
+        "paragraph1":"The J.Q. Dickinson Appalachian Mercantile is a selection of the finest foods, crafts, and home goods shipped directly to you.  Each box contains 6 - 7 items, and includes a recipe as well as a card telling you about each maker.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $45/month<br/>3-Month: $42/month = $126 - 4 times a year<br/>6-Month: $40/month = $240 - twice a year<br/>Annual: #38/month = $456 - once a year",
+        "paragraph3":"Website: www.jqdappalachianmercantile.com"
     },
     "female-baby":{
-        "name":"The Dashing Squad",
-        "information":"The dashing squad is your ticket to discover new trends, brands, and products that you haven't experienced yet.  Let us do the leg work for you.  We search far and wide for unique, high-quality items and combine them into one box for your convenience.  A mommy-and-me box is $49 every 2 months.  A mini box is $24 every two months.  For more information, go to www.thedashingsquad.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thedashingsquad.jpg",
-        "paragraph1":"The dashing squad is your ticket to discover new trends, brands, and products that you haven't experienced yet.  Let us do the leg work for you.  We search far and wide for unique, high-quality items and combine them into one box for your convenience.",
-        "paragraph2":"<u>Price List</u><br/>Mommy-And-Me Box: $49/bi-monthly<br/>Mini Box: $24/bi-monthly",
-        "paragraph3":"Website: www.thedashingsquad.com"
+        "name":"The Story Box",
+        "information":"The Story Box is a monthly delivery of children's books.  It's fun, exciting, and full of learning! Each package includes 2 children's books and a parent guide written by a speech-language pathologist.  Our boxes help you make the most of your family reading time.  A monthly subscription is $14.99 a month.  For more information, go to www.jointhestorybox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thestorybox.png",
+        "paragraph1":"The Story Box is a monthly delivery of children's books.  It's fun, exciting, and full of learning! Each package includes 2 children's books and a parent guide written by a speech-language pathologist.  Our boxes help you make the most of your family reading time.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $14.99/month",
+        "paragraph3":"Website: www.jointhestorybox.com"
     },
     "female-child":{
-        "name":"MyFavoriteKawaii Disney Japan Monthly",
-        "information":"Every set is different and includes 3 to 8 rare Japan-exclusive official Disney items.  Look forward to receiving a wide variety of cute Disney items all the way from Japan!  Perfect for fans looking for unique Disney items.  A monthly subscription is $39.99 a month.  A three-month pre-paid subscription averages $38.99 a month, totaling $116.98, four times a year. For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/myfavoritekawaiidisneyjapanmonthly.jpg",
-        "paragraph1":"Every set is different and includes 3 - 8 rare Japan-exclusive official Disney items.  Look forward to receiving a wide variety of cute Disney items all the way from Japan!  Perfect for fans looking for unique Disney items.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $38.99/month = $116.89 - 4 times a year",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"Loop Lab",
+        "information":"Bring the science lab into the comfort of your own home! Loop Lab is a mind-blowing monthly science subscription box with a focus on fun, interactivity, and entertainment.  Created by the team at Mad Science, with over 35 years of experience creating educational and entertaining science programs for kids.  A monthly subscription is $29.99 a month.  For more information, go to www.shop.madscience.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/looplab.jpg",
+        "paragraph1":"Bring the science lab into the comfort of your own home! Loop Lab is a mind-blowing monthly science subscription box with a focus on fun, interactivity, and entertainment.  Created by the team at Mad Science, with over 35 years of experience creating educational and entertaining science programs for kids.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $29.99",
+        "paragraph3":"Website: www.shop.madscience.com"
     },
     "female-teen":{
-        "name":"Bubbles and Bling Box",
-        "information":"Fun lifestyle box for every girly girl who loves glitter and sparkles galore! Bubbles and Bling box is a bi-monthly subscription that will arrive at your door around the 15th of every other month.  The box will contain a variety of pampering and feel-good items that every girly girl will want to use every day.  One box every two months is $45 a box.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bubblesandbling.jpg",
-        "paragraph1":"Fun lifestyle box for every girly girl who loves glitter and sparkles galore! Bubbles and Bling box is a bi-monthly subscription that will arrive at your door around the 15th of every other month.  The box will contain a variety of pampering and feel-good items that every girly girl will want to use every day.",
-        "paragraph2":"<u>Price List</u><br/>Bi-monthly: $45/box",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"Bath Blessing Box",
+        "information":"Bath Blessing Box is calling all Bath and Shower Lovers! We're your premier Spa Subscription! Each month you'll receive artisan, natural, and essential oil-based bath and body products to transform your bath into a Sanctuary.  Relax, Rinse, and Repeat! A monthly subscription is $39.99 a month.  A three-month pre-paid subscription is $37.99 a month, totaling $113.97, four times a year.  For more information, go to www.bathblessing.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bathblessingbox.jpg",
+        "paragraph1":"Bath Blessing Box is calling all Bath & Shower Lovers! We're your premier Spa Subscription! Each month you'll receive artisan, natural, and essential oil-based bath and body products to transform your bath into a Sanctuary.  Relax, Rinse, and Repeat!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $37.99 = $113.97 - 4 times a year",
+        "paragraph3":"Website: www.bathblessing.com"
     },
     "female-adult":{
-        "name":"She Bougie",
-        "information":"She Bougie Box, by P.G. Essentials, is a monthly subscription box catering to women of color that will feature at least 2 black-owned product brands in a box each month as well as highlighting various other brands in the beauty industry that are beneficial to women of color!  A monthly subscription is $39.99 a month.  A three-month pre-paid subscription is $35.99 a month, totaling $107.97, four times a year.  An annual pre-paid subscription is $29.99 a month, totaling $359.88, once a year.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/shebougie.jpg",
-        "paragraph1":"She Bougie Box, by P.G. Essentials, is a monthly subscription box catering to women of color that will feature at least 2 black-owned product brands in a box each month as well as highlighting various other brands in the beauty industry that are beneficial to women of color!",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $35.99/month = $107.97 - 4 times a year<br/>Annual: $29.99/month = $359.88 - once a year",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"Bath Bevy",
+        "information":"Bath Bevy is the subscription box for the bath and body lover.  Check out our new tubeless option! We deliver a carefully curated selection of homemade bath and body products from indie bath and body brands around a theme to your door every month.  A monthly subscription is $38.95 a month.  A three-month pre-paid subscription is $36.95 a month, totaling $110.95, four times a year.  A six-month pre-paid subscription is $35.95 a month, totaling $215.70, twice a year.  An annual pre-paid subscription is $34.95 a month, totaling $419.40, once a year.  For more information, go to www.bathbevy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bathbevy.jpg",
+        "paragraph1":"Bath Bevy is the subscription box for the bath and body lover.  Check out our new tubeless option! We deliver a carefully curated selection of homemade bath and body products from indie bath and body brands around a theme to your door every month.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $38.95/month<br/>3-Month: $36.95/month = $110.95 - 4 times a year<br/>6-Month: $35.95/month = $215.70 - twice a year<br/>Annual: $34.95/month = $419.40 - once a year",
+        "paragraph3":"Website: www.bathbevy.com"
     },
     "neutral-baby":{
-        "name":"Little Minds Learning Box",
-        "information":"Twenty plus activities to help develop children's skills through crafts, games, and direction following activities.  Skills include gross motor, fine motor, math, science activities, and more!  A one Kid Learning box is $28.95 a month.  A two kid learning box is $38.98 a month.  A three kid learning box is $46.95 a month.  A bulk learning box is $90 a month.  For more information, go to www.littlemindslearningbox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/littlemindslearningbox.jpeg",
-        "paragraph1":"20+ activities to help develop children's skills through crafts, games, and direction following activities.  Skills include gross motor, fine motor, math, science activities, and more!",
-        "paragraph2":"<u>Price List</u><br/>1 Kid Learning Box: $28/month<br/>2 Kid Learning Box: $38.98/month<br/>3 Kid Learning Box: $46.95/month<br/>Bulk Learning Box: $90/month",
-        "paragraph3":"Website: www.littlemindslearningbox.com"
+        "name":"Bookroo",
+        "information":"Bookroo is a monthly subscription for your kids that helps them fall in love with reading by combining the excitement of opening a gift with the discovery of new treasured books.  We send hidden gems your kids will LOVE, so you can build a home library of quality books stress-free!  A Bookroo Book box is $16.95 a month.  A Bookroo Chapter Book Box is $21.95 a month.  For more information, go to www.bookroo.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bookroo.png",
+        "paragraph1":"Bookroo is a monthly subscription for your kids that helps them fall in love with reading by combining the excitement of opening a gift with the discovery of new treasured books.  We send hidden gems your kids will LOVE, so you can build a home library of quality books stress-free!",
+        "paragraph2":"<u>Price List</u><br/>Bookroo Book Box: $16.95/month<br/>Bookroo Chapter Book Box: $21.95/month",
+        "paragraph3":"Website: www.bookroo.com"
     },
     "neutral-child":{
-        "name":"Math Bricks",
-        "information":"A subscription service that combines the fun of building models out of Lego bricks with a tangible exploration of fundamental math concepts.  Intended for early elementary age children, each package contains a lesson, instructions for building a model, bricks, and a minifig.  A zoo, basic math subscription, delivered once a month, is $23.75 a month.  A zoo, basic math subscription, delivered twice a month, is $47 a month.  A castle, fractions subscription, delivered once a month, is $33.33 a month.  A castle, fractions subscription, delivered twice a month, is $65.83 a month.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/mathbricks.jpg",
-        "paragraph1":"A subscription service that combines the fun of building models out of Lego bricks with a tangible exploration of fundamental math concepts.  Intended for early elementary age children, each package contains a lesson, instructions for building a model, bricks, and a minifig.",
-        "paragraph2":"<u>Price List</u><br/>Zoo Basic Math: $23.75/month - 1 a month<br/>Zoo Basic Math: $47/month - 2 a month<br/>Castle Fractions: $33.33/month - 1 a month<br/>Castle Fractions: $65.83/month - 2 a month",
+        "name":"Backpack the World",
+        "information":"Explore a new country every month with this exciting program.  Our kits, which include political, geographical, economic, cultural information, activities, and recipes from around the world for children ages 8 to 14.  A monthly subscription is $33.95 a month.  A three-month pre-paid subscription is $27.95 a month, totaling $83.85, four times a year.  A six-month pre-paid subscription is $26.95 a month, totaling $161.70, twice a year.  An annual subscription is $25.95 a month, totaling $311.40, once a year.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/backpacktheworld.jpg",
+        "paragraph1":"Explore a new country every month with this exciting program.  Our kits, which include political, geographical, economic, cultural information, activities, and recipes from around the world for children ages 8 to 14.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33.95/month<br/>3-Month: $27.95/month = $83.85 - 4 times a year<br/>6-Month: $26.95/month = $161.70 - twice a year<br/>Annual: $25.95/month = $311.40 - once a year",
         "paragraph3":"Website: www.cratejoy.com"
     },
     "neutral-teen":{
-        "name":"PostSesh",
-        "information":"PostSesh's monthly subscription box will include 7 to 10 snacks.  Everything from sweet to salty or even sour.  On top of that, you will also receive new after sesh products each month. The HotBox subscription is $29.99 a month.  A Lightweight subscription is $14.99 a month.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/postsesh.jpg",
-        "paragraph1":"PostSesh's monthly subscription box will include 7 - 10 snacks.  Everything from sweet to salty or even sour.  On top of that, you will also receive new after sesh products each month.",
-        "paragraph2":"<u>Price List</u><br/>Hotbox: $29.99/month<br/>Lightweight: $14.99/month",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"Match Made Coffee",
+        "information":"Each month, you'll receive a curated pairing of freshly roasted international craft coffee along with perfectly flavor-paired gourmet cookies, delivered to your doorstep.  Forget wine and cheese, indulge in or gift this unique coffee pairing experience, and enjoy your match made in heaven.  A monthly subscription is $19.95 a month.  For more information, go to www.matchmadecoffee.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/matchmadecoffee.jpg",
+        "paragraph1":"Each month, you'll receive a curated pairing of freshly roasted international craft coffee along with perfectly flavor-paired gourmet cookies, delivered to your doorstep.  Forget wine and cheese, indulge in or gift this unique coffee pairing experience, and enjoy your match made in heaven.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $19.95/month",
+        "paragraph3":"Website: www.matchmadecoffee.com"
     },
     "neutral-adult":{
-        "name":"Dripbox",
-        "information":"Our passion is to connect you with independent artisanal roasters across the US to deliver fresh, quality coffee to your doorstep.  We believe in supporting small businesses and getting to know the names and faces behind them.  A Dripbox sampler box is $26.99 a month.  A Dripbox Bag of Coffee subscription is $18.50 a month.  For more information, go to www.cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/dripbox.jpg",
-        "paragraph1":"Our passion is to connect you with independent artisanal roasters across the US to deliver fresh, quality coffee to your doorstep.  We believe in supporting small businesses and getting to know the names and faces behind them.",
-        "paragraph2":"<u>Price List</u><br/>Dripbox Sampler: $26.99/month<br/>Dripbox Bag of Coffee: $18.50/month",
-        "paragraph3":"Website: www.cratejoy.com"
+        "name":"Habitation Box",
+        "information":"Want to walk into a home that feels, clean, calm, and welcoming? That feeling starts with your decor.  Each month you receive on-trend items that freshen up your home for each season.  Both Habitation One, containing 3 to 5 items, and Habitation Two, containing 6 to 8 items, contain decor and accessories such as hand towels, candles, seasonal decor, and so much more.  A monthly box is $60 a month.  A three-month pre-paid subscription averages $58.33 a month, totaling $175, four times a month.  A six-month pre-paid subscription averages $58.33 a month, totaling $350 a month, twice a month.  An annual subscription is $57.50 a month, totaling $690, once a month.  For more information, go to www.habitationbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/habitationbox.png",
+        "paragraph1":"Want to walk into a home that feels, clean, calm, and welcoming? That feeling starts with your decor.  Each month you receive on-trend items that freshen up your home for each season.  Both Habitation I (3 - 5 items) and Habitation II (6 - 8 items) contain decor and accessories such as hand towels, candles, seasonal decor, and so much more.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $60/month<br/>3-Month: $58.33/month = $175 - 4 times a month<br/>6-Month: $58.33/month = $350 - twice a month<br/>Annual: $57.50/month = $690 - once a month",
+        "paragraph3":"Website: www.habitationbox.com"
     }
 }
