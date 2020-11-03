@@ -1,7 +1,7 @@
 {
     "pet":{
         "name":"Kaause",
-        "information":"Monthly subscription box filled with fun and excitement.  Kaause Pet Box will surprise you with 2 to 3 treats, 2 to 3 fun toys, a poop bag, homemade Kaause accessories with a gift for the pawrent as well.  Give your pet a gift with their very own Kaause Box filled with joy and excitement.  Join us and make your dog so happy! Kaause they deserve it.  A monthly subscription is $44.99 a month.  A three-month pre-paid subscription is $39.99 a month, totaling $119.97, four times a year.  A six-month pre-paid subscription is $34.99 a month, totaling $209.94, twice a year.  An annual pre-paid subscription is $29.99 a month, totaling $359.88, once a year.  For more information, go to www.kaause.com.",
+        "information":"Monthly subscription box filled with fun and excitement.  Kaause Pet Box will surprise you with 2 to 3 treats, 2 to 3 fun toys, a poop bag, homemade Kaause accessories with a gift for the paw-rent as well.  Give your pet a gift with their very own Kaause Box filled with joy and excitement.  Join us and make your dog so happy! Kaause they deserve it.  A monthly subscription is $44.99 a month.  A three-month pre-paid subscription is $39.99 a month, totaling $119.97, four times a year.  A six-month pre-paid subscription is $34.99 a month, totaling $209.94, twice a year.  An annual pre-paid subscription is $29.99 a month, totaling $359.88, once a year.  For more information, go to www.kaause.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/kaause.jpg",
         "paragraph1":"Monthly subscription box filled with fun and excitement.  Kaause Pet Box will surprise you with 2 - 3 treats, 2 - 3 fun toys, a poop bag, homemade Kaause accessories with a gift for the pawrent as well.  Give your pet a gift with their very own Kaause Box filled with joy and excitement.  Join us and make your dog so happy! Kaause they deserve it.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $44.99/month<br/>3-Month: $39.99/month = $119.97 - 4 times a year<br/>6-Month: $34.99/month = $209.94 - twice a year<br/>Annual: $29.99/month = $359.88 - once a year",
@@ -17,9 +17,9 @@
     },
     "male-baby":{
         "name":"OurShelves",
-        "information":"Give the gift of beautiful boxes that both ignite imagination and wonder, and also feature diverse characters and families.  Watch with joy and pride as the special little ones in your world receive these beautiful books each quarter.  For one box every 3 months, it's $14.99 a box.  For two boxes over six months, it's $13.99 a box, totaling $27.98, twice a year.  For four boxes over twelve months, it's $12.99 a box, totaling $51.96, once a year.  For more information, go to www.ourshelves.com.",
+        "information":"Give the gift of beautiful books that both ignite imagination and wonder, and also feature diverse characters and families.  Watch with joy and pride as the special little ones in your world receive these beautiful books each quarter.  For one box every 3 months, it's $14.99 a box.  For two boxes over six months, it's $13.99 a box, totaling $27.98, twice a year.  For four boxes over twelve months, it's $12.99 a box, totaling $51.96, once a year.  For more information, go to www.ourshelves.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/ourshelves.png",
-        "paragraph1":"Give the gift of beautiful boxes that both ignite imagination and wonder, and also feature diverse characters and families.  Watch with joy and pride as the special little ones in your world receive these beautiful books each quarter.",
+        "paragraph1":"Give the gift of beautiful books that both ignite imagination and wonder, and also feature diverse characters and families.  Watch with joy and pride as the special little ones in your world receive these beautiful books each quarter.",
         "paragraph2":"<u>Price List</u><br/>1 Box Every 3 Months: $14.99/box<br/>2 Boxes Over 6 Months: $13.99/box = $27.98 - twice a year<br/>4 Boxes Over 12 Months: $12.99/box = $51.96 - once a year",
         "paragraph3":"Website: www.ourshelves.com"
     },
@@ -33,7 +33,7 @@
     },
     "male-teen":{
         "name":"Dungeon Crate",
-        "information":"Price includes shipping! Dungeon Crate is the perfect subscription for fans of Dungeons and Dragons, Pathfinder, and other role-playing games.  Each month, subscribers receive a box of thoughtfully curated gaming accessories like minis, terrain, dice, and original adventures.  The membership includes our monthly Digital Crate.  A monthly subscription is $35.95 a month.  A three-month pre-paid subscription averages $34.33, totaling $103, four times a year.  A six-month pre-paid subscription is $32.50, totaling $195, twice a year.  An annual pre-paid subscription is $29 a month, totaling $348, once a year.  For more information, go to www.dungeoncrate.com.",
+        "information":"Price includes shipping! Dungeon Crate is the perfect subscription for fans of Dungeons and Dragons, Pathfinder, and other role-playing games.  Each month, subscribers receive a box of thoughtfully curated gaming accessories like minis, terrain, dice, and original adventures.  The membership includes our monthly Digital Crate.  A monthly subscription is $35.95 a month.  A three-month pre-paid subscription averages $34.33, totaling $103, four times a year.  A six-month pre-paid subscription is $32.50 a month, totaling $195, twice a year.  An annual pre-paid subscription is $29 a month, totaling $348, once a year.  For more information, go to www.dungeoncrate.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/dungeoncrate.jpg",
         "paragraph1":"Price includes shipping! Dungeon Crate is the perfect subscription for fans of Dungeons and Dragons, Pathfinder, and other role-playing games.  Each month, subscribers receive a box of thoughtfully curated gaming accessories like minis, terrain, dice, and original adventures.  The membership includes our monthly Digital Crate.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $35.95/month<br/>3-Month: $34.33/month = $103 - 4 times a year<br/>6-Month: $32.50/month = $195 - twice a year<br/>Annual: $29/month = $348 - once a year",
@@ -41,7 +41,7 @@
     },
     "male-adult":{
         "name":"The Deadbolt Mystery Society Box",
-        "information":"Enjoy immersive scenarios, intriguing characters, and original compelling stories with your friends and family! Every month subscribers receive a new stand-alone case file with everything needed to close the case and solve the mystery!  A monthly subscription is $24.99 a month.  A three-month pre-paid subscription is $23.33 a month, totaling $69.99, four times a year.  A six-month pre-paid subscription averages $22.50, totaling $134.99, twice a year.  An annual subscription averages $21.67 a month, totaling $259.99, once a year.  For more information, go to deadboltmysterysociety.com.",
+        "information":"Enjoy immersive scenarios, intriguing characters, and original compelling stories with your friends and family! Every month subscribers receive a new stand-alone case file with everything needed to close the case and solve the mystery!  A monthly subscription is $24.99 a month.  A three-month pre-paid subscription is $23.33 a month, totaling $69.99, four times a year.  A six-month pre-paid subscription averages $22.50 a month, totaling $134.99, twice a year.  An annual subscription averages $21.67 a month, totaling $259.99, once a year.  For more information, go to deadboltmysterysociety.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thedeadboltmysterysocietybox.png",
         "paragraph1":"Enjoy immersive scenarios, intriguing characters, and original compelling stories with your friends and family! Every month subscribers receive a new stand-alone case file with everything needed to close the case and solve the mystery!",
         "paragraph2":"<u>Price List</u><br/>Monthly: $24.99/month<br/>3-Month: $23.33/month = $69.99 - 4 times a year<br/>6-Month: $22.50/month = $134.99 - twice a year<br/>Annual: $21.67/month = $259.99 - once a year",
@@ -57,9 +57,9 @@
     },
     "female-child":{
         "name":"Popcorn and Books",
-        "information":"Popcorn and Books is a monthly subscription box curated by 9-year-old Karter Johnson whose goal is to encourage kids to read more and to enjoy reading.  Each month Karter handpicks items to include in the box.  Your child will receive 2 books, a snack of popcorn, and a candy treat, and other surprises that will vary.  A monthly subscription is $33 a month.  For more information, go to www.cratejoy.com.",
+        "information":"Popcorn and Books is a monthly subscription box curated by 9-year-old Karter Johnson whose goal is to encourage kids to read more and to enjoy reading.  Each month Karter handpicks items to include in the box.  Your child will receive 2 books, a snack of popcorn, a candy treat, and other surprises that will vary.  A monthly subscription is $33 a month.  For more information, go to www.cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/popcornandbooks.png",
-        "paragraph1":"Popcorn and Books is a monthly subscription box curated by 9-year-old Karter Johnson whose goal is to encourage kids to read more and to enjoy reading.  Each month Karter handpicks items to include in the box.  Your child will receive 2 books, a snack of popcorn, and a candy treat, and other surprises that will vary.",
+        "paragraph1":"Popcorn and Books is a monthly subscription box curated by 9-year-old Karter Johnson whose goal is to encourage kids to read more and to enjoy reading.  Each month Karter handpicks items to include in the box.  Your child will receive 2 books, a snack of popcorn, a candy treat, and other surprises that will vary.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $33/month",
         "paragraph3":"Website: www.cratejoy.com"
     },
@@ -68,7 +68,7 @@
         "information":"Ever wanted to discover the secrets of ancient cultures and lost civilizations? Or partake in grand Roman and Mayan games? Or how about mysteries in the 1001 Arabian Nights? Or a murder on the orient express perhaps? Join the Enigma Fellowship and participate in the escape room style adventure that takes you across fantastic stories.  For one box every two months, it's $22 a box.  For two boxes over four months, it's $21.50 a box, totaling $43, 3 times a year.  For three boxes over 6 months, it's $21 a box, totaling $63, twice a year.  For six boxes over 12 months, it's $20.50 a box, totaling $123, once a year.  For more information, go to www.enigma fellowship.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/enigmafellowship.png",
         "paragraph1":"Ever wanted to discover the secrets of ancient cultures and lost civilizations? Or partake in grand Roman and Mayan games? Or how about mysteries in the 1001 Arabian Nights? Or a murder on the orient express perhaps? Join the Enigma Fellowship and participate in the escape room style adventure that takes you across fantastic stories.",
-        "paragraph2":"<u>Price List</u><br/>1 Box Over 2 Months: $22/box<br/>2 Boxes Over 4 Months: $21.50/box = $43 - 3 times a year<br/>3 Boxes Over 6 Months: $21/box = $63 - twice a year<br/>6 Boxes Over 12 Months: $20.50/box = $123 - once a year",
+        "paragraph2":"<u>Price List</u><br/>1 Box Every 2 Months: $22/box<br/>2 Boxes Over 4 Months: $21.50/box = $43 - 3 times a year<br/>3 Boxes Over 6 Months: $21/box = $63 - twice a year<br/>6 Boxes Over 12 Months: $20.50/box = $123 - once a year",
         "paragraph3":"Website: www.enigmafellowship.com"
     },
     "female-adult":{
