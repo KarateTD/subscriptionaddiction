@@ -1,14 +1,14 @@
 {
     "pet":{
         "name":"The Dapper Dog Box",
-        "information":"The Dapper Dog subscription box sends you a monthly box of healthy treats, adorable toys, and a gorgeous, limited edition bandana available exclusively from Dapper Dog.  Our boxes have a gorgeous exterior and interior which made them perfect gifts for friends and family.  A No Treats Box is $20 a month.  A Standard Box is $33.50 a month.  For more information, go to www.thedapperdogbox.com.",
+        "information":"The Dapper Dog subscription box sends you a monthly box of healthy treats, adorable toys, and a gorgeous, limited edition bandana available exclusively from Dapper Dog.  Our boxes have a gorgeous exterior and interior which make them perfect gifts for friends and family.  A No Treats Box is $20 a month.  A Standard Box is $33.50 a month.  For more information, go to www.thedapperdogbox.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thedapperdogbox.jpg",
-        "paragraph1":"The Dapper Dog subscription box sends you a monthly box of healthy treats, adorable toys, and a gorgeous, limited edition bandana available exclusively from Dapper Dog.  Our boxes have a gorgeous exterior and interior which made them perfect gifts for friends and family.  ",
+        "paragraph1":"The Dapper Dog subscription box sends you a monthly box of healthy treats, adorable toys, and a gorgeous, limited edition bandana available exclusively from Dapper Dog.  Our boxes have a gorgeous exterior and interior which make them perfect gifts for friends and family.  ",
         "paragraph2":"<u>Price List</u><br/>No Treats Box: $20/month<br/>Standard Box: $33.50/month",
         "paragraph3":"Website: www.thedapperdogbox.com"
     },
     "box of the week":{
-        "name":"Genevas Grove",
+        "name":"Geneva's Grove",
         "information":"The vision of Geneva's Grove is to create a culture of gratefulness, where individuals can give and receive God's greatest gift: Love.  Geneva's Grove provides inspirational and uplifting carefully selected items that allow people to feel loved.  Providing gifts that express appreciation, kindness, and generosity.  A monthly subscription is $44.97 a month.  A three-month pre-paid subscription is $39.99 a month, totaling $119.97, four times a year.  A six-month pre-paid subscription averages $37.99 a month, totaling $227.97, twice a year.  An annual pre-paid subscription averages $32.08 a month, totaling $384.97, once a year.  For more information, go to www.genevasgrove.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/genevasgrove.jpg",
         "paragraph1":"The vision of Geneva's Grove is to create a culture of gratefulness, where individuals can give and receive God's greatest gift: Love.  Geneva's Grove provides inspirational and uplifting carefully selected items that allow people to feel loved.  Providing gifts that express appreciation, kindness, and generosity.",
@@ -19,7 +19,7 @@
         "name":"Joynergy Box",
         "information":"We customize our toys to your child's needs using STEM concepts of childhood development.  Our team of experts selects toys designed to enhance your child's knowledge and perception of the world from a safe and happy vantage point.  A monthly subscription is $37.99 a month.  A three-month pre-paid subscription is $35.99 a month, totaling $107.97, four times a year.  A six-month pre-paid subscription is $32.99 a month, totaling $197.94, twice a year.  An annual pre-paid subscription is $29.99 a month, totaling $359.88, once a year.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/joynergybox.png",
-        "paragraph1":"e customize our toys to your child's needs using STEM concepts of childhood development.  Our team of experts selects toys designed to enhance your child's knowledge and perception of the world from a safe and happy vantage point.",
+        "paragraph1":"We customize our toys to your child's needs using STEM concepts of childhood development.  Our team of experts selects toys designed to enhance your child's knowledge and perception of the world from a safe and happy vantage point.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $37.99/month<br/>3-Month: $35.99/month = $107.97 - 4x a year<br/>6-Month: $32.99/month = $197.94 - 2x a year<br/>Annual: $29.99/month = $359.88 - 1x a year",
         "paragraph3":"Website: cratejoy.com"
     },
@@ -33,9 +33,9 @@
     },
     "male-teen":{
         "name":"Stress Free Box",
-        "information":"You will receive a 30-day supply that includes My Health Body Supplement Kit and One My Healthy Mood Essential Oil roll-on.  This box helps the body adapt to stress and calm the mind.  Project the immune system and support overall mind-body wellness.  A monthly subscription is $76.95 a month.  A three-month pre-paid subscription averages $73.62 a month, totaling $220.85, four times a year.  A six-month pre-paid subscription is $71.95 a month, totaling $431.70, twice a year.  For more information, go to cratejoy.com.",
+        "information":"You will receive a 30-day supply that includes My Health Body Supplement Kit and One My Healthy Mood Essential Oil roll-on.  This box helps the body adapt to stress and calm the mind.  Protect the immune system and support overall mind-body wellness.  A monthly subscription is $76.95 a month.  A three-month pre-paid subscription averages $73.62 a month, totaling $220.85, four times a year.  A six-month pre-paid subscription is $71.95 a month, totaling $431.70, twice a year.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/stressfreebox.png",
-        "paragraph1":"You will receive a 30-day supply that includes My Health Body Supplement Kit and One My Healthy Mood Essential Oil roll-on.  This box helps the body adapt to stress and calm the mind.  Project the immune system and support overall mind-body wellness.",
+        "paragraph1":"You will receive a 30-day supply that includes My Health Body Supplement Kit and One My Healthy Mood Essential Oil roll-on.  This box helps the body adapt to stress and calm the mind.  Protect the immune system and support overall mind-body wellness.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $76.95/month<br/>3-Month: $73.62/month = $220.85 - 4x a year<br/>6-Month: $71.95/month = $431.70 - 2x a year",
         "paragraph3":"Website: cratejoy.com"
     },
@@ -57,9 +57,9 @@
     },
     "female-child":{
         "name":"Quirky-Crate",
-        "information":"Voted USA Today's number 1 Lifestyle subscription boxes of 2020.  Finally, a subscription box that is as fun as you are.  Quirky crate delivers a party in a box to your door each month.  You will receive at least 7 to 10 quirky items, including an enamel pin, an item from a featured indie artist every month, and a fun pair of socks each box.  A monthly subscription is $36.95 a month.  A three-month pre-paid subscription averages $36.67 a month, totaling $110, four times a year.  A six-month pre-paid subscription averages $35.83, totaling $215, twice a year.  For more information, go to www.quirkycrate.com.",
+        "information":"Voted USA Today's number 1 Lifestyle subscription boxes of 2020.  Finally, a subscription box that is as fun as you are.  Quirky crate delivers a party in a box to your door each month.  You will receive at least 7 to 10 quirky items, including an enamel pin, an item from a featured indie artist every month, and a fun pair of socks in each box.  A monthly subscription is $36.95 a month.  A three-month pre-paid subscription averages $36.67 a month, totaling $110, four times a year.  A six-month pre-paid subscription averages $35.83, totaling $215, twice a year.  For more information, go to www.quirkycrate.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/quirkycrate.png",
-        "paragraph1":"Voted USA Today's #1 Lifestyle subscription boxes of 2020.  Finally, a subscription box that is as fun as you are.  Quirky crate delivers a party in a box to your door each month.  You will receive at least 7 - 10 quirky items, including an enamel pin, an item from a featured indie artist every month, and a fun pair of socks each box.",
+        "paragraph1":"Voted USA Today's #1 Lifestyle subscription boxes of 2020.  Finally, a subscription box that is as fun as you are.  Quirky crate delivers a party in a box to your door each month.  You will receive at least 7 - 10 quirky items, including an enamel pin, an item from a featured indie artist every month, and a fun pair of socks in each box.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $36.95/month<br/>3-Month: $36.67/month = $110 - 4x a year<br/>6-Month: $35.83/month = $215 - 2x a year",
         "paragraph3":"Website: www.quirkycrate.com"
     },
@@ -76,7 +76,7 @@
         "information":"We provide artisan, fair trade bandana scarves in natural fabrics like silk and wool.  All of our bandana scarves are extra-large 30 inches! Wear your handmade bandana scarf around your neck, around your bag, around your head, or even around your face as a non-medical face mask! Change the world and look great doing it.  For one box every two months, it's $39.95 a box.  For two boxes over four months, it's $37.95 a box, totaling $75.90, three times a year.  For three boxes over six months, it's $35.95 a box, totaling $107.85, twice a year.  For more information, go to www.threadandflourish.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/threadandflourish.jpg",
         "paragraph1":"We provide artisan, fair trade bandana scarves in natural fabrics like silk and wool.  All of our bandana scarves are extra-large 30\"! Wear your handmade bandana scarf around your neck, around your bag, around your head, or even around your face as a non-medical face mask! Change the world and look great doing it.",
-        "paragraph2":"<u>Price List</u><br/>1 box Every 2 Months = $39.95/box<br/>2 Boxes Over 4 Months = $37.95/box = $75.90 - 3x a year<br/>3 boxes over 6 months = $35.95/box = $107.85 - 2x a year",
+        "paragraph2":"<u>Price List</u><br/>1 box Every 2 Months = $39.95/box<br/>2 Boxes Over 4 Months = $37.95/box = $75.90 - 3x a year<br/>3 boxes Over 6 months = $35.95/box = $107.85 - 2x a year",
         "paragraph3":"Website: www.threadandflourish.com"
     },
     "neutral-baby":{
@@ -92,7 +92,7 @@
         "information":"Slime box is a premium subscription box for people who love touching and playing with slime.  Every month you will receive a themed box that contains a wide variety of slime to play with.  The following prices are for the monthly slime box.  A monthly subscription is $24.99 a month.  A three-month pre-paid subscription is $24 a month, totaling $72, four times a year.  A six-month pre-paid subscription is $21 a month, totaling $126, twice a year.  An annual subscription is $22 a month, totaling $264, once a year.  For more information, go to cratejoy.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/slime.png",
         "paragraph1":"Slime box is a premium subscription box for people who love touching and playing with slime.  Every month you will receive a themed box that contains a wide variety of slime to play with.  The following prices are for the monthly slime box.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $24.99/month<br/>3-Month: $24 = $72 - 4x a year<br/>6-Month: $21/month = $126 - 2x a year<br/>Annual: $22/month = $264 - 1x a year",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $24.99/month<br/>3-Month: $24/month = $72 - 4x a year<br/>6-Month: $21/month = $126 - 2x a year<br/>Annual: $22/month = $264 - 1x a year",
         "paragraph3":"Website: cratejoy.com"
     },
     "neutral-teen":{
@@ -108,7 +108,7 @@
         "information":"Each month we carefully cultivate our box around a different theme, topic, or area of personal growth.  We then choose products and design a plan for the month that will promote and challenge your growth in that area!  A monthly subscription is $45 a month.  A three-month pre-paid subscription is $42.75 a month, totaling $128.25, four times a year.  For more information, go to www.coachcrate.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/coachcrate.jpg",
         "paragraph1":"Each month we carefully cultivate our box around a different theme, topic, or area of personal growth.  We then choose products and design a plan for the month that will promote and challenge your growth in that area!",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $45/month<br/>3-Month: $42.75 = $128.25 - 4x a year",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $45/month<br/>3-Month: $42.75/month = $128.25 - 4x a year",
         "paragraph3":"Website: www.coachcrate.com"
     }
 }
