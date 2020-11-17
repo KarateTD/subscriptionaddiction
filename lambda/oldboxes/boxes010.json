@@ -1,0 +1,114 @@
+{
+    "pet":{
+        "name":"Dog Mom Box",
+        "information":"We are the first and original subscription box for dog moms! Each box will come with carefully picked items geared to the dog mom and for your doggy! We support small businesses, so we strive to include wonderfully curated products!  Each box comes with 5 to 7 items! A one-dog box is $34.99 a month.  A two-dog box is $52.99 a month.  A three-dog box is $70.49 a month.  For more information, go to www.dogmombox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/dogmombox.png",
+        "paragraph1":"We are the first and original subscription box for dog moms! Each box will come with carefully picked items geared to the dog mom and for your doggy! We support small businesses, so we strive to include wonderfully curated products!  Each box comes with 5 - 7 items!",
+        "paragraph2":"<u>Price List</u><br/>One-Dog: $34.99/month<br/>Two-Dog: $52.99/month<br/>Three-Dog: $70.49/month",
+        "paragraph3":"Website: www.dogmombox.com"
+    },
+    "box of the week":{
+        "name":"Blue Apron",
+        "information":"The ultimate in meal kits, Blue Apron sends you all the ingredients your family needs to cook at home and eat healthfully.  With a variety of meal plans to choose from, it's easy to explore new ways of cooking and try new foods!  The following price list is for a 4-person meal.  A two-meal box is $51.92 a box.  A three-meal box is $75.88 a box.  A four-meal box is $99.84 a box.  For more information, go to blue apron.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/blueapron.jpeg",
+        "paragraph1":"The ultimate in meal kits, Blue Apron sends you all the ingredients your family needs to cook at home and eat healthfully.  With a variety of meal plans to choose from, it's easy to explore new ways of cooking and try new foods!",
+        "paragraph2":"<u>Price List</u><br/>Two-Meal: $51.92/box<br/>Three-Meal: $75.88/box<br/>Three-Meal: $99.84/box",
+        "paragraph3":"Website: blueapron.com."
+    },
+    "male-baby":{
+        "name":"The Rad Dad Box",
+        "information":"Introducing the monthly dad starter kit! Each month, we'll send Dad a kit filled with fun and useful products welcoming him to fatherhood.  With these curated boxes, he'll get the support he needs.  A monthly subscription is $25 a month.  A three-month pre-paid subscription is $24 a month, totaling $72, four times a year.  A six-month pre-paid subscription is $22 a year, totaling $132, twice a year.  For more information, go to www.raddadbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/raddadbox.jpeg",
+        "paragraph1":"Introducing the monthly dad \"starter kit\"! Each month, we'll send Dad a kit filled with fun and useful products welcoming him to fatherhood.  With these curated boxes, he'll get the support he needs.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $25/month<br/>3-Month: $24/month = $72 - 4x a year<br/>6-Month: $22/month = $132 - 2x a year",
+        "paragraph3":"Website: www.raddadbox.com"
+    },
+    "male-child":{
+        "name":"Club SciKidz Labs",
+        "information":"Club SciKids specializes in sending engaging and fun career-related science kits each month! Each lab kit is a comprehensive collection of STEM-based hands-on activities, experiments, and projects that will help young scientists and engineers explore the wonders of the world around them.  A monthly subscription is $34.95 a month.  A three-month pre-paid subscription is $32.95 a month, totaling $98.85, four times a year.  A six-month pre-paid subscription is $30.95 a month, totaling $185.70, twice a year.  An annual pre-paid subscription is $28.95 a month, totaling $347.40, once a year.  For more information, go to www.clubsci kidslabs.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/clubscikidzlabs.jpg",
+        "paragraph1":"Club SciKids specializes in sending engaging and fun career-related science kits each month! Each lab kit is a comprehensive collection of STEM-based hands-on activities, experiments, and projects that will help young scientists and engineers explore the wonders of the world around them.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $34.95/month<br/>3-Month: $32.95/month = $98.85 - 4x a year<br/>6-Month: $30.95/month = $185.70 - 2x a year<br/>Annual: $28.95/month = $347.70 - 1x a year",
+        "paragraph3":"Website: www.clubscikidslabs.com"
+    },
+    "male-teen":{
+        "name":"Marshmallow of the Month Club",
+        "information":"Our marshmallows are made with all-natural ingredients and colors to infuse flavors and brighten each batch.  Our marshmallows are made using fish-based gelatin, perfect for pescatarians! Treat yourself with your egg free and corn syrup free marshmallows.  Our guilt-free confections are based on an hour of me-time! Boxes can be curated for tea, cocoa, or coffee lovers.  A monthly subscription is $25 a month.  A three-month pre-paid subscription is $24 a month, totaling $72, four times a year.  A six-month pre-paid subscription is $22 a month, totaling $132, twice a year.  An annual pre-paid subscription is $20 a month, totaling $240, once a year.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/marshmallowofthemonthclub.png",
+        "paragraph1":"Our marshmallows are made with all-natural ingredients and colors to infuse flavors and brighten each batch.  Our marshmallows are made using fish-based gelatin, perfect for pescatarians! Treat yourself with your egg free and corn syrup free marshmallows.  Our guilt-free confections are based on an hour of me-time! Boxes can be curated for tea, cocoa, or coffee lovers.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $25/month<br/>3-Month: $24/month = $72 - 4x a year<br/>6-Month: $22/month = $132 - 2x a year<br/>Annual: $20/month = $240 - 1x a year",
+        "paragraph3":"Website: cratejoy.com"
+    },
+    "male-adult":{
+        "name":"Saloon DIY Cocktail Kit",
+        "information":"Are you an expert mixologist? Do you want to become one? Then this is the box for you! The SaloonBox subscription box provides you with everything you need - including the spirits! - to create unique craft cocktails in your own home.  A three-month pre-paid subscription averages $53 a month, totaling $158.99, four times a year.  A six-month pre-paid subscription averages $51 a month, totaling $305.99, twice a year.  An annual pre-paid subscription averages $49 a month, totaling $587.99, once a year.  For more information, go to saloonbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/saloonbox.jpg",
+        "paragraph1":"Are you an expert mixologist? Do you want to become one? Then this is the box for you! The SaloonBox subscription box provides you with everything you need - including the spirits! - to create unique craft cocktails in your own home.",
+        "paragraph2":"<u>Price List</u><br/>3-Month: $53/month = $158.99 - 4x a year<br/>6-Month: $51/month = $305.99 - 2x a year<br/>Annual: $49/month = $587.99 - 1x a year",
+        "paragraph3":"Website: saloonbox.com"
+    },
+    "female-baby":{
+        "name":"Moms and Babes Box",
+        "information":"Friends, Jana Kramer and Sarah Boyd, are fellow mamas and saw a void in the marketplace for a subscription-based service that delivered high-quality, premium products for both moms and their kiddos four times a year.  So they set out to change that with moms and babes. A quarterly subscription is $59 a box.  For more information, go to mom and babesbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/momandbabesbox.jpg",
+        "paragraph1":"Friends, Jana Kramer and Sarah Boyd, are fellow mamas and saw a void in the marketplace for a subscription-based service that delivered high-quality, premium products for both moms and their kiddos four times a year.  So they set out to change that with moms+babes.",
+        "paragraph2":"<u>Price List</u><br/>Quarterly: $59/box",
+        "paragraph3":"Website: momandbabesbox.com"
+    },
+    "female-child":{
+        "name":"Terra Create",
+        "information":"A monthly craft box for tweens, teens, and adults who want to make gifts and keepsake projects while learning new crafting skills.  Kits feature artisan quality tools with an emphasis on natural materials, earth awareness, and cultural themes.  Clear instructions with real photos simplify steps for beginners while encouraging creativity and adaptations.  A Terra Create for one is $32 a month.  A Terra Create for two is $42 a month.  For more information, go to terracreate.net.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/terracreate.png",
+        "paragraph1":"A monthly craft box for tweens, teens, and adults who want to make gifts and keepsake projects while learning new crafting skills.  Kits feature artisan quality tools with an emphasis on natural materials, earth awareness, and cultural themes.  Clear instructions with real photos simplify steps for beginners while encouraging creativity and adaptations.",
+        "paragraph2":"<u>Price List</u><br/>For One: $32/month<br/>For Two: $42/month",
+        "paragraph3":"Website: terracreate.net"
+    },
+    "female-teen":{
+        "name":"My Coffee and Book Club",
+        "information":"Get lost in 2 new hardcover books for your genre of choice while enjoying the finest gourmet micro-roasted coffee.  A monthly subscription is $38.99 a month.  A three-month pre-paid subscription is $35.99 a month, totaling $107.97, four times a year.  A six-month pre-paid subscription is $33.99 a month, totaling $203.94, twice a year.  An annual pre-paid subscription is $31.99 a month, totaling $383.88, once a year.  For more information, go to www.mycoffee andbookclub.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/mycoffeeandbookclub.jpg",
+        "paragraph1":"Get lost in 2 new hardcover books for your genre of choice while enjoying the finest gourmet micro-roasted coffee.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $38.99/month<br/>3-Month: $35.99/month = $107.97 - 4x a year<br/>6-Month: $33.99/month = $203.94 - 2x a year<br/>Annual: $31.99/month = $383.88 - 1x a year",
+        "paragraph3":"Website: www.mycoffeeandbookclub.com"
+    },
+    "female-adult":{
+        "name":"Club Cuvée",
+        "information":"We do the hard work of scouring the globe for exclusive wines, so wine lovers like you don't have to.  Not only does each delivery come with hand-selected wine based on your flavor preferences, but many deliveries will include a featured item that pairs perfectly with a month or season.  A monthly subscription is $99 a month.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/clubcuvee.png",
+        "paragraph1":"We do the hard work of scouring the globe for exclusive wines, so wine lovers like you don't have to.  Not only does each delivery come with hand-selected wine based on your flavor preferences, but many deliveries will include a featured item that pairs perfectly with a month or season.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $99/month",
+        "paragraph3":"Website: cratejoy.com"
+    },
+    "neutral-baby":{
+        "name":"Elephant Books",
+        "information":"If you are looking for the perfect gift for a child, an Elephant Books gift subscription is an experience - of love, joy, and connection - that your child will never forget.  A monthly subscription is $20.99 a month.  A three-month pre-paid subscription is $19.99 a month, totaling $59.97, four times a year.  A six-month pre-paid subscription is $18.99 a month, totaling $113.94, twice a year.  An annual pre-paid subscription is $17.99 a month, totaling $215.88, once a year.  For more information, go to elephant hyphen books.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/elephantbooks.jpg",
+        "paragraph1":"If you are looking for the perfect gift for a child, an Elephant Books gift subscription is an experience - of love, joy, and connection - that your child will never forget.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $20.99/month<br/>3-Month: $19.99/month = $59.97 - 4x a year<br/>6-Month: $18.99/month = $113.94 - 2x a year<br/>Annual: $17.99/month = $215.88 - 1x a year",
+        "paragraph3":"Website: elephant-books.com"
+    },
+    "neutral-child":{
+        "name":"Bitsbox",
+        "information":"Voted #1 STEM box for kids: Bitsbox is a crazy-fun subscription box that teaches kids how to code! Bitsbox delivers coding projects that teach kids to make video games, greeting cards, simulations, and more. Kids start by coding from examples and progress quickly to inventing their own apps!  A monthly subscription is $29.95 a month.  A three-month pre-paid subscription is $28.95 a month, totaling $86.85, four times a year.  A six-month pre-paid subscription is $27.95 a month, totaling $167.70, twice a year.  An annual pre-paid subscription is $24.95, totaling $299.40, once a year.  For more information, go to www.bitsbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bitsbox.jpg",
+        "paragraph1":"Voted #1 STEM box for kids: Bitsbox is a crazyfun subscription box that teaches kids how to code! Bitsbox delivers coding projects that teach kids to make video games, greeting cards, simulations, and more. Kids start by coding from examples and progress quickly to inventing their own apps!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $29.95/month<br/>3-Month: $28.95/month = $86.85 - 4x a year<br/>6-Month: $27.95/month = $167.70 - 2x a year<br/>Annual: $24.95/month = $299.40 - 1x a year",
+        "paragraph3":"Website: www.bitsbox.com"
+    },
+    "neutral-teen":{
+        "name":"Best New York Bagel",
+        "information":"Best New York Bagel delivers premium and delicious New York bagels to your door, at your desired rate.  We ensure that the quality of our bagels cannot be beat! Subscribe and bring a little taste of New York to your home.  A Weekly Specialty Dozen is $23.78 a week.  A Monthly Flat Dozen is $23.31 a month.  A Monthly Onion Dozen is $24.85 a month.  A Monthly Dozen is $23.23 a month.  A biweekly dozen is $26.95 every 2 weeks.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bestnewyorkbagel.png",
+        "paragraph1":"Best New York Bagel delivers premium and delicious New York bagels to your door, at your desired rate.  We ensure that the quality of our bagels cannot be beat! Subscribe and bring a little taste of New York to your home.",
+        "paragraph2":"<u>Price List</u><br/>Weekly Specialty Dozen: $23.78/week<br/>Monthly Flat Dozen: $23.31/month<br/>Monthly Onion Dozen: $24.85/month<br/>Monthly Dozen: $23.23/month<br/>Bi-weekly Dozen: $26.95/2-weeks",
+        "paragraph3":"Website: cratejoy.com"
+    },
+    "neutral-adult":{
+        "name":"Shaker and Spoon",
+        "information":"Each month you'll get three unique recipes by top bartenders and everything you need to make 12 drinks - 4 from each recipe - excluding the liquor - but including syrups, bitters, mixers, garnishes, and more.  You'll be exposed to new flavors and combos and look at your liquor cabinet in a whole new way.  A monthly subscription is $50 a month.  A three-month pre-paid subscription is $45 a month, totaling $135, four times a year.  A six-month pre-paid subscription averages $41.67 a month, totaling $250, twice a year.  An annual pre-paid subscription is $40 a month, totaling $480, once a year.  For more information, go to www.shaker andspoon.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/shakerandspoon.jpg",
+        "paragraph1":"Each month you'll get three unique recipes by top bartenders and everything you need to make 12 drinks - 4 from each recipe - excluding the liquor - but including syrups, bitters, mixers, garnishes, and more.  You'll be exposed to new flavors and combos and look at your liquor cabinet in a whole new way.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $50/month<br/>3-Month: $45/month = $135 - 4x a year<br/>6-Month: $41.67/month = $250 - 2x a year<br/>Annual: $40/month = $480 - 1x a year",
+        "paragraph3":"Website: www.shakerandspoon.com"
+    }
+}
