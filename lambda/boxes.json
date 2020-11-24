@@ -1,114 +1,114 @@
 {
     "pet":{
-        "name":"The Dapper Dog Box",
-        "information":"The Dapper Dog subscription box sends you a monthly box of healthy treats, adorable toys, and a gorgeous, limited edition bandana available exclusively from Dapper Dog.  Our boxes have a gorgeous exterior and interior which make them perfect gifts for friends and family.  A No Treats Box is $20 a month.  A Standard Box is $33.50 a month.  For more information, go to www.thedapperdogbox.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thedapperdogbox.jpg",
-        "paragraph1":"The Dapper Dog subscription box sends you a monthly box of healthy treats, adorable toys, and a gorgeous, limited edition bandana available exclusively from Dapper Dog.  Our boxes have a gorgeous exterior and interior which make them perfect gifts for friends and family.  ",
-        "paragraph2":"<u>Price List</u><br/>No Treats Box: $20/month<br/>Standard Box: $33.50/month",
-        "paragraph3":"Website: www.thedapperdogbox.com"
+        "name":"Cat Lady Box",
+        "information":"We're obsessed with cats, and if you are too, this is the box for you! Get exclusive cat-themed shirts, accessories, home decor, and more for you, plus toys for your kitties, too! Each month has a new theme, and we design every single item inside ourselves! Treat yourself and your cats and start right meow! The following prices are for shirt sizes small to large.  A monthly subscription is $39.99 a month.  A three-month pre-paid subscription averages $38.66 a month, totaling $115.99, four times a year.  A six-month pre-paid subscription averages $38.33 a month, totaling $229.99, twice a year.  For more information, go to www.catladebox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/catladybox.jpg",
+        "paragraph1":"We're obsessed with cats, and if you are too, this is the box for you! Get exclusive cat-themed shirts, accessories, home decor, and more for you, plus toys for your kitties, too! Each month has a new theme, and we design every single item inside ourselves! Treat yourself and your cats and start right meow! The following prices are for shirt sizes small to large.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $38.66/month = $115.99 - 4x a year<br/>6-Month: $38.33/month = $229.99 - 2x a year",
+        "paragraph3":"Website: www.catladebox.com"
     },
     "box of the week":{
-        "name":"Geneva's Grove",
-        "information":"The vision of Geneva's Grove is to create a culture of gratefulness, where individuals can give and receive God's greatest gift: Love.  Geneva's Grove provides inspirational and uplifting carefully selected items that allow people to feel loved.  Providing gifts that express appreciation, kindness, and generosity.  A monthly subscription is $44.97 a month.  A three-month pre-paid subscription is $39.99 a month, totaling $119.97, four times a year.  A six-month pre-paid subscription averages $37.99 a month, totaling $227.97, twice a year.  An annual pre-paid subscription averages $32.08 a month, totaling $384.97, once a year.  For more information, go to www.genevasgrove.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/genevasgrove.jpg",
-        "paragraph1":"The vision of Geneva's Grove is to create a culture of gratefulness, where individuals can give and receive God's greatest gift: Love.  Geneva's Grove provides inspirational and uplifting carefully selected items that allow people to feel loved.  Providing gifts that express appreciation, kindness, and generosity.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $44.97/month<br/>3-Month: $39.99/month = $119.97 - 4x a year<br/>6-Month: $37.99/month = $227.97 - 2x a year<br/>Annual: $32.08/month = $384.97 - 1x a year",
-        "paragraph3":"Website: www.genevasgrove.com"
+        "name":"The Standard - Wine Club",
+        "information":"We do the hard work of scouring the globe for exclusive wines, so wine loves like you don't have to.  Not only does each delivery come with hand-selected wine based on your flavor preferences, but many deliveries will include a featured item that pairs perfectly with the month or season.  A monthly subscription is $49 a month.  A three-month pre-paid subscription is $49 a month, totaling $147, four times a year.  A six-month pre-paid subscription is $49 a month, totaling $294, twice a year.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thestandardwineclub.png",
+        "paragraph1":"We do the hard work of scouring the globe for exclusive wines, so wine loves like you don't have to.  Not only does each delivery come with hand-selected wine based on your flavor preferences, but many deliveries will include a featured item that pairs perfectly with the month or season.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $49/month<br/>3-Month: $49/month = $147 - 4x a year<br/>6-Month: $49/month = $294 - 2x a year",
+        "paragraph3":"Website: cratejoy.com"
     },
     "male-baby":{
-        "name":"Joynergy Box",
-        "information":"We customize our toys to your child's needs using STEM concepts of childhood development.  Our team of experts selects toys designed to enhance your child's knowledge and perception of the world from a safe and happy vantage point.  A monthly subscription is $37.99 a month.  A three-month pre-paid subscription is $35.99 a month, totaling $107.97, four times a year.  A six-month pre-paid subscription is $32.99 a month, totaling $197.94, twice a year.  An annual pre-paid subscription is $29.99 a month, totaling $359.88, once a year.  For more information, go to cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/joynergybox.png",
-        "paragraph1":"We customize our toys to your child's needs using STEM concepts of childhood development.  Our team of experts selects toys designed to enhance your child's knowledge and perception of the world from a safe and happy vantage point.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $37.99/month<br/>3-Month: $35.99/month = $107.97 - 4x a year<br/>6-Month: $32.99/month = $197.94 - 2x a year<br/>Annual: $29.99/month = $359.88 - 1x a year",
+        "name":"CAM Kids Craft Box",
+        "information":"CAM Kids Craft Box is for anyone looking for fun and creative activities to do with kids.  Each box includes all the materials you need to create 4 DIY crafts monthly.  Each box also includes a book that can be sued for family reading time and small trinkets for the child receiving the box.  A monthly subscription is $40 a month.  A three-month pre-paid subscription is $40 a month, totaling $120, four times a year.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/camkidscraftbox.png",
+        "paragraph1":"CAM Kids Craft Box is for anyone looking for fun and creative activities to do with kids.  Each box includes all the materials you need to create 4 DIY crafts monthly.  Each box also includes a book that can be sued for family reading time and small trinkets for the child receiving the box.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $40/month<br/>3-Month: $40/month = $120 - 4x a year",
         "paragraph3":"Website: cratejoy.com"
     },
     "male-child":{
-        "name":"Snail Mail for Kids",
-        "information":"Kids. Love. Mail.  They feel so important getting their own mail from Sunny every week.  Engage children's curiosity, love of animals, and travel.  Sunny is a lovable, hard-working mail snail who delivers personalized, educational, whimsical letters to children every single week.  Sunny also sends stickers, bookmarks, tattoos, trading cards, and more.  A monthly subscription is $20 a month.  A three-month pre-paid subscription is $18 a month, totaling $54, four times a year.  A six-month pre-paid subscription is $16 a month, totaling $96, twice a year.  An annual pre-paid subscription is $14 a month, totaling $168, once a year.  For more information, go to www.snailmailforkids.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/snailmailforkids.png",
-        "paragraph1":"Kids. Love. Mail.  They feel so important getting their own mail from Sunny every week.  Engage children's curiosity, love of animals, and travel.  Sunny is a lovable, hard-working mail snail who delivers personalized, educational, whimsical letters to children every single week.  Sunny also sends stickers, bookmarks, tattoos, trading cards, and more.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $20/month<br/>3-Month: $18/month = $54 - 4x a year<br/>6-Month: $16/month = $96 - 2x a year<br/>Annual: $14/month = $168 - 1x a year",
-        "paragraph3":"Website: www.snailmailforkids.com"
+        "name":"The Spangler Science Club",
+        "information":"Let's make science fun one month at a time! A subscription to Spangler Science Club is a guarantee that we're working together to prepare your young scientist for a future STEM-based career.  A monthly subscription is $19.99 a month.  A three-month pre-paid subscription is $19.99 a month, totaling $59.97, four times a year.  A six-month pre-paid subscription averages $19.16 a month, totaling $114.97, twice a year.  An annual pre-paid subscription averages $18.32 a month, totaling $219.88, once a year.  For more information, go to www.stevespanglerscience.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thespanglerscienceclub.jpeg",
+        "paragraph1":"Let's make science fun one month at a time! A subscription to Spangler Science Club is a guarantee that we're working together to prepare your young scientist for a future STEM-based career.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $19.99/month<br/>3-Month: $19.99/month = $59.97 - 4x a year<br/>6-Month: $19.16/month = $114.97 - 2x a year<br/>Annual: $18.32/month = $219.88 - 1x a year",
+        "paragraph3":"Website: www.stevespanglerscience.com"
     },
     "male-teen":{
-        "name":"Stress Free Box",
-        "information":"You will receive a 30-day supply that includes My Health Body Supplement Kit and One My Healthy Mood Essential Oil roll-on.  This box helps the body adapt to stress and calm the mind.  Protect the immune system and support overall mind-body wellness.  A monthly subscription is $76.95 a month.  A three-month pre-paid subscription averages $73.62 a month, totaling $220.85, four times a year.  A six-month pre-paid subscription is $71.95 a month, totaling $431.70, twice a year.  For more information, go to cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/stressfreebox.png",
-        "paragraph1":"You will receive a 30-day supply that includes My Health Body Supplement Kit and One My Healthy Mood Essential Oil roll-on.  This box helps the body adapt to stress and calm the mind.  Protect the immune system and support overall mind-body wellness.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $76.95/month<br/>3-Month: $73.62/month = $220.85 - 4x a year<br/>6-Month: $71.95/month = $431.70 - 2x a year",
-        "paragraph3":"Website: cratejoy.com"
+        "name":"SpiceBreeze",
+        "information":"Discover delicious meals from around the world with minimal time and effort.  Cook your selected meals with delightful flavors from different regions of the world.  Includes simplified recipes, global fun facts, and freshly ground pure spices - pre-portioned for easy cooking and no waste.  The following prices are for a Wunderlust subscription.  A monthly subscription is $8.90 a month.  A three-month pre-paid subscription is $8.90 a month, totaling $26.70, four times a year.  A six-month pre-paid subscription is $8.90 a month, totaling $53.40, twice a year.  An annual pre-paid subscription is $8.90 a month, totaling $ 106.80, once a year.  For more information, go to spicebreeze.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/spicebeeze.jpg",
+        "paragraph1":"Discover delicious meals from around the world with minimal time and effort.  Cook your selected meals with delightful flavors from different regions of the world.  Includes simplified recipes, global fun facts, and freshly ground pure spices - pre-portioned for easy cooking and no waste.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $8.90/month<br/>3-Month: $8.90/month = $26.70 - 4x a year<br/>6-Month: $8.90/month = $53.74 - 2x a year<br/>Annual: $8.90/month = $106.80 - 1x a year",
+        "paragraph3":"Website: spicebreeze.com"
     },
     "male-adult":{
-        "name":"Pin and Win",
-        "information":"Pin this box to your wishlist because you don't want to miss out! Inside this box you will find anywhere from customized decor pieces, a t-shirt, every month, wellness and self-care items, stationary, an occasional book, and much, much more.  A monthly subscription is $36.99 a month.  For more information, go to cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/pinandwin.jpg",
-        "paragraph1":"Pin this box to your wishlist because you don't want to miss out! Inside this box you will find anywhere from customized decor pieces, a t-shirt (every month) wellness and self-care items, stationary, an occasional book, and much, much more.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $36.99/month",
-        "paragraph3":"Website: cratejoy.com"
+        "name":"Date Night In Box",
+        "information":"Each Date Night In box delivers a complete data night to be enjoyed from home.  Each date includes several: interactive activities, accessories for ambiance, high-quality snacks or mixers, chef-curated dinner menus, connection with your significant other, and more.  A monthly subscription is $41.99 a month.  A three-month pre-paid subscription is $40 a month, totaling $120, four times a year.  A six-month pre-paid subscription averages $39.83 a month, totaling $239, twice a year.  An annual subscription averages $38.67 a month, totaling $464, once a year.  For more information, go to datenight in box.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/datenightinbox.jpg",
+        "paragraph1":"Each Date Night In box delivers a complete data night to be enjoyed from home.  Each date includes several: interactive activities, accessories for ambiance, high-quality snacks or mixers, chef-curated dinner menus, connection with your significant other, and more.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $41.99/month<br/>3-Month: $40/month = $120 - 4x a year<br/>6-Month: $39.83/month = $239 - 2x a year<br/>Annual: $38.67/month = $464 - 1x a year",
+        "paragraph3":"Website: datenightinbox.com"
     },
     "female-baby":{
-        "name":"Lolibean",
-        "information":"This amazing monthly subscription box is such a fun way to add new hair pretties to your little one's collection.  Each box will feature a new theme and will include some of the following styles: Jersey Knit, Nylon, Lace, or DIY Headband kits.  A monthly subscription is $12.50 a month.  For more information, go to lolibean.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/lolibean.jpeg",
-        "paragraph1":"This amazing monthly subscription box is such a fun way to add new hair pretties to your little one's collection.  Each box will feature a new theme and will include some of the following styles: Jersey Knit, Nylon, Lace, or DIY Headband kits.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $12.50/month",
-        "paragraph3":"Website: lolibean.com"
+        "name":"Baby and Sunshine",
+        "information":"These boxes are filled with wonderful items for both mommy and baby or babies.  A monthly subscription is $99.99 a month.  A three-month pre-paid subscription is $93 a month, totaling $279, four times a year.  A six-month pre-paid subscription is $87.50, totaling $525, twice a year.  An annual pre-paid subscription is $80.75 a month, totaling $969, once a year.  For more information, go to www.babyandsunshine.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/babyandsunshine.png",
+        "paragraph1":"These boxes are filled with wonderful items for both mommy and baby(ies).",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $99.99/month<br/>3-Month: $93/month = $279 - 4x a year<br/>6-Month: $87.50/month = $525 - 2x a year<br/>Annual: $80.75/month = $969 - 1x a year",
+        "paragraph3":"Website: www.babyandsunshine.com"
     },
     "female-child":{
-        "name":"Quirky-Crate",
-        "information":"Voted USA Today's number 1 Lifestyle subscription boxes of 2020.  Finally, a subscription box that is as fun as you are.  Quirky crate delivers a party in a box to your door each month.  You will receive at least 7 to 10 quirky items, including an enamel pin, an item from a featured indie artist every month, and a fun pair of socks in each box.  A monthly subscription is $36.95 a month.  A three-month pre-paid subscription averages $36.67 a month, totaling $110, four times a year.  A six-month pre-paid subscription averages $35.83, totaling $215, twice a year.  For more information, go to www.quirkycrate.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/quirkycrate.png",
-        "paragraph1":"Voted USA Today's #1 Lifestyle subscription boxes of 2020.  Finally, a subscription box that is as fun as you are.  Quirky crate delivers a party in a box to your door each month.  You will receive at least 7 - 10 quirky items, including an enamel pin, an item from a featured indie artist every month, and a fun pair of socks in each box.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $36.95/month<br/>3-Month: $36.67/month = $110 - 4x a year<br/>6-Month: $35.83/month = $215 - 2x a year",
-        "paragraph3":"Website: www.quirkycrate.com"
-    },
-    "female-teen":{
-        "name":"Inspiration Elevation - Self Love Box",
-        "information":"A unique gift just for her.  That inspires, uplifts, and brings Positive Energy to your home once every month.  Carefully curated in a beautiful hand-painted box of lovely items that will help brighten your atmosphere and lift your spirits.  A monthly subscription is $26 a month.  A three-month pre-paid subscription is $25 a month, totaling $75, four times a year.  A six-month pre-paid subscription is $25 a month, totaling $150, twice a year.  An annual pre-paid subscription averages $22.92 a month, totaling $275, once a year.  For more information, go to www.inspirationelevation.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/inspirationelevationselflovebox.png",
-        "paragraph1":"A unique gift just for her.  That inspires, uplifts, and brings Positive Energy to your home once every month.  Carefully curated in a beautiful hand-painted box of lovely items that will help brighten your atmosphere and lift your spirits.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $26/month<br/>3-Month: $25/month = $75 - 4x a year<br/>6-Month: $25/month = $150 - 2x a year<br/>Annual: $22.92/month = $275 - 1x a year",
-        "paragraph3":"Website: www.inspirationelevation.com"
-    },
-    "female-adult":{
-        "name":"Thread and Flourish",
-        "information":"We provide artisan, fair trade bandana scarves in natural fabrics like silk and wool.  All of our bandana scarves are extra-large 30 inches! Wear your handmade bandana scarf around your neck, around your bag, around your head, or even around your face as a non-medical face mask! Change the world and look great doing it.  For one box every two months, it's $39.95 a box.  For two boxes over four months, it's $37.95 a box, totaling $75.90, three times a year.  For three boxes over six months, it's $35.95 a box, totaling $107.85, twice a year.  For more information, go to www.threadandflourish.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/threadandflourish.jpg",
-        "paragraph1":"We provide artisan, fair trade bandana scarves in natural fabrics like silk and wool.  All of our bandana scarves are extra-large 30\"! Wear your handmade bandana scarf around your neck, around your bag, around your head, or even around your face as a non-medical face mask! Change the world and look great doing it.",
-        "paragraph2":"<u>Price List</u><br/>1 Box Every 2 Months = $39.95/box<br/>2 Boxes Over 4 Months = $37.95/box = $75.90 - 3x a year<br/>3 Boxes Over 6 months = $35.95/box = $107.85 - 2x a year",
-        "paragraph3":"Website: www.threadandflourish.com"
-    },
-    "neutral-baby":{
-        "name":"Booklandia",
-        "information":"Booklandia is bridging the gap in Spanish and Bilingual literacy for young readers.  Our vision at Booklandia is to assist in creating beautiful, representative, and inclusive home libraries for children.  A monthly subscription is $24.95 a month.  A three-month pre-paid subscription is $23.95 a month, totaling $71.85, 4 times a year.  A six-month pre-paid subscription is $22.95 a month, totaling $137.70, twice a year.  For more information, go to book landia box.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/booklandia.png",
-        "paragraph1":"Booklandia is bridging the gap in Spanish and Bilingual literacy for young readers.  Our vision at Booklandia is to assist in creating beautiful, representative, and inclusive home libraries for children.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $24.95/month<br/>3-Month: $23.95/month = $71.85 - 4x a year<br/>6-Month: $22.95/month = $137.70 - 2x a year",
-        "paragraph3":"Website: booklandiabox.com"
-    },
-    "neutral-child":{
-        "name":"Slime",
-        "information":"Slime box is a premium subscription box for people who love touching and playing with slime.  Every month you will receive a themed box that contains a wide variety of slime to play with.  The following prices are for the monthly slime box.  A monthly subscription is $24.99 a month.  A three-month pre-paid subscription is $24 a month, totaling $72, four times a year.  A six-month pre-paid subscription is $21 a month, totaling $126, twice a year.  An annual subscription is $22 a month, totaling $264, once a year.  For more information, go to cratejoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/slime.png",
-        "paragraph1":"Slime box is a premium subscription box for people who love touching and playing with slime.  Every month you will receive a themed box that contains a wide variety of slime to play with.  The following prices are for the monthly slime box.",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $24.99/month<br/>3-Month: $24/month = $72 - 4x a year<br/>6-Month: $21/month = $126 - 2x a year<br/>Annual: $22/month = $264 - 1x a year",
+        "name":"Find Your Wings",
+        "information":"Fashion Angels has always challenged Tweens to find your wings.  Our subscription boxes will do just that.  We have packed our December box with over $80 in craft activities, bath, beauty, and on-trend fashion accessories.  A monthly subscription is $35 a month.  A three-month pre-paid subscription is $33 a month, totaling $99, four times a year.  A six-month pre-paid subscription is $30 a month, totaling $180, twice a year.  An annual subscription averages $27.08 a month, totaling $325, once a year.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/findyourwings.png",
+        "paragraph1":"Fashion Angels has always challenged Tweens to find your wings.  Our subscription boxes will do just that.  We have packed our December box with over $80 in craft activities, bath, beauty, and on-trend fashion accessories.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $35/month<br/>3-Month: $33/month = $99 - 4x a year<br/>6-Month: $30/month = $180 - 2x a year<br/>Annual: $27.08/month = $325 - 1x a year",
         "paragraph3":"Website: cratejoy.com"
     },
+    "female-teen":{
+        "name":"MATTER",
+        "information":"We search planet Earth for the most interesting forms of matter.  Each month we ship fossils, tools, specimens, materials, or artifacts that have been carefully selected as some of the most interesting pieces of matter in our accessible universe.  Part museum, part laboratory, perfect for quarantine.  A monthly subscription is $39.95 a month.  A three-month pre-paid subscription averages $34.98 a month, totaling $104.95, four times a year.  A six-month pre-paid subscription averages $29.99 a month, totaling $179.95, twice a year.  For more information, go to www.boxofmatter.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/matter.jpg",
+        "paragraph1":"We search planet Earth for the most interesting forms of matter.  Each month we ship fossils, tools, specimens, materials, or artifacts that have been carefully selected as some of the most interesting pieces of matter in our accessible universe.  Part museum, part laboratory, perfect for quarantine.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.95/month<br/>3-Month: $34.98 = $104.95 - 4x a year<br/>6-Month: $29.99/month = $179.95 - 2x a year",
+        "paragraph3":"Website: www.boxofmatter.com"
+    },
+    "female-adult":{
+        "name":"Crated with Love",
+        "information":"You and your significant other will receive one date night box per month that includes 4 to 5 challenges or activities to help inspire laughter and strengthen your relationship.  With our creative and unique themes, each date is specifically designed by our team to make date night fun again! A monthly subscription is $39.99 a month.  A three-month pre-paid subscription is $37.99 a month, totaling $113.97, four times a year.  A six-month pre-paid subscription is $34.99 a month, totaling $209.94, twice a year.  An annual subscription is $29.99 a month, totaling $359.88, once a year.  For more information, go to www.crated withlove.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/cratedwithlove.jpg",
+        "paragraph1":"You and your significant other will receive one date night box per month that includes 4 to 5 challenges or activities to help inspire laughter and strengthen your relationship.  With our creative and unique themes, each date is specifically designed by our team to make date night fun again!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month<br/>3-Month: $37.99/month = $113.97 - 4x a year<br/>6-Month: $34.99/month = $209.94 - 2x a year<br/>Annual: $29.99/month = $359.88 - 1x a year",
+        "paragraph3":"Website: www.cratedwithlove.com"
+    },
+    "neutral-baby":{
+        "name":"Cub Pantry",
+        "information":"We curated this monthly box, focusing on nutritious snacks made with low sugar, whole grains, real ingredients, and fruits and veggie treats.  A monthly subscription is $39.99 a month.  For more information, go to www.cubpantry.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/cubpantry.png",
+        "paragraph1":"We curated this monthly box, focusing on nutritious snacks made with low sugar, whole grains, real ingredients, and fruits and veggie treats.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39.99/month",
+        "paragraph3":"Website: www.cubpantry.com"
+    },
+    "neutral-child":{
+        "name":"Bombs and Bubbles",
+        "information":"Our bath bomb and bubbles box is a monthly delight.  We offer an in-home experience for you to sit back and relax and let the day go away.  We also have bath bombs and bubbles that are great for kids, you know the ones that don't like take baths.  Our bath bombs are carb-free, vegan, and cruelty-free.  A monthly subscription is $17.99 a month.  A three-month pre-paid subscription is $17.33 a month, totaling $51.99, four times a year.  A six-month pre-paid subscription averages $16.50 a month, totaling $98.99, twice a year.  An annual subscription averages $15 a month, totaling $179.99, once a year.  For more information, go to www.bombs andbubblesbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/bombsandbubbles.jpeg",
+        "paragraph1":"Our bath bomb and bubbles box is a monthly delight.  We offer an in-home experience for you to sit back and relax and let the day go away.  We also have bath bombs and bubbles that are great for kids, you know the ones that don't like take baths.  Our bath bombs are carb-free, vegan, and cruelty-free.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $17.99/month<br/>3-Month: $17.33 = $51.99 - 4x a year<br/>6-Month: $16.50/month = $98.99 - 2x a year<br/>Annual: $15/month = $179.99 - 1x a year",
+        "paragraph3":"Website: www.bombsandbubblesbox.com"
+    },
     "neutral-teen":{
-        "name":"Viver Joy",
-        "information":"The Viver Joy subscription is a progression of three boxes.  Each box builds upon the previous box to rebalance your mind and body.  Your subscription will start with the first box, Life Force, and continue over the next two months with the second box, New Vision, and the last box, Powerful You.  A monthly subscription is $59.95 a month.  A three-month pre-paid subscription is $56.95 a month, totaling $170.85, four times a year.  For more information, go to www.viverjoy.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/viverjoy.jpg",
-        "paragraph1":"The Viver Joy subscription is a progression of (3) boxes.  Each box builds upon the previous box to rebalance your mind and body.  Your subscription will start with the first box (Life Force) and continue over the next two months with the second box (New Vision) and the last box (Powerful You).",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $59.95/month<br/>3-Month: $56.95/month = $170.85 - 4x a year",
-        "paragraph3":"Website: www.viverjoy.com"
+        "name":"The Deadbolt Mystery Society Monthly Box",
+        "information":"Enjoy immersive scenarios, intriguing characters, and original compelling stories with your friends and family! Each month subscribers receive a new stand-alone case file with everything needed to close the case and solve the mystery! A monthly subscription is $24.99 a month.  A three-month pre-paid subscription is $23.33 a month, totaling $69.99, four times a year.  A six-month pre-paid subscription averages $22.50 a month, totaling $134.99, twice a year.  An annual pre-paid subscription averages $21.67 a month, totaling $259.99, once a year.  For more information, go to deadboltmysterysociety.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/thedeadboltmysterysociety.png",
+        "paragraph1":"Enjoy immersive scenarios, intriguing characters, and original compelling stories with your friends and family! Each month subscribers receive a new stand-alone case file with everything needed to close the case and solve the mystery!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $29.99/month<br/>3-Month: $23.33/month = $69.99 - 4x a year<br/>6-Month: $22.50/month = $134.99 - 2x a year<br/>Annual: $21.67/month = $259.99 - 1x a year",
+        "paragraph3":"Website: deadboltmysterysociety.com"
     },
     "neutral-adult":{
-        "name":"Coach Crate",
-        "information":"Each month we carefully cultivate our box around a different theme, topic, or area of personal growth.  We then choose products and design a plan for the month that will promote and challenge your growth in that area!  A monthly subscription is $45 a month.  A three-month pre-paid subscription is $42.75 a month, totaling $128.25, four times a year.  For more information, go to www.coachcrate.com.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/coachcrate.jpg",
-        "paragraph1":"Each month we carefully cultivate our box around a different theme, topic, or area of personal growth.  We then choose products and design a plan for the month that will promote and challenge your growth in that area!",
-        "paragraph2":"<u>Price List</u><br/>Monthly: $45/month<br/>3-Month: $42.75/month = $128.25 - 4x a year",
-        "paragraph3":"Website: www.coachcrate.com"
+        "name":"SpearCraft Book Box",
+        "information":"As seen in Oprah Magazine we are a monthly subscription box full of goodies that you can open in the comfort of your own home.  We've taken the guesswork out of finding your next read by always including a gorgeous new hardcover Y.A. novel, personalized author swag, and handpick bookish goodies for you to unbox and enjoy all month long.  A monthly subscription is $29.99 a month.  A three-month pre-paid subscription is $28.50 a month, totaling $85.50, four times a year.  A six-month pre-paid subscription is $27 a month, totaling $162, twice a year.  An annual subscription is $25 a month, totaling $300, once a year.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/spearcraftbookbox.jpg",
+        "paragraph1":"As seen in Oprah Magazine we are a monthly subscription box full of goodies that you can open in the comfort of your own home.  We've taken the guesswork out of finding your next read by always including a gorgeous new hardcover YA novel, personalized author swag, and handpick bookish goodies for you to unbox and enjoy all month long.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $29.99/month<br/>3-Month: $28.50/month = $85.50 - 4x a year<br/>6-Month: $27/month = $162 - 2x a year<br/>Annual: $25/month = $300 - 1x a year",
+        "paragraph3":"Website: cratejoy.com"
     }
 }
