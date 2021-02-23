@@ -1,0 +1,114 @@
+{
+    "pet":{
+        "name":"Al's Pals Pet Place",
+        "information":"Each month our box will have the highest quality treats, great toys, and a surprise.  There will be a different theme each month as well.  A monthly subscription is $32 a month.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/alspalspetplace.jpg",
+        "paragraph1":"Each month our box will have the highest quality treats, great toys, and a surprise.  There will be a different theme each month as well.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $32/month",
+        "paragraph3":"Website: cratejoy.com"
+    },
+    "box of the week":{
+        "name":"Vices",
+        "information":"Vices is a membership program centered on a monthly delivery of storied treasures.  Every month brings a fresh collection of incredible products and experiences that have been curated for your enjoyment.  A monthly subscription is $129.95 a month.  A three-month pre-paid subscription is $119.95 a month, totaling $359.85, four times a year.  A six-month pre-paid subscription is $109.95 a month, totaling $659.70, twice a year.  An annual pre-paid subscription is $99.95 a month, totaling $1199.40, once a year.  For more information, go to vices.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/vices.jpg",
+        "paragraph1":"Vices is a membership program centered on a monthly delivery of storied treasures.  Every month brings a fresh collection of incredible products and experiences that have been curated for your enjoyment.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $129.95/month<br/>3-Month: $119.95/month = $359.85 - 4x a year<br/>6-Month: $109.95/month = $659.70 - 2x a year<br/>Annual: $99.95/month = $1199.40 - 1x a year",
+        "paragraph3":"Website: vices.com"
+    },
+    "male-baby":{
+        "name":"Reading Bug Box",
+        "information":"Perfectly personalized to every child's age, interests, and reading level by the expert staff of our independent Children's Bookstore.  A monthly subscription is $19.99 a month.  A three-month pre-paid subscription is $19.50 a month, totaling $58.50, four times a year.  A six-month pre-paid subscription is $19 a month, totaling $114, twice a year.  An annual prepaid subscription is $18 a month, totaling $216, once a year.  For more information, go to www.readingbugbox.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/readingbugbox.jpg",
+        "paragraph1":"Perfectly personalized to every child's age, interests and reading level by the expert staff of our independent Children's Bookstore.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $19.99/month<br/>3-Month: $19.50/month = $58.50 - 4x a year<br/>6-Month: $19/month = $114 - 2x a year<br/>Annual: $18/month = $216 - 1x a year",
+        "paragraph3":"Website: www.readingbugbox.com"
+    },
+    "male-child":{
+        "name":"Superpower Academy",
+        "information":"Superpower Academy is an Award-Winning subscription that combines STEM and Social and Emotional Learning for the next generation of heroes.  Monthly \"Secret Missions\" with hands-on maker projects, comic books, and stories of real heroes to promote a growth mindset, mindfulness, and skills like dealing with emotions, confidence, and empathy.  A monthly subscription is $33 a month.  A three-month pre-paid subscription is $33 a month, totaling $99, four times a year.  A six-month pre-paid subscription is $30.83 a month, totaling $185, twice a year.  An annual pre-paid subscription averages $29.92 a month, totaling $359, once a year.  For more information, go to www.superpoweracademy.org.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/superpoweracademy.jpg",
+        "paragraph1":"Superpower Academy is an Award-Winning subscription that combines STEM and Social and Emotional Learning for the next generation of heroes.  Monthly \"Secret Missions\" with hands-on maker projects, comic books, and stories of real hearos to promote a growth mindset, mindfulness, and skills like dealing with emotions, confidence, and empathy.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month<br/>3-Month: $33/month = $99 - 4x times a year<br/>6-Month: $30.83/month = $185 - 2x a year<br/>Annual: $29.92/month = $359 - 1x a year",
+        "paragraph3":"Website: www.superpoweracademy.org"
+    },
+    "male-teen":{
+        "name":"Dungeon in a Box",
+        "information":"Dungeon in a box provides a one-stop solution for all your tabletop RPG adventuring needs.  Each month you get a new 28 or more adventure, 2 exclusive premium resin miniatures you can't get anywhere else, a set of Skinny Minis, two 18-inch by 24-inch gaming maps, and a set of 3D terrain and more!  A monthly subscription is $33 a month.  A three-month pre-paid subscription is $32 a month, totaling $96, four times a year.  A six-month, pre-paid subscription is $31 a month, totaling $186, twice a year.  An annual pre-paid subscription is $29.50 a month, totaling $354, once a year.  For more information, go to www.dungeon in a box.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/dungeoninabox.jpg",
+        "paragraph1":"Dungeon in a box provides a one-stop solution for all your tabletop RPG adventuring needs.  Each month you get a new 28+ adventure, 2 exclusive premium resin miniatures you can't get anywhere else, a set of Skinny Minis, two 18\" by 24\" gaming maps, and a set of 3D terrain and more!",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month<br/>3-Month: $32/month = $96 - 4x a year<br/>6-Month: $31/month = $186 - 2x a year<br/>Annual: $29.50/month = $354 - 1x a year",
+        "paragraph3":"Website: www.dungeoninabox.com"
+    },
+    "male-adult":{
+        "name":"The Appalachian Mercantile",
+        "information":"The J.Q. Dickinson Appalachian Mercantile is a selection of the finest foods, crafts, and home goods shipped directly to you.  Each box contains 6 to 7 items and includes a recipe as well as a card telling you about each maker.  A monthly subscription is $45 a month.  A three-month pre-paid subscription is $42 a month, totaling $126, four times a year.  A six-month pre-paid subscription is $40 a month, totaling $240, twice a year.  An annual pre-paid subscription is $38 a month, totaling $456, once a year.  For more information, go to www.j q d appalachian mercantile.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/theappalachianmercantile.jpg",
+        "paragraph1":"The J.Q. Dickinson Appalachian Mercantile is a selection of the finest foods, crafts, and home goods shipped directly to you.  Each box contains 6 - 7 items, and includes a recipe as well as a card telling you about each maker.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $45/month<br/>3-Month: $42/month = $126 - 4x a year<br/>6-Month: $40/month = $240 - 2x a year<br/>Annual: $38/month = $456 - 1x a year",
+        "paragraph3":"Website: www.jqdappalachianmercantile.com"
+    },
+    "female-baby":{
+        "name":"Surprisly",
+        "information":"Surprisly is a baby outfit subscription box perfect for new parents or as a gift for your loved ones.  Each box contains 3 hand-selected outfits from boutique brands for baby's day out, playtime, and snooze.  Every clothing item is beautifully constructed, and exclusively from cotton or organic, and incredibly cute.  A monthly subscription is $69 a month.  A three-month pre-paid subscription is $65 a month, totaling $195, four times a year.  A six-month pre-paid subscription is $63 a month, totaling $378, twice a year.  For more information, go to www.surprisly.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/surprisly.jpg",
+        "paragraph1":"Surprisly is a baby outfit subscription box perfect for new parents or as a gift for your loved ones.  Each box contains 3 hand-selected outfits from boutique brands for baby's day out, playtime, and snooze.  Every clothing item is beautifully constructed, and exclusively from cotton or organic and incredibly cute.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $69/month<br/>3-Month: $65/month = $195 - 4x a year<br/>6-Month: $63/month = $378 - 2x a year",
+        "paragraph3":"Website: www.surprisly.com"
+    },
+    "female-child":{
+        "name":"Popcorn and Books",
+        "information":"Popcorn and Books is a monthly subscription box curated by 9-year-old Karter Johnson whose goal is to encourage kids to read more and to enjoy reading.  Each month Karter handpicks items to include in the box.  Your child will receive 2 books, a snack of popcorn, a candy treat, and other surprises that will vary.  A monthly subscription is $33 a month.  For more information, go to www.cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/popcornandbooks.png",
+        "paragraph1":"Popcorn and Books is a monthly subscription box curated by 9-year-old Karter Johnson whose goal is to encourage kids to read more and to enjoy reading.  Each month Karter handpicks items to include in the box.  Your child will receive 2 books, a snack of popcorn, a candy treat, and other surprises that will vary.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $33/month",
+        "paragraph3":"Website: www.cratejoy.com"
+    },
+    "female-teen":{
+        "name":"My Coffee and Book Club",
+        "information":"Get lost in 2 new hardcover books for your genre of choice while enjoying the finest gourmet micro-roasted coffee.  A monthly subscription is $38.99 a month.  A three-month pre-paid subscription is $35.99 a month, totaling $107.97, four times a year.  A six-month pre-paid subscription is $33.99 a month, totaling $203.94, twice a year.  An annual pre-paid subscription is $31.99 a month, totaling $383.88, once a year.  For more information, go to www.mycoffee andbookclub.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/mycoffeeandbookclub.jpg",
+        "paragraph1":"Get lost in 2 new hardcover books for your genre of choice while enjoying the finest gourmet micro-roasted coffee.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $38.99/month<br/>3-Month: $35.99/month = $107.97 - 4x a year<br/>6-Month: $33.99/month = $203.94 - 2x a year<br/>Annual: $31.99/month = $383.88 - 1x a year",
+        "paragraph3":"Website: www.mycoffeeandbookclub.com"
+    },
+    "female-adult":{
+        "name":"Thread and Flourish",
+        "information":"We provide artisan, fair trade bandana scarves in natural fabrics like silk and wool.  All of our bandana scarves are extra-large 30 inches! Wear your handmade bandana scarf around your neck, around your bag, around your head, or even around your face as a non-medical face mask! Change the world and look great doing it.  For one box every two months, it's $44.95 a box.  For two boxes over four months, it's $42.48 a box, totaling $84.95, three times a year.  For three boxes over six months, it's $39.98 a box, totaling $119.95, twice a year.  For six boxes over twelve months, it's $39.83 a box, totaling $238.95, once a year.  For more information, go to www.threadandflourish.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/threadandflourish.jpg",
+        "paragraph1":"We provide artisan, fair trade bandana scarves in natural fabrics like silk and wool.  All of our bandana scarves are extra-large 30\"! Wear your handmade bandana scarf around your neck, around your bag, around your head, or even around your face as a non-medical face mask! Change the world and look great doing it.",
+        "paragraph2":"<u>Price List</u><br/>1 Box Every 2 Months = $44.95/box<br/>2 Boxes Over 4 Months = $42.48/box = $84.95 - 3x a year<br/>3 Boxes Over 6 months = $39.98/box = $119.95 - 2x a year<br/>6 Boxes Over 12 Months = $39.83/box = $238.95 - 1x a year",
+        "paragraph3":"Website: www.threadandflourish.com"
+    },
+    "neutral-baby":{
+        "name":"Tiny Humans Read",
+        "information":"Tiny Humans Read is a monthly book box for kids ages 0 to 3.  Each month you'll get a collection of whimsical stories for your child to treasure.  A monthly subscription is $29.99 a month.  You can pre-pay for 3, 6, or 12 months.  For more information, go to www.tinyhumans read.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/tinyhumansread.jpg",
+        "paragraph1":"Tiny Humans Read is a monthly book box for kids ages 0 to 3.  Each month you'll get a collection of whimsical stories for your child to treasure.",
+        "paragraph2":"<u>Price List:</u><br/>Monthly: $29.99/month<br/>3-Month: $29.99/month = $89.97 - 4x times a year<br/>6-Month: $29.99/month = $179.94 - 2x a year<br/>Annual: $29.99/month = $359.88 - 1x a year",
+        "paragraph3":"Website: www.tinyhumansread.com"
+    },
+    "neutral-child":{
+        "name":"Konnect Kraze",
+        "information":"A quarterly box for children with autism and special needs created by a Speech Pathologist! Includes speech-language activities, sensory toys, tools, and resources that will make it easier to have fun at home with your child and family.  For a quarterly subscription, it's $64.95 a box.  For an annual pre-paid subscription, it's $61.20 a box, totaling $244.80, once a year.  For more information, go to cratejoy.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/konnectkraze.jpg",
+        "paragraph1":"A quarterly box for children with autism and special needs created by a Speech Pathologist! Includes speech/language activities, sensory toys/tools and resources that will make it easier to have fun at home with your child and family.",
+        "paragraph2":"<u>Price List:</u><br/>Quarterly: $64.95/box<br/>Annual: $61.20/box = $244.80 - once a year",
+        "paragraph3":"Website: cratejoy.com"
+    },
+    "neutral-teen":{
+        "name":"The Plant Club",
+        "information":"Fall in love with a new houseplant variety every month from The Plant Club.  We curate more than cute collections of pots and accessories, we lovingly pack everything you need to easily assemble and care for your living decor.  A monthly subscription is $39 a month.  A three-month pre-paid subscription is $38 a month, totaling $114, four times a year.  A six-month pre-paid subscription is $37 a month, totaling $222, twice a year.  An annual pre-paid subscription is $36 a month, totaling $432, once a year.  For more information, go to www.theplantclub.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/theplantclub.jpg",
+        "paragraph1":"Fall in love with a new houseplant variety every month from The Plant Club.  We curate more than cute collections of pots and accessories, we lovingly pack everything you need to easily assemble and care for your own living decor.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $39/month<br/>3-Month: $38/month = $114 - 4x a year<br/>6-Month: $37/month = $222 - 2x a year<br/>Annual: $36/month = $432 - 1x a year",
+        "paragraph3":"Website: www.theplantclub.com"
+    },
+    "neutral-adult":{
+        "name":"Hiker Crate",
+        "information":"Hiker Crate is a health and fitness subscription box that specializes in outdoor adventure.  Each monthly box is filled with high-quality and useful hiking gear, tools, and snacks to help fuel your treks.  A monthly subscription is $35 a month.  A three-month pre-paid subscription is $34 a month, totaling $102, four times a year.  A six-month pre-paid subscription is $32.33 a month, totaling $193.98, twice a year.  An annual pre-paid subscription is $30 a month, totaling $360, once a year.  For more information, go to www.get hikercrate.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/hikercrate.jpg",
+        "paragraph1":"Hiker Crate is a health and fitness subscription box that specializes in outdoor adventure.  Each monthly box is filled with high-quality and useful hiking gear, tools, and snacks to help fuel your treks.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $35/month<br/>3-Month: $34/month = $102 - 4x a year<br/>6-Month: $32.33/month = $193.98 - 2x a year<br/>Annual: $30/month = $360 - 1x a year",
+        "paragraph3":"Website: www.gethikercrate.com"
+    }
+}
