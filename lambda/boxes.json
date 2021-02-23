@@ -49,19 +49,19 @@
     },
     "female-baby":{
         "name":"Sol Book Box",
-        "information":"Reading in Spanish makes for confident, smart, and emotionally healthy kids, plus exposes your ninos to new vocabulary and creates a love for the language! Sol Book Box makes reading en Espanol easy by bringing you a carefully curated Spanish and bilingual children's book each month, sending you stores that celebrate bilingual, bicultural familias.  A monthly subscription is $20 a month.  A three-month pre-paid subscription is $19 a month, totaling $57, four times a year.  A six-month pre-paid subscription averages $18.83 a month, totaling $113, twice a year.  For more information, go to www.solbookbox.com.",
+        "information":"Reading in Spanish makes for confident, smart, and emotionally healthy kids, plus exposing your ninos to new vocabulary and creates a love for the language! Sol Book Box makes reading en Espanol easy by bringing you a carefully curated Spanish and bilingual children's book each month, sending you stores that celebrate bilingual, bicultural familias.  A monthly subscription is $20 a month.  A three-month pre-paid subscription is $19 a month, totaling $57, four times a year.  A six-month pre-paid subscription averages $18.83 a month, totaling $113, twice a year.  For more information, go to www.solbookbox.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/solbookbox.png",
-        "paragraph1":"Reading in Spanish makes for confident, smart, and emotionally healthy kids, plus exposes your ninos to new vocabulary and creates a love for the language! Sol Book Box makes reading en Espanol easy by bringing you a carefully curated Spanish and bilingual children's book each month, sending you stores that celebrate bilingual, bicultural familias.",
+        "paragraph1":"Reading in Spanish makes for confident, smart, and emotionally healthy kids, plus exposing your ninos to new vocabulary and creates a love for the language! Sol Book Box makes reading en Espanol easy by bringing you a carefully curated Spanish and bilingual children's book each month, sending you stores that celebrate bilingual, bicultural familias.",
         "paragraph2":"<u>Price List</u><br/>Monthly: $20/month<br/>3-Month: $19/month = $57 - 4x a year<br/>6-Month: $18.83/month = $113 - 2x a year",
         "paragraph3":"Website: www.solbookbox.com"
     },
     "female-child":{
-        "name":"Terra Create",
-        "information":"A monthly craft box for tweens, teens, and adults who want to make gifts and keepsake projects while learning new crafting skills.  Kits feature artisan quality tools with an emphasis on natural materials, earth awareness, and cultural themes.  Clear instructions with real photos simplify steps for beginners while encouraging creativity and adaptations.  A Terra Create for one is $32 a month.  A Terra Create for two is $42 a month.  For more information, go to terracreate.net.",
-        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/terracreate.png",
-        "paragraph1":"A monthly craft box for tweens, teens, and adults who want to make gifts and keepsake projects while learning new crafting skills.  Kits feature artisan quality tools with an emphasis on natural materials, earth awareness, and cultural themes.  Clear instructions with real photos simplify steps for beginners while encouraging creativity and adaptations.",
-        "paragraph2":"<u>Price List</u><br/>For One: $32/month<br/>For Two: $42/month",
-        "paragraph3":"Website: terracreate.net"
+        "name":"Our Little Book Club",
+        "information":"Watch your child blossom as a reader! Each month you receive two beautiful age-appropriate hardcover books and an activity book.  Those activity books consist of large image coloring books for the little ones and puzzles, mazes, and art instructions for the older readers.  The following prices are for the 3 to 8 age group.  A monthly subscription is $14.99 a month.  A three-month pre-paid subscription is $14.50 a month, totaling $43.50, four times a year.  A six-month pre-paid subscription is $14.25 a month, totaling $85.50, twice a year.  An annual pre-paid subscription is $14 a month, totaling $168, once a year. For more information, go to www.our littlebookclub.com.",
+        "image":"https://subscriptionaddiction.s3.amazonaws.com/small/ourlittlebookclub.jpg",
+        "paragraph1":"Watch your child blossom as a reader! Each month you receive two beautiful age-appropriate hardcover books and an activity book.  Those activity books consist of large image coloring books for the little ones and puzzles, mazes, and art instructions for the older readers.",
+        "paragraph2":"<u>Price List</u><br/>Monthly: $14.99/month<br/>3-Month: $14.50/month = $43.50 - 4x a year<br/>6-Month: $14.25/month = $85.50 - 2x a year<br/>Annual: $14/month = $168 - 1x a year",
+        "paragraph3":"Website: www.ourlittlebookclub.com"
     },
     "female-teen":{
         "name":"Inspiration Elevation - Self Love Box",
@@ -89,7 +89,7 @@
     },
     "neutral-child":{
         "name":"Green Kid Crafts",
-        "information":"Empowering the next generation of leaders with hands-on science and art learning.  The following prices are for the Discovery box for ages 5 to 10.  A monthly subscription is $23.95 a month.  A 3-month pre-paid subscription is $23.32 a month, totaling $69.95, four times a year.  A 6-month pre-paid subscription is $22.83 a month, totaling $$136.95, twice a year.  An annual subscription is $21.91 a month, totaling $262.95, once a year.  For more information, go to www.greenkidcraft.com.",
+        "information":"Empowering the next generation of leaders with hands-on science and art learning.  The following prices are for the Discovery box for ages 5 to 10.  A monthly subscription is $23.95 a month.  A three-month pre-paid subscription is $23.32 a month, totaling $69.95, four times a year.  A six-month pre-paid subscription is $22.83 a month, totaling $$136.95, twice a year.  An annual subscription is $21.91 a month, totaling $262.95, once a year.  For more information, go to www.greenkidcraft.com.",
         "image":"https://subscriptionaddiction.s3.amazonaws.com/small/greenkidcrafts.jpg",
         "paragraph1":"Empowering the next generation of leaders with hands-on science and art learning.",
         "paragraph2":"<u>Price List:</u><br/>Monthly: $23.95/month<br/>3-Month: $23.32/month = $69.95 - 4x a year<br/>6-Month: $22.83/month = $136.95 - 2x a year<br/>Annual: $21.91/month = $262.95 - 1x a year",
